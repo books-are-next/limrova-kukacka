@@ -1,8 +1,7 @@
 ---
+title: Marie Dobsonová
 contentType: prose
 ---
-
-Marie Dobsonová
 
   
 

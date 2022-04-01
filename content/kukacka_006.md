@@ -1,8 +1,7 @@
 ---
+title: Prolog
 contentType: prose
 ---
-
-Prolog
 
   
 

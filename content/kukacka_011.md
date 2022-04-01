@@ -1,8 +1,7 @@
 ---
+title: Setkání
 contentType: prose
 ---
-
-Setkání
 
   
 
@@ -22,7 +21,7 @@ Nedokázala jsem pochopit, že šéf Collins Industries a rozesmátý mladík n
 
 Odfrkla jsem si. Úplně zbytečné úvahy. Makrela taky nezkoumá povahu žraloka, než se nechá spolknout.
 
-\* \* \*
+* * *
 
   
 
@@ -76,7 +75,7 @@ Dřív, než jsem se nadál, už naše auto rozráželo dav novinářů před br
 
 Ohlásil jsem se nějaké ženě z personálu. Když odešla, usadil jsem se do křesla v hale.
 
-\* \* \*
+* * *
 
   
 
@@ -174,7 +173,7 @@ Představa, že bych někdy šla brečet Helen Kingové na rameno, mi připadala
 
 Vstal a čekal, až se k němu připojím. A mně se najednou fakticky chtělo na vzduch, pryč od Helen. Bez ohledu na to, že na tu procházku půjdu se sněhulákem.
 
-\* \* \*
+* * *
 
   
 
@@ -230,7 +229,7 @@ Nehádala se se mnou. Nekřičela. Dokonce se ani neurazila. Podivné.
 
 Uhnula pohledem a nervózně sepnula ruce. Šli jsme dál. Náš čas už téměř vypršel.
 
-\* \* \*
+* * *
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Zosobněná zkáza
 contentType: prose
 ---
-
-Zosobněná zkáza
 
   
 
@@ -134,7 +133,7 @@ Zavrtěla jsem hlavou, ale nebyla to tak úplně pravda. Tenhle druh strachu byl
 
 Už nic neřekl. Líbal mě. Znovu a znovu. Cesta z kuchyně do pokoje mi ještě nikdy netrvala tak dlouho.
 
-\* \* \*
+* * *
 
   
 
@@ -192,7 +191,7 @@ Chtěl jsem pokračovat v názorné ukázce, že opravdu jsem _jenom_ člověk,
 
 Usmála se. „Miluju tě. A nejsi starej.“
 
-\* \* \*
+* * *
 
   
 
@@ -232,7 +231,7 @@ Tiskla jsem si ruku na tvář, která rychle otékala. Brečela jsem jako dítě
 
 Á zavolal řidiči, aby objel budovu. Byla jsem tak v šoku, že jsem se sotva držela na nohou. Něco uvnitř mě ale bolelo mnohem víc než tvář.
 
-\* \* \*
+* * *
 
   
 

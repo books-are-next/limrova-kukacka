@@ -1,5 +1,7 @@
 ---
+title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-Věnováno Alici O’Really
+_Věnováno Alici O’Really_

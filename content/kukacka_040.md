@@ -1,8 +1,7 @@
 ---
+title: Svět plný soudců
 contentType: prose
 ---
-
-Svět plný soudců
 
   
 
@@ -102,7 +101,7 @@ Přikývl jsem, ale cítil jsem, jak mám najednou sucho v krku. Máma měla na
 
 „Doufám, že se nepleteš,“ zašeptala. „Snažím se milovat všechny své snachy, ale bůh ví, že někdy je to opravdu těžké.“ Výmluvně se zadívala na zavřené dveře, kterými před chvílí zmizela Trish.
 
-\* \* \*
+* * *
 
   
 
@@ -129,6 +128,8 @@ Oni se na sebe podívali, jako by jeden od druhého potřebovali svolení.
 „Počkáme u auta, slečno Dobsonová.“ To byl Terrence, nebo Austin? Těžko říct, byli jako dvojčata.
 
 Když zmizeli, docela se mi ulevilo. Na tohle si asi nikdy nezvyknu.
+
+  
 
 Nové auto i osobní strážce jsem ocenila, jakmile jsme vyjeli na ulici. Vážně jsem si myslela, že se nám fotografové vrhnou na kapotu. Kouřová skla jim bránila fotit. Jedinou možností bylo přední sklo, takže nám někteří doslova vbíhali pod kola. Netušila jsem, jestli řídí Tý, nebo Á, pořád jsem je nedokázala rozeznat. Jeden z nich každopádně zatroubil a bez ohledu na novináře přidal plyn. Fakt tvrdí hoši.
 
@@ -214,7 +215,7 @@ Vyprovodila jsem ji k východu z pavilonu.
 
 „Děkuju,“ pípla jsem. Teď už mě v očích pálily slzy. Janeth mě sevřela v náruči. Na to, jak křehce působila, měla docela pevný stisk.
 
-\* \* \*
+* * *
 
   
 
@@ -318,11 +319,11 @@ Váhala. Zase klopila oči a nervózně si kousala ret.
 
 Když to Marie vyslovila, v první vteřině mě ta informace tak vyděsila, že jsem se jí zdráhal uvěřit. Jenže pak mi došlo, že to do sebe všechno zapadalo.
 
-„Ty to nechápeš. Náš vztah s Helen je… zvláštní. Je těžký dělat si, co chceš, když tvůj život závisí na druhých.“
+_„Ty to nechápeš. Náš vztah s Helen je… zvláštní. Je těžký dělat si, co chceš, když tvůj život závisí na druhých.“_
 
-„Vyhrožuje ti? Hrozí ti, že tě vydědí, když ji neposlechneš?“
+_„Vyhrožuje ti? Hrozí ti, že tě vydědí, když ji neposlechneš?“_
 
-„Tak nějak.“
+_„Tak nějak.“_
 
 „Jak vám vyhrožovala?“ přerušil obhájce proud mých neutěšených vzpomínek na náš dávný rozhovor.
 
@@ -344,7 +345,7 @@ Kolem zahučel vzrušený šepot. Nemohl jsem se pořádně nadechnout. Bezmocn�
 
 Jak jsem si kdy mohl myslet, že jsem lepší člověk než ona?
 
-\* \* \*
+* * *
 
   
 
@@ -370,15 +371,15 @@ Venku jsem se opřela čelem o stěnu. Slyšela jsem volání novinářů, kte�
 
 Museli jsme tam zůstat až do konce projednávání pro případ, že by mě ještě chtěli předvolat. Když soudce vyhlásil přestávku, využil Aaron toho, že na chodbu proudily davy, a přišel za námi. Posadil se na protější lavičku. Díval se na mě. Nakonec vytáhl mobil a upřel na mě významný pohled. Začal psát. Brzy zapípala příchozí zpráva.
 
-Miluju te. Udelam vsechno, abys na to mohla zapomenout. Nici me, ze jsem te s ni nechal. Naznacovala jsi, ze mas potize. Odpust mi to.
+**Miluju te. Udelam vsechno, abys na to mohla zapomenout. Nici me, ze jsem te s ni nechal. Naznacovala jsi, ze mas potize. Odpust mi to.**
 
 Zavrtěla jsem hlavou.
 
-Nic jsi nevedel. Neres to. Miluju te.
+**Nic jsi nevedel. Neres to. Miluju te.**
 
 Odeslala jsem zprávu a usmála se na něj. Byl tady se mnou a všechno se hned zdálo lepší. Viděla jsem jeho oči. Neklidné, plné emocí. Sklonil se k mobilu.
 
-Dal bych si par facek. Je mi strasne lito, ze jsem na tebe kricel. Jsi uzasna.
+**Dal bych si par facek. Je mi strasne lito, ze jsem na tebe kricel. Jsi uzasna.**
 
 Do očí se mi tlačily slzy. Zvedla jsem k němu hlavu a viděla, že vstává. Došel k automatu na vodu a naplnil kelímek. Přinesl mi ho.
 

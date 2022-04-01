@@ -1,8 +1,7 @@
 ---
+title: Kalamita
 contentType: prose
 ---
-
-Kalamita
 
   
 
@@ -90,7 +89,7 @@ Vyplázla jsem na něj jazyk a se srdcem v krku jsem se ho tedy za tu ruku chy
 
 Do lesa jsme vykročili po úzké prošlapané cestě. Musela jsem jít kousek za ním.
 
-\* \* \*
+* * *
 
   
 
@@ -178,7 +177,7 @@ Bezradně jsem se rozhlédl. Taxi tady asi neseženu. Přemlouvat ji už nemělo
 
 Vyčerpávající pochod mi postupně vyhnal všechny hluboké myšlenky z hlavy. Obcházel jsem polomy a často musel jít mimo cestu. Prvních pár set kroků jsem si užíval, jak je Pamela lehká, o půl hodiny později jsem čekal, že mi každou chvíli upadnou ruce. Mé myšlenkové pochody se smrskly na smršť nadávek, které jsem sám na sebe chrlil s každým namáhavým nádechem a výdechem. Slečna Kingová spala.
 
-\* \* \*
+* * *
 
   
 

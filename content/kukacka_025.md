@@ -1,8 +1,7 @@
 ---
+title: Panna, nebo orel
 contentType: prose
 ---
-
-Panna, nebo orel
 
   
 
@@ -20,13 +19,15 @@ Zdálo se, že spí tvrdě a klidně, a tak jsem nakonec odešla. Zpět ke sle
 
 Otevřela jsem si plechovku piva, a abych se nějak zaměstnala, snažila jsem se dopředu hádat teploty ve Státech, předpovídané na další den. Spletla jsem se jen jednou. Meteorologickou mapu už jsem tu noc taky zahlédla nespočetněkrát. Někde mezi Texasem a Kalifornií jsem konečně usnula.
 
+  
+
 Vzbudilo mě ranní slunce, které mi pražilo přímo do obličeje. Kde jsou ty mraky, když je člověk potřebuje? Se zaúpěním jsem si sedla. Záda jsem měla jako přeražená, protože jsem spala v křesle. Při pohledu na stále ještě zapnutou televizi jsem zaznamenala změnu moderátora. Tima vystřídal Max.
 
 Doploužila jsem se do sprchy. Pod proudy vody se mi podařilo uvolnit ztuhlé svaly a vybrečet se do zásoby, abych během dne už nemusela. Uvědomila jsem si, že jsem tentokrát po probuzení nezkontrolovala mobil. Zdálo se to neuvěřitelné, ale Aaron se mi v tom všem na chvíli vykouřil z hlavy. A tak jsem z koupelny vyběhla úplně mokrá, jen omotaná ručníkem. Našla jsem tři ztracená volání a jednu čerstvou textovku.
 
-Chybim ti tolik jako ty mne? Myslim, ze asi ne.
+**Chybim ti tolik jako ty mne? Myslim, ze asi ne.**
 
-Ty sny me dohaneji k silenstvi. Vecere dnes u me? Prosim, nerikej ne. Aaron
+**Ty sny me dohaneji k silenstvi. Vecere dnes u me? Prosim, nerikej ne. Aaron**
 
 A to jsem si myslela, že už nebudu brečet. Aaron neměl tušení, koho si to vlastně bere. Ani to, že někdo zemřel proto, aby k naší svatbě vůbec došlo.
 
@@ -70,11 +71,11 @@ Vrátila jsem se do svého pokoje a cítila se o sto padesát kilo lehčí. P�
 
 Konečně jsem mu odepsala.
 
-Strasne se tesim! Vyzvednes me? Ale asi usnu uprostred vecere. V noci jsem skoro nespala.
+**Strasne se tesim! Vyzvednes me? Ale asi usnu uprostred vecere. V noci jsem skoro nespala.**
 
-Miluju te. Pamela
+**Miluju te. Pamela**
 
-\* \* \*
+* * *
 
   
 

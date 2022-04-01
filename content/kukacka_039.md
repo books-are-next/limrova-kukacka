@@ -1,8 +1,7 @@
 ---
+title: Lov na kukačku
 contentType: prose
 ---
-
-Lov na kukačku
 
   
 
@@ -58,7 +57,7 @@ Láskyplně se na mě podíval.
 
 Pokračoval v jídle. Pokusila jsem se o totéž, i když mi připadalo, že přežvykuju kamínky a písek. Tak o tomhle Aaron mluvil. Tlak na rodinu. Na mou i na tu jeho. Rozbolel mě žaludek.
 
-\* \* \*
+* * *
 
   
 
@@ -86,7 +85,7 @@ Vystoupil jsem z auta a spolu s Georgem čekal, až se z minibusu vysouká v
 
 Trhnul jsem sebou a ruce se mi automaticky sevřely v pěsti. Obrátil jsem se. Zástup pisálků se nechápavě zastavil a zadíval se _špatným_ směrem. Tím směrem, kterým kráčel chlápek v drahém baloňáku. Přímo k ní. Fotil a šklebil se u toho, jako by vyhrál v loterii. A viděl jsem i ji. Jak zbledla a jak pomalu couvá. V očích měla hrůzu.
 
-\* \* \*
+* * *
 
   
 
@@ -130,7 +129,7 @@ Nerozhodně jsem se zadívala na hroudy bahna na svých botách.
 
 „To je v pořádku. Nastupte!“ Teď už to znělo netrpělivě. Ohlížel se přes rameno, jako by se bál, že po nás snad někdo vystřelí. Poslechla jsem bez reptání.
 
-\* \* \*
+* * *
 
   
 
@@ -164,7 +163,7 @@ Dotýkal jsem se jí. Jejích vlasů, čela, tváří i krku. Rukama a potom r
 
 Blázínek. Nikdy jsem nebyl šťastnější. Podržel jsem si její obličej a čekal, dokud neotevře oči a nepodívá se na mě. Toužil jsem, aby poznala ten rozdíl. Přistoupila na mou hru a velmi pozorně si mě prohlížela. Najednou se rozzářila. Ať už to vypadalo jakkoli, našla to.
 
-\* \* \*
+* * *
 
   
 
@@ -256,7 +255,7 @@ Mokrý kabát se konečně vzdal. Aaron se zas od srdce zasmál.
 
 „Spíš mi usiluješ o život. Vážně mě chceš donutit milovat se s tebou v kanceláři na podlaze?“
 
-Milovat se? Na podlaze?
+_Milovat se? Na podlaze?_
 
 „Přehnala jsem to?“ pípla jsem. Bylo mi trapně. Hodně trapně.
 

@@ -1,8 +1,7 @@
 ---
+title: Ekologická lobby
 contentType: prose
 ---
-
-Ekologická lobby
 
   
 
@@ -106,7 +105,7 @@ Ta představa byla absurdní. Měl jsem na Marii vztek? Ano. Vlastně… občas 
 
 Teprve pak jsme si jich všimli. Robert King a Marie stáli na druhé straně liduprázdné haly a vyjeveně nás pozorovali.
 
-\* \* \*
+* * *
 
   
 
@@ -184,11 +183,13 @@ Povzdychla jsem si.
 
 Usmál se a vedl mě k východu.
 
+  
+
 Po večeři jsem si poctivě lehla do postele. Dala jsem si mléko s medem, abych si byla jistá, že rychle usnu, ale nepomohlo to. Po nekonečném převalování jsem zkusila dát polštář na druhou stranu postele. Nic. Následovala snaha domluvit sama sobě pomocí rozumných argumentů. I kdyby soudkyně rozhodla, že nechá můj případ dojít až před Velkou porotu, podle Johna bychom to i tak vyhráli.
 
 Sedla jsem si, pokrčila kolena a položila si na ně hlavu. Ne, tady asi vůbec nešlo o to, co zítra řekne soudkyně. Nezáleželo na tom, jestli dostanu půl roku, nebo pět.
 
-Jak je mu? Myslí na mě? Nebo to nedokáže?
+_Jak je mu? Myslí na mě? Nebo to nedokáže?_
 
 Vstala jsem, nazula si pantofle a sešla dolů do kuchyně. Svítilo se tam.
 
@@ -258,7 +259,7 @@ Vstala jsem a obešla stůl. Objala jsem Boba kolem krku. Strašně moc jsem se
 
 „Dobrou, tati.“
 
-\* \* \*
+* * *
 
   
 
@@ -302,7 +303,7 @@ Dlouze jsem vydechl. Jo, asi bude lepší mlátit do míčků.
 
 „Ty máš jen dvě možnosti,“ pokračoval, aniž jsem se ho prosil. Loupl jsem po něm dost naštvaným pohledem. Zaváhal jen na vteřinu a pak se usmál. „Trestný bod, nebo to zkus odpálit z tý kachny.“
 
-\* \* \*
+* * *
 
   
 

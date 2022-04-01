@@ -1,8 +1,7 @@
 ---
+title: Zahradnické práce
 contentType: prose
 ---
-
-Zahradnické práce
 
   
 
@@ -17,6 +16,8 @@ V recepci jsem se dozvěděla, že místo do skleníku mám zamířit za Jane. 
 „Město vyhlásilo výběrové řízení na revitalizaci bývalého čedičového lomu v Thorntonu. Naše nadace vypracovala projekt. Chceme postavit kombinaci přírodního a zábavního parku.“ Zvedla oči v sloup. „Čistě přírodní park by samozřejmě neprošel. Nevydělal by na sebe. Součástí toho návrhu je výsadba lesoparku, malá zoo, jezírko pro rekreační rybolov a golfové hřiště. A odklepli nám to!“ dodala vítězně.
 
 Gratulovala jsem jí a pak už jsem se ke slovu nedostala. Ted začal chrlit, co, kdy a jak se zasadí. Ještě jsem ho neslyšela mluvit tak dlouho a tak nadšeně. Jane mě zaměstnala objednáváním sazenic podle Tedova seznamu. Ona sama obvolávala dobrovolnické organizace a sháněla lidi. Domů jsem přijela až v noci a úplně vyčerpaná. Zhltla jsem jen velký jogurt a málem jsem usnula za stolem.
+
+  
 
 Ráno jsem vstávala hodně brzy. Radnice nám dala strašně málo času a s pracemi se muselo začít okamžitě. Jak říkal Ted, ty rostliny musí do země co nejdřív. K sídlu nadace jsem se dostala taxíkem. Dorazila jsem zrovna ve chvíli, kdy se houf dobrovolníků s hromadným zíváním tlačil do přistaveného autobusu. Nastoupila jsem a našla si místo skoro vzadu. Rychle jsem snědla koblihy a potom už jsem celkem spokojeně usrkávala kafe z termohrnku.
 
@@ -36,7 +37,7 @@ Zmuchlala jsem noviny a hodila je na podlahu pod sedadlem. Bleskově jsem vysto
 
 „Takže se rozdělíme do skupin!“ slyšela jsem rozjařenou Jane. Pohybovala jsem se zpomaleně. Můj mozek se nacházel v podivně ochromeném stavu. Podle instrukcí jsem se zařadila do party, která měla sázet okrasné keře.
 
-Kim? Ta Kim Už-se-to-nikdy-nestane?
+_Kim? Ta Kim Už-se-to-nikdy-nestane?_
 
 Z přepravky jsem si vzala pracovní rukavice a z korby přistaveného náklaďáčku rýč. Pak už se nedalo nic dělat, musela jsem z batohu vytáhnout kapesníky. Zatímco jsem rýčem dloubala do hlíny, přesvědčovala jsem své běsnící podvědomí, že mi do Aarona Collinse nic není. Je to svobodnej chlap. Je mu přece osmadvacet, a jak sám řekl, když mu pěkná holka dá klíč od pokoje…
 
@@ -64,7 +65,7 @@ V poledne přijela dodávka s obědy. Vyfasovali jsme vojenské ešusy a lž�
 
 Po chvíli se na příjezdové cestě objevilo stříbrné SUV. Zahlédla jsem je jen periferně, jenže pak z auta vystoupili nějací dva chlápci a… Aaron. Dnes byl ve sportovním. Podobně jako tehdy v Kanadě měl na sobě manšestráky, rolák a větrovku. Přemýšlela jsem, kam adresovat stížnost ohledně mého života. Nahoru, nebo dolů? Naštvaně jsem třískla ešusem. Tohle bude chtít ještě spoustu jam a spoustu mozolů. Aniž bych se dívala, co a s kým se pan Collins chystá dělat, vrátila jsem nádobí, popadla rýč a vydala se směrem ke své poslední vykopané díře.
 
-\* \* \*
+* * *
 
   
 
@@ -116,11 +117,11 @@ Spousta kopáčů ještě pokračovala v jídle. Moc jsem se nerozhlížel a d
 
 Až do Chicaga už nepromluvila. Hlodalo ve mně podezření, že ten, na koho se zlobí, jsem já. Automaticky jsem se naštval.
 
-Ona se zlobí na mě?
+_Ona se zlobí na mě?_
 
-Ona?
+_Ona?_
 
-Na mě?
+_Na mě?_
 
 Na jiné myšlenky mě přivedl až její další pokus padnout do mdlob. Stalo se to ve chvíli, kdy jsem nadhodil, že jí tu ránu zřejmě budou muset zašít. Její pleť získala barvu čerstvě napadaného sněhu. Otevřel jsem na ni okno.
 
@@ -192,7 +193,7 @@ V čekárně jsem se pustil do formulářů. Těšil jsem se obzvlášť na pol
 
 Hned na prvním řádku bylo třeba vyplnit jméno. Dopustil jsem se sotva patrného zaváhání. Na tisícinu vteřiny mě napadlo to falešné. Zvedl jsem k ní oči a střetl se s jejím napjatým pohledem. Beze slova jsem je zase sklopil k papíru a napsal:
 
-Marie Dobsonová.
+_Marie Dobsonová._
 
 „Jo, pořád ještě,“ utrousila.
 
@@ -204,7 +205,7 @@ Taky se usmála a mně se najednou strašně ulevilo.
 
 „Hm… taky se mi líbí,“ prozradil jsem sobě i jí a pokračoval ve vyplňování dalších kolonek.
 
-\* \* \*
+* * *
 
   
 
@@ -280,7 +281,7 @@ Zavrtěla jsem hlavou.
 
 Postaral se o všechno. Přinesl mi vodu a prášky. Počkal se mnou pár minut, dokud se táta nepřihnal domů. O tamtom už nepadlo jediné slovo.
 
-\* \* \*
+* * *
 
   
 

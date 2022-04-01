@@ -1,8 +1,7 @@
 ---
+title: Marie Dobsonová II.
 contentType: prose
 ---
-
-Marie Dobsonová II.
 
   
 
@@ -44,7 +43,7 @@ Cítila jsem se podobně, jako když tehdy v lese kousek ode mě spadl strom. Z
 
 „Ona to plánovala,“ hlesla jsem. Vybavila se mi její tvář. I věci, které říkala.
 
-Vezměte si to auto a klidně všechno, co je ve vašem pokoji. Věřte mi, že už to nebudu potřebovat…
+_Vezměte si to auto a klidně všechno, co je ve vašem pokoji. Věřte mi, že už to nebudu potřebovat…_
 
 „Jak to, že mi to nedošlo? Propustila i Gordona!“ vzlykla jsem. Bojovala jsem o dech.
 
@@ -144,7 +143,7 @@ Zaváhala a požádala mě, ať počkám. Ozvalo se cvaknutí a nějaká optim
 
 „King,“ ozvalo se konečně.
 
-\* \* \*
+* * *
 
   
 

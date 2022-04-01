@@ -1,8 +1,7 @@
 ---
+title: Kánoe
 contentType: prose
 ---
-
-Kánoe
 
   
 
@@ -20,7 +19,7 @@ Vstal jsem a odstoupil od ní. Mechanicky jako stroj. Hlavou mi neprošla jedin
 
 Vyšel jsem před kostel a stěží jsem se rozpomínal, kde jsme zaparkovali. Mluvil na mě Bob King. Nějaký procesor v mém mozku uvedl do chodu řečové centrum.
 
-Ne, žádná svatba, pane Kingu…
+_Ne, žádná svatba, pane Kingu…_
 
 Trochu mě probraly až blesky fotoaparátů. Novináři stáli všude kolem. Rozběhl jsem se přes parkoviště. Stálo tam nové, temně modré porsche s nápisem JUST MARRIED na zadním skle. Naštěstí žádné plechovky přivázané k nárazníku. S nohou na plynu jsem projel všechny křižovatky bez ohledu na barvu světel. Kdybych se cestou zabil, asi bych si toho nevšiml.
 
@@ -40,7 +39,7 @@ Táta se postavil vedle mě a mlčky přejel rukou okraj lodi. Díval jsem se n
 
 „Bude to dobrý, synku. Potrvá to. Ale bude to dobrý,“ ujistil mě.
 
-\* \* \*
+* * *
 
   
 
@@ -102,7 +101,7 @@ Pohled mi padl na mobil a váhavě jsem po něm natáhla ruku. Počet zpráv nu
 
 Usnula jsem.
 
-\* \* \*
+* * *
 
   
 
@@ -146,7 +145,7 @@ Přikývla a vstala. Věděl jsem, že mě touží obejmout, ale já zatím nem
 
 „Jsi nejlepší.“
 
-\* \* \*
+* * *
 
   
 
@@ -184,7 +183,7 @@ Nakonec jsem ho přece jen objala, i když ho to víc než překvapilo. Můj mo
 
 Když odešel, v zoufalé naději jsem se podívala na mobil. Žádné nové zprávy.
 
-\* \* \*
+* * *
 
   
 

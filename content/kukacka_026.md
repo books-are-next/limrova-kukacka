@@ -1,8 +1,7 @@
 ---
+title: Poslední den Pamely Kingové
 contentType: prose
 ---
-
-Poslední den Pamely Kingové
 
   
 
@@ -58,7 +57,7 @@ Bylo k neuvěření, že se to všechno stalo sotva před třemi hodinami. Zad�
 
 Dotkla jsem se vlastního obličeje, jen abych se ujistila, že mám opravdu tak spokojený výraz, jak jsem si myslela. Byla jsem si jistá – ještě nikdy v životě jsem nebyla tak šťastná.
 
-\* \* \*
+* * *
 
   
 
@@ -146,7 +145,7 @@ V tu chvíli mi došlo, že to není žádná legrace. Vyděsil jsem se.
 
 „Co je s Pam?!“
 
-\* \* \*
+* * *
 
   
 
@@ -328,7 +327,7 @@ Ani jsem o tom nepřemýšlela. Ve zlomku vteřiny jsem rehabilitovala svůj n�
 
 Vykřikla a vrhla se na mě.
 
-\* \* \*
+* * *
 
   
 
@@ -370,7 +369,7 @@ Tázavě zvedl obočí.
 
 „… Trish bude nejspíš zamčená v ložnici.“
 
-\* \* \*
+* * *
 
   
 

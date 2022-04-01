@@ -1,8 +1,7 @@
 ---
+title: Přiznání
 contentType: prose
 ---
-
-Přiznání
 
   
 
@@ -50,7 +49,7 @@ Zamyslel jsem se. „Janeth bude šťastná, protože jsem i já.“
 
 Zvedla ke mně hlavu a podívala se na mě s nepředstíraným úžasem. Jako by se ptala, jestli jsem to myslel vážně. Bůh mi pomáhej, ale myslel. Rostlo to ve mně každou minutou, aniž bych to dokázal jakkoli ovlivnit. Tak o tomhle Ian mluvil?
 
-\* \* \*
+* * *
 
   
 
@@ -128,7 +127,7 @@ Postavil mě na zem a tlačil před sebou ven ze salonku, ruce ovinuté kolem m
 
 Asi jsem se ho zase držela příliš křečovitě, ale tentokrát nic neřekl.
 
-\* \* \*
+* * *
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Cizí dcera
 contentType: prose
 ---
-
-Cizí dcera
 
   
 
@@ -132,7 +131,7 @@ Musela jsem se usmát. Bob šel přede mnou a nejspíš využil toho, že je ot
 
 „Tak to je skvělá zpráva,“ uzavřel Bob a dál už se k tomu nevracel.
 
-\* \* \*
+* * *
 
   
 
@@ -234,7 +233,7 @@ Usmála se a chvíli se na mě dívala tak zálibně a spokojeně… tak krás
 
 „To mě ale nejdřív budeš muset pustit.“ Zasténal jsem.
 
-\* \* \*
+* * *
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Malá lež
 contentType: prose
 ---
-
-Malá lež
 
   
 
@@ -48,7 +47,7 @@ Nakonec jsem se vrátila do svého pokoje. Prohlížela jsem si fotky Boba Kinga
 
 Zhasla jsem lampičku a zalezla si do postele. Poprvé mi připadala příliš velká.
 
-\* \* \*
+* * *
 
   
 
@@ -98,7 +97,7 @@ Jeho mlčení bylo výmluvnější než tisíc slov.
 
 Přikývl. „Budu se těšit.“ Což v překladu znamenalo: „Mrknu se na ni a dám ti vědět.“
 
-\* \* \*
+* * *
 
   
 
@@ -182,7 +181,7 @@ Zabořila jsem obličej do jeho parádního saka a rozeštkala jsem se naplno. 
 
 Smutně jsem se usmála. Těžko mohl chápat, že s tímhle nic nenadělám.
 
-\* \* \*
+* * *
 
   
 

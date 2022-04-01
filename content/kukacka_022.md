@@ -1,8 +1,7 @@
 ---
+title: "Pan Parker a\_pan Soto"
 contentType: prose
 ---
-
-Pan Parker a pan Soto
 
   
 
@@ -44,7 +43,7 @@ Srdce mi zběsile tlouklo. Měla jsem strach. Něco nebylo v pořádku.
 
 „Dobře,“ odpověděla jsem a naposledy toho chlapa přejela zkoumavým pohledem. Zvedl ruku, jako by se dotýkal krempy neviditelného klobouku. „Slečno Kingová, těšilo mě.“
 
-Takže mě zná…
+_Takže mě zná…_
 
 Přešla jsem most a nutila se ke klidu. Pamelu zná přece skoro každý. Ohlédla jsem se přes rameno. Zamířili hlouběji do parku a o něčem tiše mluvili. Policajt nebo detektiv. Určitě.
 
@@ -62,13 +61,13 @@ Zvedla jsem hlavu. A pevně se chytila pultu, protože vážně hrozilo, že se
 
 Nedokázala jsem se pohnout. Na několik dlouhých vteřin jsem nad sebou absolutně ztratila kontrolu. Zírala jsem na něj a jen lapala po dechu. Jeho výraz se z typicky rozzářeného změnil na obyčejný úsměv. Zvedl obočí a založil si ruce na hrudi. Mlčel.
 
-Klid! Vzpamatuj se! Nešil!
+_Klid! Vzpamatuj se! Nešil!_
 
 Konečně jsem se jakž takž probrala.
 
 „Mimózu, prosím,“ hlesla jsem. Na barové židli jsem se otočila trochu bokem. Předstírala jsem, že někoho vyhlížím. Bylo mi na omdlení.
 
-Co tady dělá?! Nathan Soto a poctivá práce?! Nebo je to nějaká akce? To bylo pravděpodobnější. Něco jako mé ultrakrátké zaměstnání v divadle…
+_Co tady dělá?! Nathan Soto a poctivá práce?! Nebo je to nějaká akce? To bylo pravděpodobnější. Něco jako mé ultrakrátké zaměstnání v divadle…_
 
 Periferně jsem viděla, jak připravuje sklenici a něco do ní lije. Kradmo jsem se mu podívala na ruce. Nesly stopy neodstranitelných skvrn od motorového oleje v záhybech kloubů. Takže jsem měla pravdu. Asi tu byl jen na skok. Musím to nějak vydržet. Prostě musím. I když bych ho nejradši objala a umačkala k smrti. I když bych se s ním chtěla někde zašít a vyprávět mu celý ten šílený příběh. Jestli jsem někdy měla pocit, že mám skutečnou rodinu, bylo to s Nathanem a Teem.
 
@@ -178,7 +177,7 @@ Opatrně jsem slezla ze židle a chvíli jen zhluboka dýchala, dokud se svět 
 
 Helen si jako ledoborec prorážela cestu k Aaronovi. Rozběhla jsem se za ní. Neměla jsem tušení, o co jde, ale rozhodně jsem chtěla být u toho.
 
-\* \* \*
+* * *
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Skleníkový efekt
 contentType: prose
 ---
-
-Skleníkový efekt
 
   
 
@@ -36,6 +35,8 @@ Podíval se na mě, jako bych neměla všech pět pohromadě.
 
 „Půjdu na ryby,“ konstatoval Bob a odešel. Celý následující týden pak seděl na telefonu nebo zíral do zdi. Těch nul bylo moc i na někoho s takovými nervy, jako měl on.
 
+  
+
 Když nastal čas splácet dluh společnosti, skoro se mi ulevilo. Alespoň jsem měla důvod jít ven. Na cestu do nadace jsem si vzala taxík. Novináři čekali před naším domem a podezřele připomínali roj divokých včel. Mohla jsem jen doufat, že je to časem prostě přejde.
 
 Sídlo nadace Green Future leželo na okraji Grantova parku, v těsném sevření mezi lány tenisových kurtů a páchnoucí zaprášenou magistrálou Lake Shore Drive. Byla to dvoupodlažní prosklená budova, která svým tvarem vzdáleně připomínala Pentagon. Kromě nadace tam měla své kanceláře řada menších firem. Na recepci jsem nahlásila jméno a předložila svůj čerstvý pravý řidičák. Vrátný mě nasměroval do druhého patra sekce „B“. Dveře s logem zelené duhy se nedaly přehlédnout.
@@ -64,7 +65,7 @@ Ulevilo se mi. Celou uplynulou noc jsem se převalovala. Zdály se mi noční m�
 
 Než jsem seběhla schody a vyrazila po štěrkové cestě mezi stromy, kde se jako obrácená skleněná mísa vyhříval pavilon exotických rostlin, musela jsem si přiznat, že jsem tak trochu zklamaná.
 
-Žádní sloni…
+_Žádní sloni…_
 
 Ted byl hubený, lehce nazrzlý blonďák s rozježeným plnovousem a hodně vysokým čelem. Zastihla jsem ho v odrbaných džínách, kdysi bílém tílku a se sluchátky na uších. Moc toho nenamluvil. Na většinu mých otázek odpovídal: „Hm.“ Dal mi montérky a rukavice a zavedl mě k záhonu temně hnědé hlíny, vedle kterého stály přepravky plné sazenic nějakých kytek.
 
@@ -84,7 +85,7 @@ Kousek za mnou se ozval rachot. Vyskočila jsem a málem si přitom podvrtla ko
 
 V nově vzniklém průhledu mezi policemi se pak objevila překvapená a viditelně rozpačitá tvář Aarona Collinse.
 
-\* \* \*
+* * *
 
   
 
@@ -222,7 +223,7 @@ Sklopila oči a zadívala se na svou ruku. Stáhla z ní prsten a váhavě mi
 
 „Kdyby sis chtěl promluvit…,“ špitla. Vykání, které jsme začali používat se změnou jejího jména, se někam ztratilo.
 
-Ne, nechtěl. Co tady vlastně dělám?
+_Ne, nechtěl. Co tady vlastně dělám?_
 
 „Pomohlo by to něčemu? Pomohlo by to tobě?“ odpověděl jsem odměřeně. Nehodlal jsem mluvit o tom, co bych chtěl, nebo nechtěl já.
 
@@ -230,7 +231,7 @@ Ne, nechtěl. Co tady vlastně dělám?
 
 Strčil jsem prsten do kapsy. Podíval jsem se na ni a znovu mě smetla přílivová vlna nevítaných emocí. Marie připomínala vyplašené zvířátko. Ptáče, které vypadlo z hnízda. Jako bez vlastní vůle jsem jí položil ruku na tvář. Celá se ke mně upínala a pohledem mi visela na rtech.
 
-Kdo vlastně jsi, Marie?
+_Kdo vlastně jsi, Marie?_
 
 „Dobře. Večer tě tu vyzvednu.“
 

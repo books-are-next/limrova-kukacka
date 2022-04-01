@@ -1,8 +1,7 @@
 ---
+title: Srub
 contentType: prose
 ---
-
-Srub
 
   
 
@@ -89,6 +88,8 @@ Rozhlédla jsem se. Byla to krásná koupelna, s velkou vanou, dvěma umyvadly 
 Takže Aaronova rodina. Hlavou mi blesklo, že pokud se vezmeme, stanu se její součástí. Zároveň mě zamrazilo. Jak jsem pochopila z toho, co jsem před chvílí slyšela, matka nebyla jediná z rodiny, kdo neměl Pamelu rád. Zajímalo by mě, jestli by se na světě takový člověk vůbec našel. Aaron novinářům neposkytoval téměř žádné soukromé informace. Věděla jsem jen to, že jeho matka Janeth je už mnoho let vdovou a že chová úspěšné závodní koně. Kromě Ethana by měl mít Aaron ještě jednoho ženatého bratra.
 
 Dala jsem si horkou sprchu a celou dobu přemýšlela nad tím, co má Aaron vlastně v plánu. Jeho doporučení, abych byla sama sebou a užila si to, se vzájemně vylučovala. Byla jsem tak nervózní, že o nějakém užívání si nemohla být ani řeč. Nervózně jsem si připomínala, jak usilovně Aaron přesvědčoval Ethana, že jsem… v pohodě.
+
+  
 
 O půl hodiny později jsem vešla do rozlehlé kuchyně. Žádný přepych, ale všechno vypadalo pěkně. Na stole stál hrnek s kouřícím čajem, talíř lívanců a javorový sirup. Aaron na mě čekal. Zatímco jsem byla ve sprše, převlékl se. Teď měl na sobě sportovní rolák a manšestráky. Vypadal ještě drsněji než obvykle. Jako by patřil víc sem než do kanceláře. Slušelo mu to. Sedla jsem si a nerozhodně pozorovala voňavé jídlo. Můj žaludek se ozýval tak hlasitě, že to muselo být slyšet.
 
@@ -194,7 +195,7 @@ Zkusila jsem spát, ale kvílivé zvuky bouře za oknem mi nedovolily pořádně
 
 Těsně předtím, než jsem konečně usnula, jsem si musela přiznat, že ta potřeba nemá nic společného s Heleninými záměry. Prostě jsem chtěla, aby mě měl… rád.
 
-\* \* \*
+* * *
 
   
 
@@ -240,7 +241,7 @@ Nastalo dlouhé ticho. Tázavě jsem se na ni podíval.
 
 „Nic se nestalo,“ špitla a uhnula pohledem.
 
-\* \* \*
+* * *
 
   
 

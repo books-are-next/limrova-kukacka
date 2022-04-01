@@ -1,8 +1,7 @@
 ---
+title: "Tváří v\_tvář"
 contentType: prose
 ---
-
-Tváří v tvář
 
   
 
@@ -104,7 +103,7 @@ Nervózně jsem se zadívala na čekajícího Aarona a pak na ni.
 
 Když odjela, obklopila mě tma. Byla jsem za to vděčná. Musela jsem vypadat strašně.
 
-\* \* \*
+* * *
 
   
 

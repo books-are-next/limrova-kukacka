@@ -1,8 +1,7 @@
 ---
+title: Škody po bouřce
 contentType: prose
 ---
-
-Škody po bouřce
 
   
 
@@ -122,7 +121,7 @@ Polilo mě horko. Už jen představa, že Aaron bude svědčit, mi způsobovala 
 
 „Půjdeme domů, Marie. Cestou se zastavíme pro tvé věci. Zkus si s tím teď nelámat hlavu,“ uklidňoval mě Bob. Musela jsem vypadat vyděšeně.
 
-\* \* \*
+* * *
 
   
 
@@ -164,7 +163,7 @@ Janeth mlčela. Ani ona tomu nejspíš nerozuměla.
 
 Neměl jsem nejmenší tušení. Nedávalo to smysl. Přihlásila se na policii? Proč?
 
-\* \* \*
+* * *
 
   
 
@@ -190,7 +189,7 @@ Sevřela jsem si ruce mezi kolena.
 
 Přikývla jsem a pak jsem se s výmluvou, že uvařím další čaj, ztratila do kuchyně. Zatímco se ohřívala voda, klesla jsem na židli a rozbrečela se. Přiznání, to byla jedna věc. Ale žít s tím, co jsem udělala? Totální peklo.
 
-\* \* \*
+* * *
 
   
 
@@ -216,7 +215,7 @@ Dívali jsme se na sebe. Čekal jsem, že větu dokončí, ale on mlčel.
 
 „Já nevím, brácho. Myslím si, že tvůj život bude mnohem klidnější, když po tom přestaneš pátrat a prostě na ni zapomeneš.“
 
-\* \* \*
+* * *
 
   
 
@@ -260,7 +259,7 @@ Neklidně jsem se zavrtěla na židli a podívala se na Johna. Pousmál se a p
 
 „Ano, Vaše ctihodnosti. Předvolávám Aarona Collinse.“
 
-\* \* \*
+* * *
 
   
 
@@ -326,13 +325,13 @@ Mluvit o majetku bylo tak snadné! Mnohem snadnější než o těch ostatních
 
 Soudkyni jsem vnímal jen okrajově. Snad jsem přikývl. Musel jsem se totiž ještě jednou podívat na ni, na Marii.
 
-Marie.
+_Marie._
 
 To jméno se k ní hodilo i víc. Dívala se na mě vyděšeně a omluvně. Křečovitě svírala zápěstí svého obhájce. Vzpomněl jsem si na náš let do Kanady…
 
 Následující nádech byl snad prvním opravdovým za posledních osm dní. A rozhodnutí, které jsem udělal, bylo naprosto nepromyšlené a impulzivní.
 
-\* \* \*
+* * *
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Šeherezáda
 contentType: prose
 ---
-
-Šeherezáda
 
   
 
@@ -20,6 +19,8 @@ Když jsem zastavil a celé to stádo se začalo hrnout ke mně, roz­běhl se.
 
 „To nic nebylo, holčičko,“ zaslechl jsem ještě. Pobaveně jsem si umínil, že pokud to nebude nezbytně nutné, nebudu po zbytek dne opouštět kancelář.
 
+  
+
 K domu Kingových jsem se dostal až kolem desáté večer. Celé odpoledne jsem dumal nad tím, co se mi Marie chystá říct. Bude to hodně zlé? Pár věcí jsem zachytil v novinách, ale moc toho nebylo. Dokud Marie nedosáhne dospělosti, nesměli to rozmazávat. Takže jsem věděl jenom tolik, že její biologický otec je šéfem chicagské policie, matka si odpykává trest za pokus o přepadení banky a že Marie posledních pár let nežila zrovna vzorně. Její minulost zahrnovala mimo jiné vykrádání aut. A taky obrovského Hispánce, který ji směl objímat a říkat jí Kuře. Mohl bych poslat Parkera, aby mi o Marii i o tom chlapovi zjistil všechno, co půjde, ale neudělal jsem to. Touhle cestou už jsem se vydat nechtěl.
 
 Otevřel mi Bob. Novináři, kteří se mi hned po odjezdu z práce pověsili na záda, stepovali za plotem a fotili nás, jak si třeseme rukama.
@@ -36,7 +37,7 @@ Podal mi kouřící hrnek. Nerozhodně se na mě díval, jako by se chtěl na n�
 
 Přikývl. Neměl potřebu mě zpovídat a já mu za to byl vděčný. Mávl rukou ke schodišti, a tak jsem se vydal nahoru.
 
-\* \* \*
+* * *
 
   
 
@@ -144,7 +145,7 @@ Přisunul se ještě blíž. Hlavu si položil až ke mně na polštář.
 
 „Dva dny mi bylo zle. Možná proto mě poldové celkem snadno chytili v sámošce. A tenkrát jsem poprvé potkala Boba.“ Usmála jsem se. „Byl strašně hodnej. Tenkrát mi to neřekl, ale už pár let mě hledal. Tušil, že jsem jeho, i když mu to máma zapřela. Pořád doufala, že se Jim vrátí. Byla do něj zamilovaná už od střední.“
 
-\* \* \*
+* * *
 
   
 
@@ -220,7 +221,7 @@ Navzdory všem antipatiím k tomu golemovi jsem nemohl ignorovat jasná fakta. 
 
 A bylo to tu. Věděl jsem to. Od první chvíle, kdy jsem viděl jeho ruce kolem jejího pasu. Od chvíle, kdy jsem zahlédl jeho obličej. Byl to přece mafián! Jakmile to vyslovila, polila mě hrůza. Vyskočil jsem z postele a začal se šacovat.
 
-Kde je ten pitomej mobil?! George asi nebude skákat radostí, že ho ruším, ale je to profík. Hned někoho sežene. Kde mám ten pitomej…
+_Kde je ten pitomej mobil?! George asi nebude skákat radostí, že ho ruším, ale je to profík. Hned někoho sežene. Kde mám ten pitomej…_
 
 Marie seděla na posteli a nechápavě mě pozorovala. „Co je?“
 
