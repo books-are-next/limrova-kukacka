@@ -1,8 +1,7 @@
 ---
+title: "Kriminál a\_kostel"
 contentType: prose
 ---
-
-Kriminál a kostel
 
   
 
@@ -20,9 +19,9 @@ Starosti spolu s mýdlovou pěnou odplavila horká voda a mně se vrátily my�
 
 Na displeji zářila obálka příchozí zprávy.
 
-Jsi uzasna. Miluju te. Aaron
+**Jsi uzasna. Miluju te. Aaron**
 
-P. S. Pomaha aspirin…
+**P. S. Pomaha aspirin…**
 
 Úžasná? To určitě. Ale stejně jsem se začala spokojeně usmívat. Vrátila jsem se do koupelny a pomocí vatového tampónu z obličeje odstranila poslední zbytky včerejšího flámu. Pocit nevolnosti se mezitím změnil v ukrutný hlad. Nastal čas sejít do jídelny a čelit Helen. Moje nálada rázem klesla k bodu mrazu.
 
@@ -46,7 +45,7 @@ Její stále sílící hlas vůbec nedělal dobře mé bolavé hlavě. A předs
 
 „Na nic z toho, co se děje, jsi mě nepřipravila!“ obvinila jsem ji. „Ty nemůžeš spát? A co já?! Každej blbej den se bojím, jaká novinka na mě zase vybafne. Nejdřív ses mi jaksi zapomněla zmínit, že se Pamela bude vdávat. A taky ti nějak uniklo, že to byla děvka…“
 
-Ups.
+_Ups._
 
 Nejradši bych si překousla jazyk. Tohle jsem přehnala. Helen seděla u stolu podobná voskové figuríně.
 
@@ -114,11 +113,13 @@ Očichávala jsem záplavu květin a znovu mě přepadl pocit, že si toho chla
 
 Všimla jsem si zlacené kartičky zastrčené mezi květy a vytáhla ji.
 
-Po včerejšku nevím, jestli nemáš vokno, tak se radši připomínám. Zlom vaz! Pár měsíců se ti do ničeho nebudu montovat.
+_Po včerejšku nevím, jestli nemáš vokno, tak se radši připomínám. Zlom vaz! Pár měsíců se ti do ničeho nebudu montovat._
 
 _Starý přítel_
 
 Tu kytku jsem odhodila, jako by byla jedovatá. Vypotácela jsem se z jídelny. Než jsme s Helen vyrazily na zkoušku šatů, zavřela jsem se v koupelně.
+
+  
 
 Po celou dobu návštěvy salonu jsem byla mimo. Strach z budoucnosti měl účinky velké kostky ledu v břiše, která se ne a ne rozpustit. Nevnímala jsem, co se kolem děje. Kam mě postavili, tam jsem zůstala. Když mi to přikázali, zvedla jsem ruce. Na povel jsem se otáčela.
 
@@ -148,7 +149,7 @@ Raději jsem si zase přečetla Aaronovu dnes už desátou zprávu. Napsal ji t�
 
 Helen s napjatým výrazem přikývla.
 
-\* \* \*
+* * *
 
   
 
@@ -182,7 +183,7 @@ Potlačil jsem smích.
 
 Bob ale souhlasil. Na rozdíl od své ženy se totiž zdál být tou nabídkou vysloveně potěšený.
 
-\* \* \*
+* * *
 
   
 

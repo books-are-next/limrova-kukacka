@@ -1,8 +1,7 @@
 ---
+title: Únos
 contentType: prose
 ---
-
-Únos
 
   
 
@@ -34,7 +33,7 @@ Brána rezidence Kingových byla otevřená dokořán. Minuly mě dvě odjížd�
 
 Rozvázal jsem si kravatu a svlékl sako. Vyběhl jsem těch pár schodů a zkusil otevřít. Nebylo zamčeno. Opatrně jsem nakoukl dovnitř. A měl jsem štěstí. Těžko říct, kde se tam vzala, ale byla tam. A sama. Napůl seděla, napůl ležela na křesle, nohy jen tak naboso přehozené přes opěrku. Uhranutě jsem zíral na její dlouhé nohy a rozparek šatů, který se posunul o dalších deset vražedných centimetrů výš. Pamela spala, jednu ruku na tváři, jako to dělávají malé děti. Nemohla mě zneklidňovat těma velkýma očima, ale docela dobře to zvládla pootevřenými rty. V těch titěrných šatičkách vypadala jako malá mořská víla.
 
-\* \* \*
+* * *
 
   
 
@@ -178,7 +177,7 @@ Taky zvážněl, i když lehký úsměv z jeho tváře nezmizel.
 
 „Měl bych mít normální rodinu.“
 
-Helen mě nezabije! Prodá mě do otroctví. Nebo lidožroutům.
+_Helen mě nezabije! Prodá mě do otroctví. Nebo lidožroutům._
 
 „Ty do toho obchodu nejdeš?“ Můj hlas zněl plačtivě. Nemohla jsem si pomoct. Asi jsem to celé zabila.
 
@@ -186,7 +185,7 @@ Strach ale vzápětí vystřídala strnulost. Jeho zelené oči byly najednou to
 
 „To záleží jenom na tobě. Uvidíme.“
 
-\* \* \*
+* * *
 
   
 
@@ -234,7 +233,7 @@ Vystoupali jsme na letovou hladinu a Pamela se konečně uklidnila. Na šampaň
 
 Lehl jsem si na bok čelem k ní a nenápadně ji pozoroval skrz přivřené oči. Přeprala své sedadlo a konečně zůstala klidně ležet. Dívala se na mě. Upřeně a zkoumavě. Pomalu jsem usínal. Poslední, co jsem viděl, byl její zamyšlený výraz.
 
-\* \* \*
+* * *
 
   
 

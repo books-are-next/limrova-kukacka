@@ -1,0 +1,910 @@
+{
+  "author": "Karolina Limrová",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "limrova-kukacka-20cc9db",
+  "languagecode": "cs",
+  "modified": "2021-03-18T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Kukačka",
+  "revision": "20cc9db",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 10:21:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648808511491
+  },
+  "documents": [
+    {
+      "title": "Kukačka",
+      "file": "kukacka_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kukacka_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kukačka",
+      "file": "kukacka_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kukacka_002.html",
+      "next": "kukacka_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog • Kukačka",
+      "file": "kukacka_006.html",
+      "words": 306,
+      "chars": 1889,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kukacka_005.html",
+      "next": "kukacka_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marie Dobsonová • Kukačka",
+      "file": "kukacka_007.html",
+      "words": 3202,
+      "chars": 19455,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kukacka_006.html",
+      "next": "kukacka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marie Dobsonová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fúze • Kukačka",
+      "file": "kukacka_008.html",
+      "words": 1912,
+      "chars": 11613,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kukacka_007.html",
+      "next": "kukacka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fúze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pamela Kingová • Kukačka",
+      "file": "kukacka_009.html",
+      "words": 2340,
+      "chars": 13921,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kukacka_008.html",
+      "next": "kukacka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pamela Kingová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Aaron Collins • Kukačka",
+      "file": "kukacka_010.html",
+      "words": 2875,
+      "chars": 17177,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kukacka_009.html",
+      "next": "kukacka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Aaron Collins",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Setkání • Kukačka",
+      "file": "kukacka_011.html",
+      "words": 3513,
+      "chars": 20858,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kukacka_010.html",
+      "next": "kukacka_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Setkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miláček médií • Kukačka",
+      "file": "kukacka_012.html",
+      "words": 3593,
+      "chars": 21852,
+      "ideas": 158,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kukacka_011.html",
+      "next": "kukacka_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miláček médií",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tříčtvrteční takt • Kukačka",
+      "file": "kukacka_013.html",
+      "words": 4071,
+      "chars": 24137,
+      "ideas": 170,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kukacka_012.html",
+      "next": "kukacka_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tříčtvrteční takt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Únos • Kukačka",
+      "file": "kukacka_014.html",
+      "words": 3664,
+      "chars": 21504,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kukacka_013.html",
+      "next": "kukacka_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Únos",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Srub • Kukačka",
+      "file": "kukacka_015.html",
+      "words": 2741,
+      "chars": 15948,
+      "ideas": 151,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kukacka_014.html",
+      "next": "kukacka_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srub",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kalamita • Kukačka",
+      "file": "kukacka_016.html",
+      "words": 3350,
+      "chars": 19594,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kukacka_015.html",
+      "next": "kukacka_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kalamita",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nevinnost sama • Kukačka",
+      "file": "kukacka_017.html",
+      "words": 3786,
+      "chars": 21894,
+      "ideas": 153,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kukacka_016.html",
+      "next": "kukacka_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nevinnost sama",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malá lež • Kukačka",
+      "file": "kukacka_018.html",
+      "words": 2878,
+      "chars": 16758,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kukacka_017.html",
+      "next": "kukacka_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malá lež",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cizí dcera • Kukačka",
+      "file": "kukacka_019.html",
+      "words": 3117,
+      "chars": 18065,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 15,
+      "prev": "kukacka_018.html",
+      "next": "kukacka_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cizí dcera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přiznání • Kukačka",
+      "file": "kukacka_020.html",
+      "words": 2099,
+      "chars": 12385,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 16,
+      "prev": "kukacka_019.html",
+      "next": "kukacka_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přiznání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zamilovaná • Kukačka",
+      "file": "kukacka_021.html",
+      "words": 3156,
+      "chars": 18606,
+      "ideas": 149,
+      "role": "chapter",
+      "order": 17,
+      "prev": "kukacka_020.html",
+      "next": "kukacka_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zamilovaná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pan Parker a pan Soto • Kukačka",
+      "file": "kukacka_022.html",
+      "words": 3603,
+      "chars": 21066,
+      "ideas": 173,
+      "role": "chapter",
+      "order": 18,
+      "prev": "kukacka_021.html",
+      "next": "kukacka_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pan Parker a pan Soto",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kriminál a kostel • Kukačka",
+      "file": "kukacka_023.html",
+      "words": 2965,
+      "chars": 17460,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 19,
+      "prev": "kukacka_022.html",
+      "next": "kukacka_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kriminál a kostel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tragédie jako od Shakespeara • Kukačka",
+      "file": "kukacka_024.html",
+      "words": 2715,
+      "chars": 16060,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 20,
+      "prev": "kukacka_023.html",
+      "next": "kukacka_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tragédie jako od Shakespeara",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Panna, nebo orel • Kukačka",
+      "file": "kukacka_025.html",
+      "words": 2377,
+      "chars": 14068,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 21,
+      "prev": "kukacka_024.html",
+      "next": "kukacka_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Panna, nebo orel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední den Pamely Kingové • Kukačka",
+      "file": "kukacka_026.html",
+      "words": 4148,
+      "chars": 24342,
+      "ideas": 186,
+      "role": "chapter",
+      "order": 22,
+      "prev": "kukacka_025.html",
+      "next": "kukacka_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední den Pamely Kingové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmilhářka • Kukačka",
+      "file": "kukacka_027.html",
+      "words": 3365,
+      "chars": 19833,
+      "ideas": 156,
+      "role": "chapter",
+      "order": 23,
+      "prev": "kukacka_026.html",
+      "next": "kukacka_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmilhářka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kánoe • Kukačka",
+      "file": "kukacka_028.html",
+      "words": 2937,
+      "chars": 17048,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 24,
+      "prev": "kukacka_027.html",
+      "next": "kukacka_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kánoe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utíkání • Kukačka",
+      "file": "kukacka_029.html",
+      "words": 2847,
+      "chars": 16409,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 25,
+      "prev": "kukacka_028.html",
+      "next": "kukacka_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Utíkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marie Dobsonová II. • Kukačka",
+      "file": "kukacka_030.html",
+      "words": 2967,
+      "chars": 17246,
+      "ideas": 158,
+      "role": "chapter",
+      "order": 26,
+      "prev": "kukacka_029.html",
+      "next": "kukacka_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marie Dobsonová II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Škody po bouřce • Kukačka",
+      "file": "kukacka_031.html",
+      "words": 3997,
+      "chars": 24173,
+      "ideas": 170,
+      "role": "chapter",
+      "order": 27,
+      "prev": "kukacka_030.html",
+      "next": "kukacka_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Škody po bouřce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ekologická lobby • Kukačka",
+      "file": "kukacka_032.html",
+      "words": 3089,
+      "chars": 18347,
+      "ideas": 171,
+      "role": "chapter",
+      "order": 28,
+      "prev": "kukacka_031.html",
+      "next": "kukacka_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ekologická lobby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skleníkový efekt • Kukačka",
+      "file": "kukacka_033.html",
+      "words": 2615,
+      "chars": 15570,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 29,
+      "prev": "kukacka_032.html",
+      "next": "kukacka_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skleníkový efekt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tváří v tvář • Kukačka",
+      "file": "kukacka_034.html",
+      "words": 2049,
+      "chars": 12046,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 30,
+      "prev": "kukacka_033.html",
+      "next": "kukacka_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tváří v tvář",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vysušené hovězí • Kukačka",
+      "file": "kukacka_035.html",
+      "words": 2909,
+      "chars": 17237,
+      "ideas": 147,
+      "role": "chapter",
+      "order": 31,
+      "prev": "kukacka_034.html",
+      "next": "kukacka_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vysušené hovězí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zahradnické práce • Kukačka",
+      "file": "kukacka_036.html",
+      "words": 3296,
+      "chars": 19274,
+      "ideas": 159,
+      "role": "chapter",
+      "order": 32,
+      "prev": "kukacka_035.html",
+      "next": "kukacka_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zahradnické práce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kancelářské práce • Kukačka",
+      "file": "kukacka_037.html",
+      "words": 3506,
+      "chars": 20141,
+      "ideas": 168,
+      "role": "chapter",
+      "order": 33,
+      "prev": "kukacka_036.html",
+      "next": "kukacka_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kancelářské práce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šeherezáda • Kukačka",
+      "file": "kukacka_038.html",
+      "words": 3611,
+      "chars": 20609,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 34,
+      "prev": "kukacka_037.html",
+      "next": "kukacka_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šeherezáda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lov na kukačku • Kukačka",
+      "file": "kukacka_039.html",
+      "words": 3601,
+      "chars": 21121,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 35,
+      "prev": "kukacka_038.html",
+      "next": "kukacka_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lov na kukačku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svět plný soudců • Kukačka",
+      "file": "kukacka_040.html",
+      "words": 4089,
+      "chars": 24235,
+      "ideas": 191,
+      "role": "chapter",
+      "order": 36,
+      "prev": "kukacka_039.html",
+      "next": "kukacka_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svět plný soudců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zosobněná zkáza • Kukačka",
+      "file": "kukacka_041.html",
+      "words": 3293,
+      "chars": 19523,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 37,
+      "prev": "kukacka_040.html",
+      "next": "kukacka_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zosobněná zkáza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pálení mostů • Kukačka",
+      "file": "kukacka_042.html",
+      "words": 2673,
+      "chars": 15451,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 38,
+      "prev": "kukacka_041.html",
+      "next": "kukacka_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pálení mostů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vydírání • Kukačka",
+      "file": "kukacka_043.html",
+      "words": 3268,
+      "chars": 18747,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 39,
+      "prev": "kukacka_042.html",
+      "next": "kukacka_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vydírání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epilog • Kukačka",
+      "file": "kukacka_044.html",
+      "words": 856,
+      "chars": 5034,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 40,
+      "prev": "kukacka_043.html",
+      "next": "kukacka_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kukačka",
+      "file": "kukacka_045.html",
+      "words": 73,
+      "chars": 553,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 41,
+      "prev": "kukacka_044.html",
+      "next": "kukacka_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kukačka",
+      "file": "kukacka_046.html",
+      "words": 43,
+      "chars": 282,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "kukacka_045.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Kukačka",
+      "file": "colophon.html",
+      "words": 95,
+      "chars": 626,
+      "ideas": 10,
+      "role": "colophon",
+      "order": null,
+      "prev": "kukacka_046.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 117595,
+      "chars": 692191,
+      "ideas": 5284
+    },
+    "chapters": {
+      "words": 117495,
+      "chars": 691531,
+      "ideas": 5270
+    }
+  }
+}

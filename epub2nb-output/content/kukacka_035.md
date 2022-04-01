@@ -1,8 +1,7 @@
 ---
+title: Vysušené hovězí
 contentType: prose
 ---
-
-Vysušené hovězí
 
   
 
@@ -18,9 +17,9 @@ Prošli jsme masivní obrněnou branou, která vypadala, jako by místní oček�
 
 Následovalo vyplňování formuláře.
 
-Sdělte účel návštěvy…
+_Sdělte účel návštěvy…_
 
-V jakém jste s osobou, kterou chcete navštívit, vztahu…
+_V jakém jste s osobou, kterou chcete navštívit, vztahu…_
 
 Nakonec jsme podepsali _Nenesu-nic,-co-by-pomohlo-k-útěku_ prohlášení. Policistovi, který se podobal spíš šatnáři z fitka, jsme předložili doklady.
 
@@ -68,7 +67,7 @@ Máma se rozzářila a tím jediným úsměvem najednou omládla o patnáct le
 
 Zpátky k autu jsme se vraceli mlčky. Venku se mezitím rozzářilo slunce. Vítr odfoukal mraky a povedlo se mu to i s tím velkým černým, co mi seděl na srdci. Alespoň pro tuhle chvíli.
 
-\* \* \*
+* * *
 
   
 
@@ -136,7 +135,7 @@ Zprávu o chystaném prodeji King Petroleum jsem do _Chicago Tribune_ odeslal j
 
 Zavolal jsem Eltonovi a požádal ho, aby dal zatím všechno ostatní k ledu, včetně smlouvy s Daherem. Brzy pro něj totiž budeme mít něco mnohem zajímavějšího. Black Crown se stala prioritou.
 
-\* \* \*
+* * *
 
   
 
@@ -154,7 +153,7 @@ Slila jsem vodu z asi pěti kil brambor a přikryté poklicí je nechala stát
 
 „Já teď nemůžu!“ odpověděl.
 
-To by mě zajímalo, proč by nemohl…
+_To by mě zajímalo, proč by nemohl…_
 
 Pro jistotu jsem vypnula troubu a vydala jsem se ke dveřím.
 
@@ -260,7 +259,7 @@ Němě jsem přikývla. Snažila jsem se přijít na to, jestli ta věta neobsah
 
 „To kafe už je asi hotový,“ upozornil mě.
 
-Kafe?
+_Kafe?_
 
 Překvapeně jsem se podívala na plnou konvici. Nalila jsem kávu do připravených hrnků.
 
@@ -268,7 +267,7 @@ Překvapeně jsem se podívala na plnou konvici. Nalila jsem kávu do připraven
 
 Aaron velmi opatrně odcházel a přitom bedlivě sledoval podnos. Přesto maličko rozbryndal.
 
-\* \* \*
+* * *
 
   
 
@@ -307,5 +306,7 @@ Protočil jsem oči.
 „Je mi to líto, Bev,“ reagoval jsem upřímně. I když si nikdo z rodiny nestěžoval, věděl jsem, že poslední týdny byly pro všechny jako očistec. Trish a Ethan to vyřešili oslavou deseti měsíců, které uplynuly od jejich svatby, a odjeli na druhé líbánky. Doufal jsem, že se Ethanovi podaří přivézt svou ženu zpět v mnohem lepším rozpoložení. Po zrušené svatbě se z ní totiž stala přímo divá harpyje.
 
 „Neomlouvej se,“ zarazila mě Beverly. „Nemůžeš za to. Jen přijeď včas, ano? Hodlám si to tam užít.“
+
+  
 
 Z večírku u příležitosti otevření nové scény Goodmanova divadla, jejíž výstavbu jsem financoval, se nakonec vyklubala docela příjemná akce. Až na dekolt Kim Wakefieldové, který mě první půlhodinu pronásledoval, kamkoli jsem se pohnul. Beverly byla ale dokonalý stratég, takže jí jako moje dobrá víla házela pod nohy kdejakého klacka, který se namanul. Když jsem těsně před půlnocí odcházel, zahlédl jsem Kim přišpendlenou ke sloupu nějakým podnapilým gentlemanem. Byla očividně spokojená.

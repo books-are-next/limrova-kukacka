@@ -1,8 +1,7 @@
 ---
+title: Pálení mostů
 contentType: prose
 ---
-
-Pálení mostů
 
   
 
@@ -78,7 +77,7 @@ Bylo mi jasné, že Tý momentálně hlídá v hale a Á nebo někdo další z
 
 Rozběhla jsem se a držela se v blízkosti zasněžených jabloní, protože zahradu osvětlovaly nové lampy, které sem kluci nechali postavit kvůli bezpečnosti. Dostala jsem se až k rozložitému kaštanu, co stál hned u zdi. Jeho spodní větve byly celkem nízko. Sundala jsem batoh, přehodila ho na druhou stranu a chytila jsem se větve. Snažila jsem se dostat nohy nahoru. Nakonec se mi podařilo zaháknout paty o horní okraj a vytáhnout se do sedu. I přes rukavice mi pěkně mrzly prsty a byla mi zima. Podívala jsem se dolů na svůj ve sněhu oválený ruksak a najednou mi do očí vyhrkly slzy. Jenže na tohle teď nebyl čas. Skočila jsem.
 
-\* \* \*
+* * *
 
   
 
@@ -176,7 +175,7 @@ Zavěsil jsem, popadl plášť položený na vedlejší stoličce a na stůl js
 
 „Netuším,“ odpověděl nešťastně. „Napsala jen, že se za všechno omlouvá a že se ozve. Prý doufá, že se situace uklidní a my budeme v pořádku.“
 
-V pořádku? Jak si do háje může myslet, že by takhle mohla být jediná věc v pořádku?
+_V pořádku? Jak si do háje může myslet, že by takhle mohla být jediná věc v pořádku?_
 
 Plyn jsem sešlápl až k podlaze. Bál jsem se, že mrzne někde venku. Kam by mohla…
 
@@ -184,13 +183,13 @@ Plyn jsem sešlápl až k podlaze. Bál jsem se, že mrzne někde venku. Kam by
 
 „Hned se na to podívám,“ odpověděl Bob a zavěsil.
 
-Odešla…
+_Odešla…_
 
 Opustila mě? Vybavil jsem si naše poslední společné chvíle. Ten nejdřív prázdný a potom tak bolestný výraz v její tváři. A nezvyklou dravost, se kterou mě líbala. Musela už být rozhodnutá.
 
 „Proč?!“ Vztekle jsem praštil rukou do volantu. Nedokázal jsem to pochopit. Nevěřil jsem, že by utíkala přede mnou, to by nedávalo žádný smysl. Zatnul jsem zuby. Nepřesvědčil jsem ji. Nikdy si nepřestala myslet, že její přítomnost všem kolem ubližuje.
 
-Jak mi to jen mohla udělat?
+_Jak mi to jen mohla udělat?_
 
 Měl jsem na ni vztek. Jak si to představuje, dělat ze sebe mučednici? Nejvíc jsem se ale zlobil na sebe. V posledních týdnech mi bylo tak skvěle, že mi vůbec nedošlo, jak špatně nesla i sebemenší potíže s novináři a neshody s mou rodinou. Naivně jsem si myslel, že mé: „Všechno bude dobrý,“ bere vážně.
 

@@ -1,8 +1,7 @@
 ---
+title: Pamela Kingová
 contentType: prose
 ---
-
-Pamela Kingová
 
   
 
@@ -39,6 +38,8 @@ Na závěr ještě zkoumal můj obličej. S Helen se dohodli, že zavolá, až 
 Zajímalo by mě, co by do mě řekla…
 
 Mávla rukou, jako by se tím už nechtěla zabývat. „Musím teď odjet. Za tebou přijde švadlena a vezme ti míry.“ Pousmála se, ale jen rty. Její oči zůstávaly dál chladné. „Chovej se tu jako doma.“
+
+  
 
 O dva dny později mě Helen naložila do auta a se mnou i dvě tašky oblečení. Čekala, až se úplně setmí, nejspíš se bála novinářů. Celé uplynulé odpoledne jsem zírala do zrcadla a prohlížela si obličej. Dřív jsem se moc neřešila. Věděla jsem, že nejsem nijak zvlášť krásná, připadala jsem si spíš úplně obyčejná. Jenže najednou jsem se začala bát, že zapomenu, jak jsem původně vypadala. A tak jsem tam stála, natáčela hlavu ze strany na stranu a snažila se zapamatovat každý rys tváře. Strašně ráda bych se nechala vyfotit, ale to mi Kingová zakázala.
 
@@ -128,6 +129,8 @@ Vrátila jsem se do svého pokoje. V přilehlé koupelně jsem si vyčistila zu
 
 Usnula jsem za pár vteřin. Bez prášku.
 
+  
+
 Ráno jsem věřila, že jsem připravená. Necvakaly mi zuby, netřásly se mi ruce. Doktor Bradley provedl předoperační prohlídku a hodně mě uklidnil. Zdálo se, že to bude opravdu jen pár drobných změn. Operace potrvá kolem hodiny a prý se to rychle zahojí.
 
 Jenže pak přišla nějaká holka s elektrickým strojkem na zastřihávání vlasů.
@@ -155,6 +158,8 @@ Když bylo po všem, opatrně jsem si sáhla na úplně holou hlavu.
 „Dejte si sprchu, slečno Kingová. Prosím vás, abyste už nic nepila ani nejedla. Za hodinu si pro vás přijdu.“ Doktor Bradley se na mě povzbudivě usmál a odešel.
 
 Poslechla jsem ho. Zalezla jsem si do sprchového koutu a pečlivě ze sebe smyla odstřižky vlasů. Zase jsem brečela. Když jsem vylezla ven, do zrcadla už jsem se nepodívala. To bych nezvládla.
+
+  
 
 Připadalo mi to jako chvilka. Viděla jsem oči doktora Bradleyho vykukující nad pestrobarevnou rouškou a taky laskavý pohled druhého doktora – prý specialisty –, který stál hned za ním. Pak mi na obličej přitiskli masku, z níž proudil zvláštně páchnoucí vzduch.
 

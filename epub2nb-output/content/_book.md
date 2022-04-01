@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Kukačka
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Karolina Limrová
   publisher: Městská knihovna v Praze
   modified: '2021-03-18T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - kukacka_001.html
   - kukacka_002.html
-  - kukacka_003.html
-  - kukacka_004.html
   - kukacka_005.html
   - kukacka_006.html
   - kukacka_007.html
@@ -56,10 +57,15 @@ readingOrder:
   - kukacka_044.html
   - kukacka_045.html
   - kukacka_046.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: kukacka_005.html
+        title: Věnování
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

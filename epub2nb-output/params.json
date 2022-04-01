@@ -1,28 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Kukačka",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karolina Limrová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-03-18T00:00:00.000Z"
+      "modified": "2021-03-18T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP_hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0-",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "MLP_obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-\nMLP_text_-I-\nMLP_text_bez1radku_-I-_-12-0-\nMLP_text_uprostred_-I-\nMLP_venovani",
+      "strong": "MLP_ZPRAVY_TUCNE\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "kukacka_001.md",
             "xhtml": "kukacka_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_003.md",
             "xhtml": "kukacka_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_004.md",
             "xhtml": "kukacka_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "kukacka_006.md",
@@ -95,7 +106,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_007.md",
@@ -106,7 +118,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_008.md",
@@ -117,7 +130,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_009.md",
@@ -128,7 +142,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_010.md",
@@ -139,7 +154,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_011.md",
@@ -150,7 +166,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_012.md",
@@ -161,7 +178,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_013.md",
@@ -172,7 +190,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_014.md",
@@ -183,7 +202,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_015.md",
@@ -194,7 +214,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_016.md",
@@ -205,7 +226,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_017.md",
@@ -216,7 +238,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_018.md",
@@ -227,7 +250,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_019.md",
@@ -238,7 +262,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_020.md",
@@ -249,7 +274,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_021.md",
@@ -260,7 +286,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_022.md",
@@ -271,7 +298,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_023.md",
@@ -282,7 +310,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_024.md",
@@ -293,7 +322,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_025.md",
@@ -304,7 +334,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_026.md",
@@ -315,7 +346,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_027.md",
@@ -326,7 +358,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_028.md",
@@ -337,7 +370,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_029.md",
@@ -348,7 +382,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_030.md",
@@ -359,7 +394,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_031.md",
@@ -370,7 +406,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_032.md",
@@ -381,7 +418,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_033.md",
@@ -392,7 +430,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_034.md",
@@ -403,7 +442,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_035.md",
@@ -414,7 +454,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_036.md",
@@ -425,7 +466,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_037.md",
@@ -436,7 +478,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_038.md",
@@ -447,7 +490,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_039.md",
@@ -458,7 +502,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_040.md",
@@ -469,7 +514,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_041.md",
@@ -480,7 +526,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_042.md",
@@ -491,7 +538,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_043.md",
@@ -502,7 +550,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_044.md",
@@ -513,7 +562,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_045.md",
@@ -524,7 +574,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "kukacka_046.md",
@@ -535,7 +586,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -581,235 +633,235 @@
         "xhtml": "kukacka_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prolog",
         "subtitleSuggest": "",
         "filename": "kukacka_006.md",
         "xhtml": "kukacka_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Marie Dobsonová",
         "subtitleSuggest": "",
         "filename": "kukacka_007.md",
         "xhtml": "kukacka_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fúze",
         "subtitleSuggest": "",
         "filename": "kukacka_008.md",
         "xhtml": "kukacka_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pamela Kingová",
         "subtitleSuggest": "",
         "filename": "kukacka_009.md",
         "xhtml": "kukacka_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Aaron Collins",
         "subtitleSuggest": "",
         "filename": "kukacka_010.md",
         "xhtml": "kukacka_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Setkání",
         "subtitleSuggest": "",
         "filename": "kukacka_011.md",
         "xhtml": "kukacka_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Miláček médií",
         "subtitleSuggest": "",
         "filename": "kukacka_012.md",
         "xhtml": "kukacka_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tříčtvrteční takt",
         "subtitleSuggest": "",
         "filename": "kukacka_013.md",
         "xhtml": "kukacka_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Únos",
         "subtitleSuggest": "",
         "filename": "kukacka_014.md",
         "xhtml": "kukacka_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Srub",
         "subtitleSuggest": "",
         "filename": "kukacka_015.md",
         "xhtml": "kukacka_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kalamita",
         "subtitleSuggest": "",
         "filename": "kukacka_016.md",
         "xhtml": "kukacka_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nevinnost sama",
         "subtitleSuggest": "",
         "filename": "kukacka_017.md",
         "xhtml": "kukacka_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malá lež",
         "subtitleSuggest": "",
         "filename": "kukacka_018.md",
         "xhtml": "kukacka_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cizí dcera",
         "subtitleSuggest": "",
         "filename": "kukacka_019.md",
         "xhtml": "kukacka_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přiznání",
         "subtitleSuggest": "",
         "filename": "kukacka_020.md",
         "xhtml": "kukacka_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zamilovaná",
         "subtitleSuggest": "",
         "filename": "kukacka_021.md",
         "xhtml": "kukacka_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pan Parker a pan Soto",
         "subtitleSuggest": "",
         "filename": "kukacka_022.md",
         "xhtml": "kukacka_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kriminál a kostel",
         "subtitleSuggest": "",
         "filename": "kukacka_023.md",
         "xhtml": "kukacka_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tragédie jako od Shakespeara",
         "subtitleSuggest": "",
         "filename": "kukacka_024.md",
         "xhtml": "kukacka_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Panna, nebo orel",
         "subtitleSuggest": "",
         "filename": "kukacka_025.md",
         "xhtml": "kukacka_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poslední den Pamely Kingové",
         "subtitleSuggest": "",
         "filename": "kukacka_026.md",
         "xhtml": "kukacka_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmilhářka",
         "subtitleSuggest": "",
         "filename": "kukacka_027.md",
         "xhtml": "kukacka_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kánoe",
         "subtitleSuggest": "",
         "filename": "kukacka_028.md",
         "xhtml": "kukacka_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Utíkání",
         "subtitleSuggest": "",
         "filename": "kukacka_029.md",
         "xhtml": "kukacka_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Marie Dobsonová II.",
         "subtitleSuggest": "",
         "filename": "kukacka_030.md",
         "xhtml": "kukacka_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Škody po bouřce",
         "subtitleSuggest": "",
         "filename": "kukacka_031.md",
         "xhtml": "kukacka_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ekologická lobby",
         "subtitleSuggest": "",
         "filename": "kukacka_032.md",
         "xhtml": "kukacka_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Skleníkový efekt",
         "subtitleSuggest": "",
         "filename": "kukacka_033.md",
         "xhtml": "kukacka_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tváří v tvář",
         "subtitleSuggest": "",
         "filename": "kukacka_034.md",
         "xhtml": "kukacka_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vysušené hovězí",
         "subtitleSuggest": "",
         "filename": "kukacka_035.md",
         "xhtml": "kukacka_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zahradnické práce",
         "subtitleSuggest": "",
         "filename": "kukacka_036.md",
         "xhtml": "kukacka_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kancelářské práce",
         "subtitleSuggest": "",
         "filename": "kukacka_037.md",
         "xhtml": "kukacka_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šeherezáda",
         "subtitleSuggest": "",
         "filename": "kukacka_038.md",
         "xhtml": "kukacka_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lov na kukačku",
         "subtitleSuggest": "",
         "filename": "kukacka_039.md",
         "xhtml": "kukacka_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svět plný soudců",
         "subtitleSuggest": "",
         "filename": "kukacka_040.md",
         "xhtml": "kukacka_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zosobněná zkáza",
         "subtitleSuggest": "",
         "filename": "kukacka_041.md",
         "xhtml": "kukacka_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pálení mostů",
         "subtitleSuggest": "",
         "filename": "kukacka_042.md",
         "xhtml": "kukacka_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vydírání",
         "subtitleSuggest": "",
         "filename": "kukacka_043.md",
         "xhtml": "kukacka_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Epilog",
         "subtitleSuggest": "",
         "filename": "kukacka_044.md",
         "xhtml": "kukacka_044.xhtml"
@@ -898,6 +950,6 @@
       "user": "books-are-next",
       "repo": "limrova-kukacka"
     },
-    "generatedAt": 1648807958187
+    "generatedAt": 1648808456318
   }
 }

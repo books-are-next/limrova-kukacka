@@ -1,8 +1,7 @@
 ---
+title: Nevinnost sama
 contentType: prose
 ---
-
-Nevinnost sama
 
   
 
@@ -54,7 +53,7 @@ A pak byl ještě blíž, horké rty pohladily ty moje a následoval letmý do
 
 Aaron strnul a tiše zaúpěl: „Proč nejsem jedináček?!“
 
-\* \* \*
+* * *
 
   
 
@@ -106,7 +105,7 @@ Ozvaly se rychlé kroky, pak se kolem mihla ohnivá dlouhá hříva. Ethanovi se
 
 Pomohl jsem Pamele z bundy a usadil ji za stůl. Ani jednomu z nás nějak nebylo do řeči, ale zachránil nás guláš. Oběma jsem nandal vrchovatý talíř. Jedli jsme mlčky.
 
-\* \* \*
+* * *
 
   
 
@@ -154,7 +153,7 @@ Trish se nadechla, ale když jí došlo, co jsem řekla, vykulila oči. Vypadala
 
 „To si musím pamatovat. Omlouvám se? Hm… Nikdy by mě nenapadlo, že by to na ni mohlo zabrat.“ Mrknul na mě a zmizel. Nejspíš za ní.
 
-Tak to bychom měli…
+_Tak to bychom měli…_
 
 Aaron zvedl hlavu a usmál se. Natáhl ke mně ruku. „Byla jsi úžasná.“ Jeho pohled krásně hřál.
 
@@ -188,7 +187,7 @@ Snažila jsem se popadnout dech. Pořád mě držel.
 
 „To jsem rád.“ Obavy v jeho očích vystřídal ten planoucí pohled. Viditelně se mu ulevilo. Ani jsem se to nesnažila pochopit. On o mě asi doopravdy stojí…
 
-\* \* \*
+* * *
 
   
 
@@ -252,7 +251,7 @@ Usmála se a pootevřela oči.
 
 Vzal jsem ji do náruče, prošel chodbou chabě osvětlenou malou lampou a vyšlapal schodiště. Po vteřinovém zaváhání jsem s ní zamířil do svého pokoje. Nechala se uložit do postele. Trochu se probrala a protestovala, když jsem ji na okamžik pustil, abych jí vyzul boty. Když jsem si k ní lehal, abych ji pevně objal, pochválila mě. Pak okamžitě usnula.
 
-\* \* \*
+* * *
 
   
 

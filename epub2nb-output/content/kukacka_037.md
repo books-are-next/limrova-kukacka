@@ -1,8 +1,7 @@
 ---
+title: Kancelářské práce
 contentType: prose
 ---
-
-Kancelářské práce
 
   
 
@@ -11,6 +10,8 @@ První týden jsem nemohla chodit, a tak mi Bob do pokoje pořídil televizi a�
 Taky mě moc mrzelo, že jsem nemohla jezdit za mámou. Táta vzal tuhle povinnost na sebe a řekla bych, že rád. Zaznamenala jsem na něm novou vůni a košile, ve které za ní odjížděl do vězení, byla taky úplně nová. Musela jsem se kousat do jazyka, abych nevyzvídala. Stejně jsem tušila, která bije. Máma se na něj během našich telefonátů neustále vyptávala. Bez ohledu na to, že od ní třeba teprve před pár hodinami odešel.
 
 Aaron zavolal hned následujícího dne. Připomněl mi, kdy mám jít na převaz, a zeptal se, jestli nepotřebuju auto a řidiče. Odmítla jsem to. V médiích jsem pak napjatě sledovala, kde zrovna je a s kým tam je. Nemohla jsem si pomoct. Ukázalo se, že má hodně napilno. Kromě projektu Thornton, kterým se zabýval v podstatě ve volném čase, se naplno obul do nových obchodů. Black Crown už měl prakticky v kapse. Pochybovala jsem, že vůbec chodí spát.
+
+  
 
 Ležela jsem ve svém pokoji a znuděně přepínala televizní kanály. Slyšela jsem, jak dole klaply dveře. Bob se konečně vrátil z práce.
 
@@ -78,7 +79,7 @@ Bob s hraným pohoršením zavrtěl hlavou a vstal. Zřejmě se chystal spách
 
 Ušklíbla jsem se. Po chvíli dumání jsem vzala mobil a zavolala Jane. Šlo to hladce. Pomoc v kanceláři se jí prý hodí. Denně se snažila aspoň na pár hodin pomáhat s budováním parku a nestíhala papírování. Jakmile to půjde, můžu nastoupit. Udělala mi radost.
 
-\* \* \*
+* * *
 
   
 
@@ -130,7 +131,7 @@ Totální.
 
 Debil.
 
-\* \* \*
+* * *
 
   
 
@@ -194,7 +195,7 @@ Najednou se ozvalo další klepání na dveře. Takové rychlé, letmé. Jako by
 
 Na prahu stál totálně konsternovaný Aaron.
 
-\* \* \*
+* * *
 
   
 
@@ -216,7 +217,7 @@ Málem jsem se potrhal smíchy. „Váš oběd, slečno Dobsonová.“
 
 Hodil jsem jí pytel s jídlem pod nos a zamířil ven. Hledat ztracenou důstojnost. Snad zůstala někde na cestě mezi recepcí a druhým patrem. Byl jsem pořád v šoku. Tohle jsem vážně nečekal.
 
-Ona toho chlapa nechala, aby ji objímal?
+_Ona toho chlapa nechala, aby ji objímal?_
 
 „Neopovažuj se odsud utéct! Dobře víš, že za tebou nemůžu běžet!“ křičela za mnou.
 

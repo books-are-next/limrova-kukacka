@@ -1,8 +1,7 @@
 ---
+title: Miláček médií
 contentType: prose
 ---
-
-Miláček médií
 
   
 
@@ -106,6 +105,8 @@ Natěšeně zvedl obočí.
 
 A já prostředníček pravé ruky.
 
+  
+
 „Ty ses musela úplně zbláznit!“ Helen na mě začala ječet hned, jak jsme nastoupily do černé limuzíny. Gordon nás protlačil skrz řičící novináře vteřinu po tom, co si všichni vyfotili můj zdvižený prostředníček.
 
 „Je to hajzl!“ odsekla jsem. A myslela jsem tím oba: Collinse i Steina.
@@ -128,7 +129,7 @@ Zavrčela jsem a upřela pohled z okna. Pár minut jsme mlčely.
 
 Mlčela.
 
-A mám pravdu! Mám!
+_A mám pravdu! Mám!_
 
 „Není jisté, jestli Collins s některou z těch žen něco měl,“ promluvila už o poznání klidněji. „Fotky, o kterých Stein mluvil, vůbec nemusejí existovat. Ten chlap se živí jako bulvární novinář, lež je jeho každodenním chlebem.“
 
@@ -144,7 +145,7 @@ Mlčky jsem jí oplácela zuřivý pohled. Na pár vteřin se mi zvláštně sev
 
 Helen několikrát zamrkala a pak se odvrátila. Asi ten pocit sdílela se mnou.
 
-\* \* \*
+* * *
 
   
 
@@ -184,7 +185,7 @@ Sedl jsem si a vzal do ruky obálku. Ať už v ní bylo cokoliv, chtěl jsem t
 
 Uvnitř jsem našel několik fotek. Všechny zachycovaly Pamelu Kingovou. Nechápal jsem, o co jde, dokud mi do oka nepadl jeden zvláštní obrázek. Detail ruky se vztyčeným prostředníčkem. K fotkám byl přiložen krátký dopis.
 
-Velice rád zprostředkovávám komunikaci mezi snoubenci. Tento výmluvný vzkaz Vám posílá Vaše nastávající. Zřejmě to bude reakce na informaci o Vašich stycích s několika slečnami, které jistě nemusím jmenovat. Spolupráci s Vámi si užívám. Zítřejší výtisk dostanete zdarma jako poděkování.
+_Velice rád zprostředkovávám komunikaci mezi snoubenci. Tento výmluvný vzkaz Vám posílá Vaše nastávající. Zřejmě to bude reakce na informaci o Vašich stycích s několika slečnami, které jistě nemusím jmenovat. Spolupráci s Vámi si užívám. Zítřejší výtisk dostanete zdarma jako poděkování._
 
 _S úctou  
 D. Stein_
@@ -203,7 +204,7 @@ Poslechla okamžitě.
 
 Marně jsem se rozhlížel po něčem, do čeho bych praštil. Nakonec jsem zůstal stát u okna. S rukou opřenou o jeho rám jsem zíral ven.
 
-Co si o sobě vůbec myslí?! To jako udělala na mě?!
+_Co si o sobě vůbec myslí?! To jako udělala na mě?!_
 
 „Ptáka?! Na mě?!“ zvolal jsem nahlas.
 
@@ -217,7 +218,7 @@ Několikrát jsem se zhluboka nadechl a pak jsem s největší možnou dávkou
 
 „To je v pořádku. I když…“ Otočil jsem se na patě a zadíval jsem se na ni. Několikrát prudce zamrkala.
 
-Chovám se jako debil. Zatracená Kingová!
+_Chovám se jako debil. Zatracená Kingová!_
 
 „Sežeňte mi nějakého kurýra. Okamžitě!“
 
@@ -227,7 +228,7 @@ Přikývla a vrhla se po telefonu, jako by to byl vor v rozbouřeném moři. K
 
 Cindy mi roztřesenou rukou jeden podala a oznámila, že posel je na cestě. Prý tu bude do pěti minut. Poděkoval jsem jí a na straně tři zakroužkoval příslušnou pasáž. Asi pětkrát. Měl jsem chuť k tomu oválu přimalovat i rohy.
 
-Udělala na mě ptáka! Co si o sobě myslí?!
+_Udělala na mě ptáka! Co si o sobě myslí?!_
 
 „A jak se vám vůbec daří, Cindy?“ nadhodil jsem, když mi došlo, že tam přecházím jako idiot a má asistentka něco nervózně ťuká do klávesnice.
 
@@ -261,7 +262,7 @@ Zamyslel jsem se. Třeba se bude chtít kát nebo to svést na momentální vyš
 
 Přemýšlel jsem, kdy mě naposledy někdo donutil chovat se na veřejnosti jako blázen. Odpověď jsem věděl okamžitě. Nikdy nikdo.
 
-\* \* \*
+* * *
 
   
 
@@ -275,7 +276,7 @@ Hned mi došlo, že mám malér. Bylo jasné, o co půjde.
 
 Rozlepila jsem obálku. Uvnitř jsem našla několik stran nějakého okopírovaného textu. Celou první stranu jsem musela přeskočit, protože obsahovala právnické žvásty, kterým jsem vůbec nerozuměla. Až na té druhé jsem pochopila, že se jedná o součást manželské smlouvy. O co mu šlo? Pak jsem si všimla prosvítající červené barvy na dalším listě. Zvýrazňovačem zaškrtl jednu větu.
 
-„Obě strany se také zavazují, že během manželství neučiní ani neřeknou nic, co by mohlo poškodit dobré jméno jejich protějšku.“
+_„Obě strany se také zavazují, že během manželství neučiní ani neřeknou nic, co by mohlo poškodit dobré jméno jejich protějšku.“_
 
 Pak mi do klína vypadla fotka z tiskovky. Nejdřív jsem jen ztěžka polkla. Přemýšlela jsem, jestli mám šanci tuhle zásilku před Helen utajit. Zvedla jsem oči k Richardovi.
 
@@ -283,15 +284,15 @@ Pak mi do klína vypadla fotka z tiskovky. Nejdřív jsem jen ztěžka polkla. 
 
 Usmál se a přinesl mi, co jsem potřebovala. Hypnotizovala jsem prázdnou stránku a nakonec jsem napsala:
 
-Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna…
+_Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna…_
 
 Usilovně jsem přemýšlela, jak se ty modelky vlastně jmenovaly. Vzpomněla jsem si jen na tu poslední.
 
-… Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky.
+_… Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky._
 
 Přeložila jsem papír a celá rozjařená jsem se zeptala Richarda, jestli by to mohl strčit do nějaké obálky. Až když odešel odevzdat vzkaz kurýrovi, napadlo mě, že jsem to možná zase podělala.
 
-\* \* \*
+* * *
 
   
 
@@ -301,15 +302,15 @@ Z osvětlené kabiny výtahu jsem vystoupil do naprosté tmy. Světla okolních
 
 Prošel jsem rozlehlou plochou kruhové místnosti, která se obtáčela kolem stěny oválné výtahové šachty, a rozsvítil nad golfovým trenažérem. Geniální vynález pro někoho, kdo si potřebuje vybít vztek a nechce přitom rozmlátit kancelář. Spustil jsem projektor, vybral si hůl a navlékl rukavice. Už jsem docela vychladl. Připravil jsem si míček do týčka a chvíli jsem zíral na mírně zvlněný green. Téměř dokonalou iluzi skutečného golfového hřiště narušoval jen můj stín.
 
-Co ji to napadlo? To nemohla prostě říct: „Bez komentáře.“?
+_Co ji to napadlo? To nemohla prostě říct: „Bez komentáře.“?_
 
 Rozpřáhl jsem se a letmo zkontroloval ukazatel směru a rychlosti větru v horním pravém rohu simulace.
 
-Ptáka!
+_Ptáka!_
 
 Úder se celkem vydařil. Míček zmizel někde za obzorem a celá krajina se rozjela za ním, aby se po chvíli zastavila na místě dopadu. Připravil jsem si míček k dalšímu odpalu.
 
-Že zrovna ji může taková informace rozčílit. Ji! Pamelu Roz­hoď­nožkovou!
+_Že zrovna ji může taková informace rozčílit. Ji! Pamelu Roz­hoď­nožkovou!_
 
 Švih. Tentokrát jsem to trochu přehnal. Ještě o trochu víc a udělal bych díru do zdi.
 
@@ -321,7 +322,7 @@ Zvonek. Vrátný mi v interkomu oznámil příchod kurýra. Požádal jsem ho, 
 
 Dal jsem poslíčkovi dalších deset dolarů a poděkoval mu. Když odešel, otevřel jsem malou obálku, kterou mi přivezl.
 
-Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky.
+_Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky._
 
 Ten papír jsem málem poprskal. Výbuch smíchu, který následoval, se nedal vůbec ovládnout. Smál jsem se tak, až mi tekly slzy. Asi bych se měl brát víc vážně, ale její odpověď byla geniální. Když jsem se trochu uklidnil, zadíval jsem se z okna. Nočnímu Chicagu se nevyrovnalo žádné jiné město na světě.
 

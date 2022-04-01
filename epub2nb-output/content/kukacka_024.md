@@ -1,8 +1,7 @@
 ---
+title: Tragédie jako od Shakespeara
 contentType: prose
 ---
-
-Tragédie jako od Shakespeara
 
   
 
@@ -154,7 +153,7 @@ A tak jsem si klekla na zem a nechala ji, aby mi vyráběla další modřiny. 
 
 Pomalu jsem vydechla. Film mezitím skončil a na zdi zářil žlutý obdélník. Vstala jsem a protáhla se, všechno mě bolelo. Připadala jsem si úplně vyždímaná. Bezradně jsem se rozhlédla. Napadlo mě prohledat její stůl, ale pokud by stála za vraždou Nathana, těžko by si to napsala do kalendáře. Nakonec jsem prostě odešla a potichu za sebou zavřela dveře.
 
-\* \* \*
+* * *
 
   
 

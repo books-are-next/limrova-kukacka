@@ -1,10 +1,11 @@
 ---
+title: Epilog
 contentType: prose
 ---
 
-Epilog
+_O čtyři roky později_
 
-O čtyři roky později
+  
 
 „… určitě se ti tam bude líbit. Zasloužíš si pořádnou dovolenou. Maturita. Přijetí na vysokou. Jsi moje šikovná, krásná, chytrá…“ Aaron se mě snažil rozptýlit. Jen co jsem po pár hodinách neklidného spánku otevřela oči, byl připravený nám oběma zpříjemnit ráno.
 

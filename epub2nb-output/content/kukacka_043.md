@@ -1,8 +1,7 @@
 ---
+title: Vydírání
 contentType: prose
 ---
-
-Vydírání
 
   
 
@@ -60,7 +59,7 @@ Ocitla jsem se na chodbě a zamířila o patro níž do Teova bytu, když ke m
 
 Do lokálu jsem přiletěla úplně bez dechu a málem jsem omdlela hrůzou. Dva stoly byly převrácené a z police nad barovým pultem, kde ještě nedávno stály láhve s alkoholem, trčela židle. Na podlaze se válely střepy a trosky nábytku. Uprostřed toho všeho stál Aaron. Na zádech mu visel Sergio, který se mu snažil držet ruce, aby se Elías mohl lépe trefit. Vykřikla jsem.
 
-\* \* \*
+* * *
 
   
 
@@ -178,7 +177,7 @@ Dívala se na mě vyděšenýma očima a nevydala ani hlásku.
 
 Sever a kompas. „Nenechám tě utéct.“
 
-\* \* \*
+* * *
 
   
 
@@ -248,7 +247,7 @@ Ztěžka jsem polkla. „Jsi drsnej…“
 
 „Ani netušíš jak.“
 
-\* \* \*
+* * *
 
   
 
@@ -305,6 +304,8 @@ Zase se celá rozsvítila a dala mi pusu na bradu. Až teď jsem si připustil 
 „Skoro o tom nevím,“ lhal jsem.
 
 „Tak mě vezmi domů.“
+
+  
 
 Na ulici stál George a dělal, co bylo v jeho silách, aby od nás udržel novináře. Zahlédl jsem i Steina. Napadlo mě, že jsme Floresovi udělali slušnou reklamu. To by mohl ocenit.
 

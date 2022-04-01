@@ -1,8 +1,7 @@
 ---
+title: Sedmilhářka
 contentType: prose
 ---
-
-Sedmilhářka
 
   
 
@@ -10,15 +9,15 @@ Příliš často se mi nestávalo, abych ráno otevřela oči a okamžitě věd
 
 Vyskočila jsem z postele a otevřela okno dokořán. Dlouho tak ale nezůstalo, protože jsem málem umrzla. Zase jsem ho rychle zavřela a vrhla se zpátky do peřin. Sáhla jsem po mobilu.
 
-Nedockavy. Extremne neutisitelne netrpelivy.
+**Nedockavy. Extremne neutisitelne netrpelivy.**
 
-A priznavam – uplne sileny. Aaron
+**A priznavam – uplne sileny. Aaron**
 
-P. S. Nacvicujes novy podpis?
+**P. S. Nacvicujes novy podpis?**
 
 Přetáhla jsem si deku přes hlavu a i s telefonem se zavrtala co nejhlouběji.
 
-Mas me na svedomi. Budou si myslet, ze jsem blazen. Usmivam se i pri vzpomince na Trish! Ty nejsi sileny, to ja. Miluju te. Pamela P. S. Podpis mam davno nacviceny. Delavam to v noci, kdyz nemuzu usnout.
+**Mas me na svedomi. Budou si myslet, ze jsem blazen. Usmivam se i pri vzpomince na Trish! Ty nejsi sileny, to ja. Miluju te. Pamela P. S. Podpis mam davno nacviceny. Delavam to v noci, kdyz nemuzu usnout.**
 
 Sotva jsem zprávu odeslala, do mého pokoje vtrhla hromada lidí. Vesměs úplně cizích. Všichni se usmívali a volali: „Dobré ráno, slečno Kingová!“ S očima navrch hlavy jsem přikývla a potom už jen sledovala, jak se rozprchli do všech koutů místnosti. Nějaká žena přitáhla pět prázdných kufrů, jiná otevřela šatnu dokořán a vynášela z ní kupičky pečlivě složeného prádla – mou zbrusu novou výbavu.
 
@@ -84,7 +83,7 @@ Ponořila jsem se až po nos do vody a vyfoukla hejno rozzuřených bublin. Jed
 
 Procedury, které následovaly, mohly být za jiných okolností strašně fajn. Tedy až na horký vosk a strhávání chloupků. Jenže neurotický Arnaldo dělal i z pitomé pleťové masky komplikovanou operaci. Neustále se tvářil jako mučedník.
 
-\* \* \*
+* * *
 
   
 
@@ -130,7 +129,7 @@ Chvíli jsem zůstal úplně bez dechu. I když jsme si s Janeth byli hodně b
 
 Předstíral jsem rozhořčení, ale nakonec jsem jí vlepil pusu na tvář. Nikdy jsem nedoufal, že najdu ženu, která by se aspoň trochu podobala mé matce. Možná proto jsem si původně nelámal hlavu s faktem, že se chystám vlézt do chomoutu s jednou z největších fiflen, které znám. Jenže všechno se změnilo. Pam se změnila. Díval jsem se na Janeth a byl šťastný, že se s neméně úžasnou ženou dnes ožením.
 
-\* \* \*
+* * *
 
   
 
@@ -212,7 +211,7 @@ Sešly jsme schody. Bob v dokonalém obleku a s dokonale zastřiženými vlas
 
 Když jsme nasedli do limuzíny, cítila jsem ve vzduchu očekávání i radost. Já i ona jsme si měly za pár desítek minut splnit své sny. A Bob… Bob byl prostě rád.
 
-\* \* \*
+* * *
 
   
 
@@ -230,7 +229,7 @@ S pokušením otevřít tu věc jsem bojoval jen zlomek vteřiny. Samozřejmě 
 
 Ano. Hloupá, ale krásná romantická gesta.
 
-\* \* \*
+* * *
 
   
 

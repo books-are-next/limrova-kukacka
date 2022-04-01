@@ -1,8 +1,7 @@
 ---
+title: Utíkání
 contentType: prose
 ---
-
-Utíkání
 
   
 
@@ -66,7 +65,7 @@ Nějak jsem vstala. Nějak jsem došla ke dveřím a nějak jsem se dokázala v
 
 Otevřela jsem šatnu. Mám si něco vzít? Zvládnu si něco z toho vzít? Nakonec jsem sáhla pro jedny nové džíny a dvě trika. V koupelně jsem sbalila svůj oblíbený parfém. Klíčky od astona jsem pár vteřin hypnotizovala, ale nakonec jsem je nechala ležet na stole. Hned vedle skoro nového mobilu. Počet zpráv nula.
 
-\* \* \*
+* * *
 
   
 
@@ -116,7 +115,7 @@ Osaměl jsem.
 
 Nízká oblačnost za okny Chicago Spire připomínala hladovou nicotu, která pozře všechno, co se jí postaví do cesty.
 
-\* \* \*
+* * *
 
   
 
@@ -263,6 +262,8 @@ Protočila jsem oči.
 Trhnul rameny a zase se napil. Zřejmě ho to docela rozladilo.
 
 „Tak si běž vypakovat. Za chvíli přijde jeden… obchodní partner. Tak ať tě tu nikdo nenačapá.“
+
+  
 
 Dostala jsem pokoj ve druhém patře. Občas tam ubytoval některého ze svých kamarádů. Šlapky ne, ty v baráku nechtěl. V lokále směly čekat na zákazníky, ale pracovat musely jinde. A jeden z pokojů měla rezervovaný Nina. Ta ale většinou bydlela ve vlastním domku na druhé straně města a sem chodila jen v případě, že Camila odjela za rodinou do Mokeny.
 

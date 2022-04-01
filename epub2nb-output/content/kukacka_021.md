@@ -1,8 +1,7 @@
 ---
+title: Zamilovaná
 contentType: prose
 ---
-
-Zamilovaná
 
   
 
@@ -82,7 +81,7 @@ Zírala jsem na tu holku ve výplni skříně a kdovíproč se mi chtělo breč
 
 Bylo by neskutečně stupidní zase brečet. Přece se nechci stát nejubrečenější miliardářkou na světě, napadlo mě a ten blábol mi celkem zvedl náladu. Rozhodně bude lepší smát se sama sobě než nad sebou bulet.
 
-\* \* \*
+* * *
 
   
 
@@ -90,19 +89,19 @@ Od Kingových jsem zamířil na návštěvu právní kanceláře kvůli chystan�
 
 Nevydržel jsem to a někdy v podvečer jsem napsal textovku Ianovi.
 
-Tak jak?
+**Tak jak?**
 
 Odepsal vzápětí.
 
-Mam se skvele, ale na to se me asi neptas.
+**Mam se skvele, ale na to se me asi neptas.**
 
 Zaúpěl jsem.
 
-Sadisto
+**Sadisto**
 
 Tentokrát jsem na odpověď pár minut čekal.
 
-Nejsem vedma
+**Nejsem vedma**
 
 Vzdal jsem to a vytočil jsem jeho číslo. „Chci jen profesionální názor, Iane!“ spustil jsem, aniž bych pozdravil.
 
@@ -126,7 +125,7 @@ Ano, tohle mu vrátím. Mohl bych mu třeba koupit vilu v Monaku nebo nejnověj
 
 „Čau, Iane!“ vyhrkl jsem honem. Dřív než se z vily v Monaku stane chata na Sibiři. „Pozdravuj Beverly.“ A zavěsil jsem.
 
-\* \* \*
+* * *
 
   
 
@@ -186,7 +185,7 @@ Slyšela jsem jeho dech. Možná mu bylo tak krásně jako mně.
 
 Rozloučil se a displej mého nového telefonu pohasl. Stočila jsem se do klubíčka, mobil v rukou. Helen měla pravdu. Tohle nechci ztratit. Za žádnou cenu.
 
-\* \* \*
+* * *
 
   
 
@@ -206,7 +205,7 @@ Teď seděl v mé kanceláři, vychutnával si mojito a diskutoval se mnou o 
 
 Pokýval hlavou. Mně se rozsvítil displej na mobilu. Zvonění jsem měl vypnuté.
 
-Krasne rano. Spala jsem dobre, zdalo se mi o tobe. Opravdu te dnes uvidim? Nemuzu tomu uverit. Pam
+**Krasne rano. Spala jsem dobre, zdalo se mi o tobe. Opravdu te dnes uvidim? Nemuzu tomu uverit. Pam**
 
 Nějakým zázrakem jsem se dokázal tvářit úplně normálně. Dhakirovi jsem přisunul jeho oblíbené pražené mandle. Omluvil jsem se slovy, že na tohle musím odpovědět.
 
@@ -218,13 +217,13 @@ Pokýval hlavou. „Žena stejně důležitá jako obchod. Když nespokojená, h
 
 Vnímal jsem ho jen na půl ucha. Pam se o mně zdálo?
 
-Nutne potrebuju vedet, co se ti zdalo! Nemuzu to dostat z hlavy a pak se tezko soustredím na praci. Jake to bylo? Aaron
+**Nutne potrebuju vedet, co se ti zdalo! Nemuzu to dostat z hlavy a pak se tezko soustredím na praci. Jake to bylo? Aaron**
 
 Dhakir se zatím rozhlížel a vypadal náramně spokojeně. „Já možná najít další žena. Tady pro Ameriku. Koupím dům pro ni. Dám pěkné šaty. Najdu ženu s ohnivými vlasy.“ Spokojeně zamlaskal. „Jedna žena moc velká starost. Když víc žen, tak lepší. Mají konkurenci. Musí víc snažit být milá.“
 
 Raději jsem se s ním nepouštěl do debaty. Vyrostl jsem v rodině Janeth Collinsové, takže nehrozilo, abych si o ženských názorech na manželství udělal zkreslenou představu. Matka nebyla náročná, ale byla velmi přímá. Otci i svým synům všechno říkala hned za tepla. Druhou ženu? Hořící vrt by nebyl nic proti běsnění mé matky, kdyby některý z jejích potomků podvedl svou manželku.
 
-Asi se malo snazis – soustredit se. Nerozptyluj se, musis vydelavat miliony. Ale v tom snu to bylo moc hezke… P.
+**Asi se malo snazis – soustredit se. Nerozptyluj se, musis vydelavat miliony. Ale v tom snu to bylo moc hezke… P.**
 
 Zazubil jsem se a s vypětím všech sil přemohl téměř nepřekonatelnou touhu se za Pam okamžitě rozjet, aby mi ukázala, co přesně se jí zdálo.
 
@@ -240,25 +239,25 @@ Bleskově jsem si to spočítal. Pokud bych odmítl, nejpozději do třiceti min
 
 Dhakir si pak odskočil na pány a požádal mě, abych připravil smlouvu o smlouvě budoucí. Podrobnosti už doladí právníci.
 
-Jen hezke? Pri nejblizsi prilezitosti te budu muset vyvest z omylu. A opravdu se snazim pracovat. Ten Arab vypada, ze do toho pujde. A.
+**Jen hezke? Pri nejblizsi prilezitosti te budu muset vyvest z omylu. A opravdu se snazim pracovat. Ten Arab vypada, ze do toho pujde. A.**
 
 Odpověď přišla přesně ve chvíli, kdy se Dhakir vracel.
 
-Jestli se prave ted tvaris jako ja, bude si tvuj obchodní partner myslet, ze nejsi normalni. A uz musim koncit, jsem jednou nohou ve sprse…
+**Jestli se prave ted tvaris jako ja, bude si tvuj obchodní partner myslet, ze nejsi normalni. A uz musim koncit, jsem jednou nohou ve sprse…**
 
 Zalapal jsem po dechu a zmohl se jen na:
 
-Chces me zabit?!
+**Chces me zabit?!**
 
 Podpis smlouvy pak proběhl okamžitě. Potřásli jsme si rukama a předběžně se dohodli na příští týden. Chtěl jsem to mít uzavřené, ještě než s Pam odjedeme do Itálie.
 
-\* \* \*
+* * *
 
   
 
 Rozesmála jsem se a pak chvíli dumala, co Aaronovi odepsat. Napadaly mě šílené věci, ale nějak jsem neměla odvahu. Navíc… jestli je opravdu na jednání, měla bych přibrzdit.
 
-Absolutne ne. Hodlam si te prece vzit. Pekne pracuj, ja jdu snidat. Uz jen par hodin! Pam
+**Absolutne ne. Hodlam si te prece vzit. Pekne pracuj, ja jdu snidat. Uz jen par hodin! Pam**
 
 S povzdechem jsem vyplázla jazyk na Pamelu Kingovou, která se na mě dívala ze zrcadla. Dnes ráno jí to vážně slušelo. Takhle zepředu nebyly ani vidět jizvy. Oči se jí horečnatě leskly a ten úsměv na ní prostě vypadal dobře. Na okamžik mě napadlo, že jako Marie by si mě Aaron asi nikdy nevšiml, ale rychle jsem tu myšlenku zahnala. Těžko by si mě mohl všimnout. Leda by mě načapal, jak mu kradu peněženku.
 
