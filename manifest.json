@@ -2,16 +2,16 @@
   "author": "Karolina Limrová",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "limrova-kukacka-20cc9db",
+  "identifier": "limrova-kukacka-3439cb3",
   "languagecode": "cs",
   "modified": "2021-03-18T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Kukačka",
-  "revision": "20cc9db",
+  "revision": "3439cb3",
   "generatedAt": {
-    "date": "Fri Apr 01 2022 10:21:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648808511491
+    "date": "Fri Apr 01 2022 10:33:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648809185296
   },
   "documents": [
     {
@@ -843,26 +843,6 @@
       "role": "chapter",
       "order": 41,
       "prev": "kukacka_044.html",
-      "next": "kukacka_046.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kukačka",
-      "file": "kukacka_046.html",
-      "words": 43,
-      "chars": 282,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 42,
-      "prev": "kukacka_045.html",
       "next": "colophon.html",
       "toc": [
         {
@@ -877,12 +857,12 @@
     {
       "title": "Tiráž • Kukačka",
       "file": "colophon.html",
-      "words": 95,
-      "chars": 626,
-      "ideas": 10,
+      "words": 138,
+      "chars": 908,
+      "ideas": 21,
       "role": "colophon",
       "order": null,
-      "prev": "kukacka_046.html",
+      "prev": "kukacka_045.html",
       "next": null,
       "toc": [
         {
@@ -902,9 +882,9 @@
       "ideas": 5284
     },
     "chapters": {
-      "words": 117495,
-      "chars": 691531,
-      "ideas": 5270
+      "words": 117452,
+      "chars": 691249,
+      "ideas": 5259
     }
   }
 }

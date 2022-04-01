@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "kukacka_006.md",
@@ -107,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prolog"
           },
           {
             "filename": "kukacka_007.md",
@@ -119,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Marie Dobsonová"
           },
           {
             "filename": "kukacka_008.md",
@@ -131,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Fúze"
           },
           {
             "filename": "kukacka_009.md",
@@ -143,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pamela Kingová"
           },
           {
             "filename": "kukacka_010.md",
@@ -155,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Aaron Collins"
           },
           {
             "filename": "kukacka_011.md",
@@ -167,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Setkání"
           },
           {
             "filename": "kukacka_012.md",
@@ -179,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Miláček médií"
           },
           {
             "filename": "kukacka_013.md",
@@ -191,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Tříčtvrteční takt"
           },
           {
             "filename": "kukacka_014.md",
@@ -203,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Únos"
           },
           {
             "filename": "kukacka_015.md",
@@ -215,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Srub"
           },
           {
             "filename": "kukacka_016.md",
@@ -227,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kalamita"
           },
           {
             "filename": "kukacka_017.md",
@@ -239,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nevinnost sama"
           },
           {
             "filename": "kukacka_018.md",
@@ -251,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Malá lež"
           },
           {
             "filename": "kukacka_019.md",
@@ -263,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Cizí dcera"
           },
           {
             "filename": "kukacka_020.md",
@@ -275,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Přiznání"
           },
           {
             "filename": "kukacka_021.md",
@@ -287,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zamilovaná"
           },
           {
             "filename": "kukacka_022.md",
@@ -299,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pan Parker a pan Soto"
           },
           {
             "filename": "kukacka_023.md",
@@ -311,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kriminál a kostel"
           },
           {
             "filename": "kukacka_024.md",
@@ -323,7 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Tragédie jako od Shakespeara"
           },
           {
             "filename": "kukacka_025.md",
@@ -335,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Panna, nebo orel"
           },
           {
             "filename": "kukacka_026.md",
@@ -347,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poslední den Pamely Kingové"
           },
           {
             "filename": "kukacka_027.md",
@@ -359,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sedmilhářka"
           },
           {
             "filename": "kukacka_028.md",
@@ -371,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kánoe"
           },
           {
             "filename": "kukacka_029.md",
@@ -383,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Utíkání"
           },
           {
             "filename": "kukacka_030.md",
@@ -395,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Marie Dobsonová II."
           },
           {
             "filename": "kukacka_031.md",
@@ -407,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Škody po bouřce"
           },
           {
             "filename": "kukacka_032.md",
@@ -419,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ekologická lobby"
           },
           {
             "filename": "kukacka_033.md",
@@ -431,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Skleníkový efekt"
           },
           {
             "filename": "kukacka_034.md",
@@ -443,7 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Tváří v tvář"
           },
           {
             "filename": "kukacka_035.md",
@@ -455,7 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vysušené hovězí"
           },
           {
             "filename": "kukacka_036.md",
@@ -467,7 +497,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zahradnické práce"
           },
           {
             "filename": "kukacka_037.md",
@@ -479,7 +510,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kancelářské práce"
           },
           {
             "filename": "kukacka_038.md",
@@ -491,7 +523,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šeherezáda"
           },
           {
             "filename": "kukacka_039.md",
@@ -503,7 +536,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lov na kukačku"
           },
           {
             "filename": "kukacka_040.md",
@@ -515,7 +549,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Svět plný soudců"
           },
           {
             "filename": "kukacka_041.md",
@@ -527,7 +562,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zosobněná zkáza"
           },
           {
             "filename": "kukacka_042.md",
@@ -539,7 +575,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pálení mostů"
           },
           {
             "filename": "kukacka_043.md",
@@ -551,7 +588,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vydírání"
           },
           {
             "filename": "kukacka_044.md",
@@ -563,7 +601,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Epilog"
           },
           {
             "filename": "kukacka_045.md",
@@ -574,14 +613,15 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poděkování"
           },
           {
             "filename": "kukacka_046.md",
             "xhtml": "kukacka_046.xhtml",
             "id": 45,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -950,6 +990,6 @@
       "user": "books-are-next",
       "repo": "limrova-kukacka"
     },
-    "generatedAt": 1648808456318
+    "generatedAt": 1648809132007
   }
 }
