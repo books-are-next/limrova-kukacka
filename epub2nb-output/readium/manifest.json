@@ -1,0 +1,387 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kukačka",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Karolina Limrová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-03-18T00:00:00.000Z",
+    "published": "2021-03-11T07:37:08.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/kukacka_046.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_kukacka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/kukacka_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Marie Dobsonová",
+      "href": "OEBPS/Text/kukacka_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Fúze",
+      "href": "OEBPS/Text/kukacka_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Pamela Kingová",
+      "href": "OEBPS/Text/kukacka_009.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Aaron Collins",
+      "href": "OEBPS/Text/kukacka_010.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Setkání",
+      "href": "OEBPS/Text/kukacka_011.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Miláček médií",
+      "href": "OEBPS/Text/kukacka_012.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Tříčtvrteční takt",
+      "href": "OEBPS/Text/kukacka_013.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Únos",
+      "href": "OEBPS/Text/kukacka_014.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Srub",
+      "href": "OEBPS/Text/kukacka_015.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Kalamita",
+      "href": "OEBPS/Text/kukacka_016.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Nevinnost sama",
+      "href": "OEBPS/Text/kukacka_017.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Malá lež",
+      "href": "OEBPS/Text/kukacka_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Cizí dcera",
+      "href": "OEBPS/Text/kukacka_019.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Přiznání",
+      "href": "OEBPS/Text/kukacka_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Zamilovaná",
+      "href": "OEBPS/Text/kukacka_021.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Pan Parker a pan Soto",
+      "href": "OEBPS/Text/kukacka_022.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Kriminál a kostel",
+      "href": "OEBPS/Text/kukacka_023.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Tragédie jako od Shakespeara",
+      "href": "OEBPS/Text/kukacka_024.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Panna, nebo orel",
+      "href": "OEBPS/Text/kukacka_025.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "Poslední den Pamely Kingové",
+      "href": "OEBPS/Text/kukacka_026.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "Sedmilhářka",
+      "href": "OEBPS/Text/kukacka_027.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "Kánoe",
+      "href": "OEBPS/Text/kukacka_028.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "Utíkání",
+      "href": "OEBPS/Text/kukacka_029.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "Marie Dobsonová II.",
+      "href": "OEBPS/Text/kukacka_030.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Škody po bouřce",
+      "href": "OEBPS/Text/kukacka_031.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "Ekologická lobby",
+      "href": "OEBPS/Text/kukacka_032.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "Skleníkový efekt",
+      "href": "OEBPS/Text/kukacka_033.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "Tváří v tvář",
+      "href": "OEBPS/Text/kukacka_034.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Vysušené hovězí",
+      "href": "OEBPS/Text/kukacka_035.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Zahradnické práce",
+      "href": "OEBPS/Text/kukacka_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Kancelářské práce",
+      "href": "OEBPS/Text/kukacka_037.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "Šeherezáda",
+      "href": "OEBPS/Text/kukacka_038.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "Lov na kukačku",
+      "href": "OEBPS/Text/kukacka_039.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Svět plný soudců",
+      "href": "OEBPS/Text/kukacka_040.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Zosobněná zkáza",
+      "href": "OEBPS/Text/kukacka_041.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "Pálení mostů",
+      "href": "OEBPS/Text/kukacka_042.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "Vydírání",
+      "href": "OEBPS/Text/kukacka_043.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "Epilog",
+      "href": "OEBPS/Text/kukacka_044.xhtml#_idParaDest-39"
+    }
+  ]
+}
