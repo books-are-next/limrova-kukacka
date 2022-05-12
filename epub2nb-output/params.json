@@ -52,7 +52,7 @@
             "filename": "kukacka_002.md",
             "xhtml": "kukacka_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -817,7 +817,7 @@
         "xhtml": "kukacka_029.xhtml"
       },
       {
-        "titleSuggest": "Marie Dobsonová II.",
+        "titleSuggest": "Marie Dobsonová II\\.",
         "subtitleSuggest": "",
         "filename": "kukacka_030.md",
         "xhtml": "kukacka_030.xhtml"
@@ -990,6 +990,6 @@
       "user": "books-are-next",
       "repo": "limrova-kukacka"
     },
-    "generatedAt": 1648809132007
+    "generatedAt": 1652351577975
   }
 }
