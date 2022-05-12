@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - kukacka_002.html
+  - promo.html
   - kukacka_005.html
   - kukacka_006.html
   - kukacka_007.html
