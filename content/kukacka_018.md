@@ -3,6 +3,8 @@ title: Malá lež
 contentType: prose
 ---
 
+<section>
+
 Po zbytek dne jsem zůstávala ve svém pokoji. Listovala jsem rodinnými fotografiemi, které mi nechala přinést Helen. Kolem mě se vršily štosy všeho, co nějakým způsobem souviselo s její dcerou – vysvědčení, dopisy, novinové výstřižky, videa. Dokonce i záběry z dětských narozeninových oslav, na kterých se usměvavá Helen tiskla k usměvavému Bobu Kingovi. Jako by to byli dva úplně jiní lidé než ti, které jsem znala. Když odbila půlnoc, prokousala jsem se sotva polovinou hromady.
 
 Z Pamely jsem měla zvláštní pocit. Dívala jsem se na někoho, kdo vypadal úplně stejně jako já, ale situace, zachycené na fotkách, jsem nikdy neprožila. Plesy, benefice, oslavy. Jaká vlastně byla? Přetvařovala se, nebo fakt nedokázala s nikým vyjít? Její oči mi připadaly prázdné a úsměvy jako dokonalý plastový škleb od Mattela. Víc a víc jsem věřila tomu, že znát ji osobně, nesnášela bych ji.
@@ -232,3 +234,5 @@ Sotva znatelně přikývla a provinile si kousala ret. To bezbranné gesto mě 
 Objala mě kolem krku a tiskla se ke mně s urputností malého dítěte. Mlčela.
 
 „Vyzvednu tě ve tři,“ zašeptal jsem. A uvědomil jsem si, že už teď se na to těším.
+
+</section>

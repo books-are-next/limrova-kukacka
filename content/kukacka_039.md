@@ -3,6 +3,8 @@ title: Lov na kukačku
 contentType: prose
 ---
 
+<section>
+
 Aaron k nám docházel dvakrát týdně. Nikdy nebyl sám. Brával s sebou právníka nebo finančního experta. Lidi tam venku nesměli pochybovat, že jediným důvodem, proč Aaron Collins chodí do našeho domu, jsou miliardy někdejší společnosti King Petroleum. Doufali jsme, že se novináři postupně uklidní, a zdálo se, že to zabírá. Naše ochranka už víc než dva týdny nikoho nesundala ze stromu před mým oknem. Přesto jsem si stále ještě nemohla dovolit jít normálně ven, pokud jsem nechtěla čelit dotěrným otázkám. Stala se ze mě myš, která se krčí ve své díře a schovává se před smečkou hlady zdivočelých kocourů.
 
 Po měsíci se mi noha konečně úplně zahojila. Bylo to přesně ve stejné době, kdy mi kancelářská práce začínala lézt krkem. I když pracovat ve stejné budově, kde sídlila právnická firma, kterou si najala Collins Industries, přinášelo jisté výhody. Aaron se za mnou mohl zastavit a dělal to často. Někdy přinesl oběd, jindy jen nakoukl dovnitř a zeptal se, jak se mám. Bylo to krásný. A zároveň to bylo mučení. Jeho úsměvy, hlas, letmé doteky. Tak blízko, a přesto nedosažitelný. Pokaždé mě na jazyku pálila stejná otázka. Čekala jsem, jestli neudělá nebo neřekne něco víc.
@@ -278,3 +280,5 @@ Zacukaly mu koutky, ale nerozesmál se. Pohladil mě a jen se na mě díval.
 „Vážně?“
 
 Přikývl. „Tři měsíce, jeden týden a pět dní.“
+
+</section>

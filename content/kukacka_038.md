@@ -3,6 +3,8 @@ title: Šeherezáda
 contentType: prose
 ---
 
+<section>
+
 Vracel jsem se do kanceláře. Právní oddělení pracovalo skoro nepřetržitě, aby všechny podklady pro nové obchodní partnery byly na mém stole včas. Dobrý obchod byl mnohdy otázkou hodin.
 
 Přiblížil jsem se na dohled vjezdu do podzemních garáží výškové budovy, ve které sídlila moje firma. Ušklíbl jsem se. Velectění zástupci tisku se zřejmě urazili a rozhodli se, že mi za tu projížďku městem udělí lekci. Byli všude. U vjezdu a taky v prostorách parkoviště. Ke vchodu do výtahu bych se musel asi prostřílet, nebýt George, který tam na mě čekal a doslova vibroval vzteky. Těžko říct, jak dlouho už tam s nimi stál, ale vypadal jako časovaná bomba.
@@ -17,7 +19,9 @@ Když jsem zastavil a celé to stádo se začalo hrnout ke mně, roz­běhl se.
 
 „To nic nebylo, holčičko,“ zaslechl jsem ještě. Pobaveně jsem si umínil, že pokud to nebude nezbytně nutné, nebudu po zbytek dne opouštět kancelář.
 
-  
+</section>
+
+<section>
 
 K domu Kingových jsem se dostal až kolem desáté večer. Celé odpoledne jsem dumal nad tím, co se mi Marie chystá říct. Bude to hodně zlé? Pár věcí jsem zachytil v novinách, ale moc toho nebylo. Dokud Marie nedosáhne dospělosti, nesměli to rozmazávat. Takže jsem věděl jenom tolik, že její biologický otec je šéfem chicagské policie, matka si odpykává trest za pokus o přepadení banky a že Marie posledních pár let nežila zrovna vzorně. Její minulost zahrnovala mimo jiné vykrádání aut. A taky obrovského Hispánce, který ji směl objímat a říkat jí Kuře. Mohl bych poslat Parkera, aby mi o Marii i o tom chlapovi zjistil všechno, co půjde, ale neudělal jsem to. Touhle cestou už jsem se vydat nechtěl.
 
@@ -284,3 +288,5 @@ Pousmála se. „Možná bych to spíš nepřežila já. Když jsi naštvanej, j
 Stačilo se sklonit trochu níž. Její vůně mě obklopila stejně jako v mých snech. Jen byla sladší, než jsem si pamatoval. A její rty sametovější. Cuchala mi vlasy a snažila se ke mně přitisknout ještě víc. Možná se taky celé týdny bála, že se to už nikdy nestane.
 
 Ještě chvíli jsem ležel a vdechoval vůni jejích vlasů. Hladila mě po zádech. Držel jsem ji, dokud se její dech nezklidnil. Pak jsem ji přikryl a zhasl. Ještě než jsem za sebou zavřel dveře, cítil jsem její upřený pohled.
+
+</section>

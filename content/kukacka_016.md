@@ -3,6 +3,8 @@ title: Kalamita
 contentType: prose
 ---
 
+<section>
+
 „Co to máš za boty?“ zeptal se nevěřícně, když jsme se o pár minut později sešli na verandě.
 
 Sklopila jsem oči k úplně novým sportovním botám s typickou značkou firmy Nike. Byly boží.
@@ -296,3 +298,5 @@ Zvedl ke mně hlavu a najednou to byl zase ten milý Aaron. Mě ale strach neop
 Pomalu jsem vydechla. K pocitu úzkosti se úplně nesmyslně přidala radost. Vážně právě řekl, že je mu se mnou krásně?
 
 Vstal, naposledy přiložil a pak jsme se nasoukali do spacáku. Skoro praskal ve švech, ale bylo nám aspoň teplo. Aaron mě objímal a já objímala jeho, protože jinak bychom se ani nevešli. Snažila jsem se nemyslet. Usnula jsem s hlavou na jeho rameni.
+
+</section>

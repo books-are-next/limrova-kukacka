@@ -3,6 +3,8 @@ title: Cizí dcera
 contentType: prose
 ---
 
+<section>
+
 Léto bylo v plném proudu, ale blížila se bouřka. Na nebi pluly černé mraky a foukal studený vítr, který mě trochu probral. Bez ohlédnutí jsem vystoupala pár dřevěných schodů, které vedly na verandu domu. Kdyby mi v tu chvíli Aaron viděl do obličeje, musel by všechno poznat.
 
 Zaklepala jsem a za dveřmi se vzápětí ozvaly spěšné kroky.
@@ -318,3 +320,5 @@ Zůstala jsem stát s rukou na klice. Helen netušila, o čem mluví. Jak mám
 Proměnila se v ledovou sochu. „Můžeš jít,“ ukončila náš rozhovor tiše.
 
 Zmizela jsem tak rychle, jak jsem dokázala.
+
+</section>

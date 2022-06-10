@@ -3,6 +3,8 @@ title: Zahradnické práce
 contentType: prose
 ---
 
+<section>
+
 Druhý den mě do práce odvezl táta. Zpráva o prodeji King Petroleum se už stala veřejnou záležitostí a k paparazziům, kteří se střídali ve střežení našeho domu, se přidaly televizní štáby. Táta jim slíbil tiskovku a rychle jsme odjeli.
 
 V recepci jsem se dozvěděla, že místo do skleníku mám zamířit za Jane. Ze zvyku jsem přemýšlela, jestli nemám nějaký malér. V kanceláři jsem se potkala s Tedem.
@@ -15,7 +17,9 @@ V recepci jsem se dozvěděla, že místo do skleníku mám zamířit za Jane. 
 
 Gratulovala jsem jí a pak už jsem se ke slovu nedostala. Ted začal chrlit, co, kdy a jak se zasadí. Ještě jsem ho neslyšela mluvit tak dlouho a tak nadšeně. Jane mě zaměstnala objednáváním sazenic podle Tedova seznamu. Ona sama obvolávala dobrovolnické organizace a sháněla lidi. Domů jsem přijela až v noci a úplně vyčerpaná. Zhltla jsem jen velký jogurt a málem jsem usnula za stolem.
 
-  
+</section>
+
+<section>
 
 Ráno jsem vstávala hodně brzy. Radnice nám dala strašně málo času a s pracemi se muselo začít okamžitě. Jak říkal Ted, ty rostliny musí do země co nejdřív. K sídlu nadace jsem se dostala taxíkem. Dorazila jsem zrovna ve chvíli, kdy se houf dobrovolníků s hromadným zíváním tlačil do přistaveného autobusu. Nastoupila jsem a našla si místo skoro vzadu. Rychle jsem snědla koblihy a potom už jsem celkem spokojeně usrkávala kafe z termohrnku.
 
@@ -189,11 +193,15 @@ V čekárně jsem se pustil do formulářů. Těšil jsem se obzvlášť na pol
 
 Hned na prvním řádku bylo třeba vyplnit jméno. Dopustil jsem se sotva patrného zaváhání. Na tisícinu vteřiny mě napadlo to falešné. Zvedl jsem k ní oči a střetl se s jejím napjatým pohledem. Beze slova jsem je zase sklopil k papíru a napsal:
 
-  
+</section>
+
+<section>
 
 _Marie Dobsonová._
 
-  
+</section>
+
+<section>
 
 „Jo, pořád ještě,“ utrousila.
 
@@ -330,3 +338,5 @@ Zaslechl jsem svou švagrovou, ale nerozuměl jsem ani slovo.
 „Jasně. Promiň… Pozdravuj ji!“
 
 Telefon na stolku ještě chvíli zářil, ale potom se stejně jako všechno kolem ponořil do tmy.
+
+</section>

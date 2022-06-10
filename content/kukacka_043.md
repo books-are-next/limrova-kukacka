@@ -3,6 +3,8 @@ title: Vydírání
 contentType: prose
 ---
 
+<section>
+
 Teo mi dal panáka a prášky na spaní. Ve většině ohledů mě bral jako dospělou už od mých patnácti. Těsně před tím, než jsem zavřela oči, prohlásil, že mě radši zamkne. Těžko říct, jestli chtěl někomu zabránit, aby se ke mně dostal, nebo se bál, že zase zmizím.
 
 Na prášky jsem si vzpomněla, jakmile jsem otevřela oči. Hlava mi totiž třeštila a zvedal se mi žaludek. Můj mozek se pomalu probouzel k životu a vyčítavě mi připomněl, že jsem nevečeřela. Měla jsem jen tu horkou čokoládu v Glamour. Pak dlouho nic a nakonec panáka a oblbováky.
@@ -297,7 +299,9 @@ Zase se celá rozsvítila a dala mi pusu na bradu. Až teď jsem si připustil 
 
 „Tak mě vezmi domů.“
 
-  
+</section>
+
+<section>
 
 Na ulici stál George a dělal, co bylo v jeho silách, aby od nás udržel novináře. Zahlédl jsem i Steina. Napadlo mě, že jsme Floresovi udělali slušnou reklamu. To by mohl ocenit.
 
@@ -318,3 +322,5 @@ Nepobavilo ji to. Chvíli se zamyšleně mračila, ale pak se ke mně přitulila
 S povzdechem jsem ji objal kolem ramen a políbil ji do vlasů.
 
 „Sto.“ A dodal jsem: „Tisíc.“
+
+</section>

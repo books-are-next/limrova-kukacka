@@ -3,6 +3,8 @@ title: Poslední den Pamely Kingové
 contentType: prose
 ---
 
+<section>
+
 „Je s tím jídlem něco v nepořádku?“ Helenin hlas pronikl až do mého růžového obláčku, který se kolem mě vznášel už od návratu z Aaronova bytu. Myslela jsem na včerejší noc, ale hlavně na dnešní ráno.
 
 „Co?“ Snažila jsem se získat čas na odpověď.
@@ -380,3 +382,5 @@ Za pár minut nám přistavili auto. Janeth si sedla ke mně dozadu a celou dob
 Naše oči se střetly ve zpětném zrcátku.
 
 „Prý je na tebe strašně pyšnej. Zavolá ti, ještě než půjdeš spát.“
+
+</section>

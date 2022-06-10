@@ -3,6 +3,8 @@ title: Panna, nebo orel
 contentType: prose
 ---
 
+<section>
+
 Nemohla jsem spát. Dokonce jsem se ani nenajedla, protože mě to prostě nenapadlo. Až někdy ve dvě ráno se můj žaludek ozval tak hlasitě, že přehlušil hlas moderátora zpravodajského kanálu. Seběhla jsem dolů do kuchyně, vzala si nějaké pečivo a plátek studeného masa od oběda. Nezapomněla jsem ani na plechovku piva. Pak jsem sprintovala zpátky, aby mi nic neuteklo.
 
 Nesnášela jsem, že díky mnoha reprízám už předem vím, jak po sobě budou následovat jednotlivé zprávy, které televize vysílala. Nic moc se nedělo, takže hodinu co hodinu běžely s menšími obměnami stejné informace. Třikrát jsem vytočila Bobovo číslo, protože mi ruply nervy, ale pokaždé jsem to položila dřív, než to u něj začalo zvonit. Nemohla jsem mu říct vůbec nic. Nemohla jsem mu vykládat, že ten mrtvej kluk se o mě dva roky staral, když mi bylo nejhůř. Dokonce ani to, že se Helen zhroutila. Pamela měla úžasnýho tátu, který by se o ni postaral, ať by se dělo cokoli. Jenže Pamela na rozdíl ode mě byla skutečně Pamela. Neměla skříň plnou kostlivců ani spoustu kamarádů, kteří chodili spát s boxerem na ruce.
@@ -17,19 +19,25 @@ Zdálo se, že spí tvrdě a klidně, a tak jsem nakonec odešla. Zpět ke sle
 
 Otevřela jsem si plechovku piva, a abych se nějak zaměstnala, snažila jsem se dopředu hádat teploty ve Státech, předpovídané na další den. Spletla jsem se jen jednou. Meteorologickou mapu už jsem tu noc taky zahlédla nespočetněkrát. Někde mezi Texasem a Kalifornií jsem konečně usnula.
 
-  
+</section>
+
+<section>
 
 Vzbudilo mě ranní slunce, které mi pražilo přímo do obličeje. Kde jsou ty mraky, když je člověk potřebuje? Se zaúpěním jsem si sedla. Záda jsem měla jako přeražená, protože jsem spala v křesle. Při pohledu na stále ještě zapnutou televizi jsem zaznamenala změnu moderátora. Tima vystřídal Max.
 
 Doploužila jsem se do sprchy. Pod proudy vody se mi podařilo uvolnit ztuhlé svaly a vybrečet se do zásoby, abych během dne už nemusela. Uvědomila jsem si, že jsem tentokrát po probuzení nezkontrolovala mobil. Zdálo se to neuvěřitelné, ale Aaron se mi v tom všem na chvíli vykouřil z hlavy. A tak jsem z koupelny vyběhla úplně mokrá, jen omotaná ručníkem. Našla jsem tři ztracená volání a jednu čerstvou textovku.
 
-  
+</section>
+
+<section>
 
 **Chybim ti tolik jako ty mne? Myslim, ze asi ne.**
 
 **Ty sny me dohaneji k silenstvi. Vecere dnes u me? Prosim, nerikej ne. Aaron**
 
-  
+</section>
+
+<section>
 
 A to jsem si myslela, že už nebudu brečet. Aaron neměl tušení, koho si to vlastně bere. Ani to, že někdo zemřel proto, aby k naší svatbě vůbec došlo.
 
@@ -73,7 +81,9 @@ Vrátila jsem se do svého pokoje a cítila se o sto padesát kilo lehčí. P�
 
 Konečně jsem mu odepsala.
 
-  
+</section>
+
+<section>
 
 **Strasne se tesim! Vyzvednes me? Ale asi usnu uprostred vecere. V noci jsem skoro nespala.**
 
@@ -194,3 +204,5 @@ Otřel jsem se nosem o její krk a pak jsem jí dal takovou úplně malou pusu
 „Promiň,“ omlouvala se a zívla. „Měla jsem hodně těžkou noc.“
 
 „Jdeme spát,“ zavelel jsem. Zvedl jsem se a s Pam v náruči jsem zamířil k jednomu ze tří točitých schodišť. „Ložnice jsem ti ještě neukázal,“ šeptal jsem jí do vlasů. Velice snadno jsem si dokázal spočítat, že postel, ve které se zítra ráno vzbudí, bude ta moje.
+
+</section>

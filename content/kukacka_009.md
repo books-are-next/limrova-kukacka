@@ -3,6 +3,8 @@ title: Pamela Kingová
 contentType: prose
 ---
 
+<section>
+
 Doktor Bradley se objevil přesně na čas. Helen přišla taky, chtěla být u toho.
 
 Vypadal jako laskavý chlap. Byl to lehce prošedivělý padesátník se sotva znatelně vystupujícím bříškem. Opravdu se snažil. Dokonce se mnou vtipkoval. Zatímco mi na záda přikládal studený stetoskop, odebíral vzorky krve a prohmatával břicho, jen tak – jakoby mimochodem – mi pokládal spoustu otázek. Chtěl vědět, jestli jsem někdy byla vážněji nemocná, jestli neberu drogy nebo jestli jsem někdy neměla něco zlomeného. Helen celou dobu mlčela, seděla v křesle a kouřila. Na všechno jsem odpovídala pravdivě. Nějakým zázrakem se mi nemoci vyhýbaly. Feťáků jsem se od jisté doby štítila, a tak mě nikdy ani nenapadlo něco brát. Od chvíle, kdy mě Nathan přivedl k Teovi, bych ani neměla šanci. Nedělalo mu problémy z někoho vymlátit prachy nebo ve velkém rozjet obchod s kradenými auty. Ale drogy svým lidem jasně zakázal. Teo byl prostě chytrej. Feťáci dělají chyby a on nestál o to, aby si někdo šlehnul a pak poldům vyklopil všechno, co ví.
@@ -37,7 +39,9 @@ Zajímalo by mě, co by do mě řekla…
 
 Mávla rukou, jako by se tím už nechtěla zabývat. „Musím teď odjet. Za tebou přijde švadlena a vezme ti míry.“ Pousmála se, ale jen rty. Její oči zůstávaly dál chladné. „Chovej se tu jako doma.“
 
-  
+</section>
+
+<section>
 
 O dva dny později mě Helen naložila do auta a se mnou i dvě tašky oblečení. Čekala, až se úplně setmí, nejspíš se bála novinářů. Celé uplynulé odpoledne jsem zírala do zrcadla a prohlížela si obličej. Dřív jsem se moc neřešila. Věděla jsem, že nejsem nijak zvlášť krásná, připadala jsem si spíš úplně obyčejná. Jenže najednou jsem se začala bát, že zapomenu, jak jsem původně vypadala. A tak jsem tam stála, natáčela hlavu ze strany na stranu a snažila se zapamatovat každý rys tváře. Strašně ráda bych se nechala vyfotit, ale to mi Kingová zakázala.
 
@@ -127,7 +131,9 @@ Vrátila jsem se do svého pokoje. V přilehlé koupelně jsem si vyčistila zu
 
 Usnula jsem za pár vteřin. Bez prášku.
 
-  
+</section>
+
+<section>
 
 Ráno jsem věřila, že jsem připravená. Necvakaly mi zuby, netřásly se mi ruce. Doktor Bradley provedl předoperační prohlídku a hodně mě uklidnil. Zdálo se, že to bude opravdu jen pár drobných změn. Operace potrvá kolem hodiny a prý se to rychle zahojí.
 
@@ -157,7 +163,9 @@ Když bylo po všem, opatrně jsem si sáhla na úplně holou hlavu.
 
 Poslechla jsem ho. Zalezla jsem si do sprchového koutu a pečlivě ze sebe smyla odstřižky vlasů. Zase jsem brečela. Když jsem vylezla ven, do zrcadla už jsem se nepodívala. To bych nezvládla.
 
-  
+</section>
+
+<section>
 
 Připadalo mi to jako chvilka. Viděla jsem oči doktora Bradleyho vykukující nad pestrobarevnou rouškou a taky laskavý pohled druhého doktora – prý specialisty –, který stál hned za ním. Pak mi na obličej přitiskli masku, z níž proudil zvláštně páchnoucí vzduch.
 
@@ -186,3 +194,5 @@ Upravila něco na přístroji, co se mi odporným pípáním snažil udělat do 
 Přepadl mě podivný pocit ztráty a osamělosti. Jako by existence skutečné Pamely znamenala mizivou možnost, že se všechno vrátí do starých kolejí. Objeví se Helen a řekne, že se její dcera zázračně probrala. A já se budu moct vrátit. Ale kam vlastně? Byla jsem si skoro jistá, že by se mi ulevilo. Nebo ne?
 
 Cítila jsem zvláštní tlak na hrudi. Jsem Pamela Kingová. Teď už opravdu. Napořád.
+
+</section>

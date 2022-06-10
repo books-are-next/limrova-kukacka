@@ -3,6 +3,8 @@ title: Zosobněná zkáza
 contentType: prose
 ---
 
+<section>
+
 Aaron přijel v devět. Běžela jsem otevřít a vysloužila jsem si za to velmi zamračený pohled Tý. Člověk by málem začal věřit, že by před domem mohla místo novinářů čekat horda teroristů. Táta mu doporučil, aby si šel lehnout. Prý ho vzbudí, až půjde spát.
 
 „Slečno Dobsonová,“ pozdravil mě Aaron mezi dveřmi. Proklouzl dovnitř, jako by se k nám snad chtěl vloupat. Musela jsem se smát.
@@ -274,3 +276,5 @@ Zaváhal jsem. Rvala se ve mně touha zůstat jí nablízku s touhou vyhovět j
 „Ano.“ Znělo to klidně a přesvědčeně.
 
 Vyhrála potřeba splnit každé její přání, i když jsem věděl, že dnes v noci neusnu. Nechtělo se mi od ní odejít. Připadalo mi, že to není dobrý nápad. Přesto jsem ji přikryl a šel jsem bdít jinam.
+
+</section>

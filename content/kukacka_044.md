@@ -3,9 +3,13 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 _O čtyři roky později_
 
-  
+</section>
+
+<section>
 
 „… určitě se ti tam bude líbit. Zasloužíš si pořádnou dovolenou. Maturita. Přijetí na vysokou. Jsi moje šikovná, krásná, chytrá…“ Aaron se mě snažil rozptýlit. Jen co jsem po pár hodinách neklidného spánku otevřela oči, byl připravený nám oběma zpříjemnit ráno.
 
@@ -110,3 +114,5 @@ Rozpačitě jsem se usmála.
 Natáhl se přese mě na noční stolek pro hodinky. Když zkontroloval čas, věnoval mi velmi nebezpečný a hladový pohled. Pomalu, jako bych se mohla potlouct, mě sundal ze svého klína a položil na polštář. Znovu mě pohladil po břiše. Všechno se ve mně krásně sevřelo.
 
 Lehl si ke mně, ruce opřené o lokty. Posunula jsem se kousek do strany. Pod dekou a přikrytá jeho tělem… jako bych se zase ocitla ve spacáku pod skalním převisem.
+
+</section>

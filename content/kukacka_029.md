@@ -3,6 +3,8 @@ title: Utíkání
 contentType: prose
 ---
 
+<section>
+
 Dům působil nezvykle tiše. Neslyšela jsem žádné kroky ani hlasy. Než jsem zaklepala na dveře Heleniny pracovny, na chvíli jsem musela zatnout ruce v pěst, protože se mi nezvladatelně třásly. Několikrát jsem se zhluboka nadechla, abych se uklidnila.
 
 „Dále.“
@@ -257,7 +259,9 @@ Trhnul rameny a zase se napil. Zřejmě ho to docela rozladilo.
 
 „Tak si běž vypakovat. Za chvíli přijde jeden… obchodní partner. Tak ať tě tu nikdo nenačapá.“
 
-  
+</section>
+
+<section>
 
 Dostala jsem pokoj ve druhém patře. Občas tam ubytoval některého ze svých kamarádů. Šlapky ne, ty v baráku nechtěl. V lokále směly čekat na zákazníky, ale pracovat musely jinde. A jeden z pokojů měla rezervovaný Nina. Ta ale většinou bydlela ve vlastním domku na druhé straně města a sem chodila jen v případě, že Camila odjela za rodinou do Mokeny.
 
@@ -268,3 +272,5 @@ Skopla jsem boty a svalila se na postel přikrytou kýčovitým svítivě zelen
 Otočila jsem se na bok a zavřela oči. Co asi dělá? Je se svou rodinou? Pomáhají mu to zvládnout? Možná jel s Ethanem kempovat, dostat to ze sebe.
 
 Přitiskla jsem si k očím cíp přehozu. Ze všech sil jsem se snažila nedumat o zítřku. A o příštím týdnu, měsíci. Nešlo mi to.
+
+</section>

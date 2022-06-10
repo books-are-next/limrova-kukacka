@@ -3,6 +3,8 @@ title: Prolog
 contentType: prose
 ---
 
+<section>
+
 „Na tu smlouvu můžete zapomenout.“
 
 Aaron Collins to řekl tak klidně, jak jen za daných okolností dokázal. Ze světle hnědých vlasů mu na ramena stékalo rajské coulis, které bylo původně určené na polévání grilovaných kuřecích stehýnek. Shodou mnoha okolností se ocitlo na jeho hlavě. A to byla poslední kapka.
@@ -22,3 +24,5 @@ Setřel si z čela tenkou stružku stékajícího coulis a ironicky se usmál.
 „Nemáte ani tušení, jak moc, madam. Ale má rodina by mě musela prohlásit za nesvéprávného, kdybych se s Pamelou po tom všem oženil. Doufal jsem, že je jen… nezralá. Jenže ona je…“ Rozhlédl se, ale pak odolal nutkání přede všemi těmi lidmi dokončit větu.
 
 Nakonec zavrtěl hlavou a odešel.
+
+</section>

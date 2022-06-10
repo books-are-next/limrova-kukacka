@@ -3,6 +3,8 @@ title: Vysušené hovězí
 contentType: prose
 ---
 
+<section>
+
 Bob zajel na poloprázdné parkoviště. Téměř romanticky působící zámeček ženské věznice v Dwightu stál přímo před námi. Rozhlédla jsem se. Žaludek se mi změnil v kus vyvřeliny a zpotily se mi dlaně. Scenérie jako z pohádky. Až na ty ostnaté dráty. A kamery. A policajty.
 
 „Připravená?“ zeptal se táta.
@@ -299,6 +301,10 @@ Protočil jsem oči.
 
 „Neomlouvej se,“ zarazila mě Beverly. „Nemůžeš za to. Jen přijeď včas, ano? Hodlám si to tam užít.“
 
-  
+</section>
+
+<section>
 
 Z večírku u příležitosti otevření nové scény Goodmanova divadla, jejíž výstavbu jsem financoval, se nakonec vyklubala docela příjemná akce. Až na dekolt Kim Wakefieldové, který mě první půlhodinu pronásledoval, kamkoli jsem se pohnul. Beverly byla ale dokonalý stratég, takže jí jako moje dobrá víla házela pod nohy kdejakého klacka, který se namanul. Když jsem těsně před půlnocí odcházel, zahlédl jsem Kim přišpendlenou ke sloupu nějakým podnapilým gentlemanem. Byla očividně spokojená.
+
+</section>
