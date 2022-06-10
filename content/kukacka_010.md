@@ -3,8 +3,6 @@ title: Aaron Collins
 contentType: prose
 ---
 
-  
-
 Byl to den jako kterýkoli jiný. V osm ráno jsem vešel do pracovny své osobní asistentky. Pozdravil jsem ji a převzal si vzkazy. V kanceláři už na mě čekal hrnek horké kávy a hromada ranních novin. Postupně jsem se prokousal všemi ekonomickými a politickými zprávami, aby mi – jako obvykle – na stole zůstal jen výtisk _Strangera_. Takový plátek bych za nic na světě neodebíral, ale jeden z tamních redaktorů mi tenhle bulvární škvár posílal zdarma. Zřejmě proto, že se v něm o mě jen zřídkakdy neotřel.
 
 Chystal jsem se ho strčit rovnou do skartovačky, ale vtom jsem si všiml titulku na přední straně. Hlásal, že na smrt nemocná dědička King Petroleum Pamela Kingová se zázračně uzdravuje po boji s rakovinou. Novináři zřejmě neměli moc informací, protože hned ve druhém odstavci už asi posté rozebírali náš rozchod před několika měsíci. Při čtení se mi zdálo, že stále ještě cítím rajské coulis, jako by se to stalo včera.
@@ -12,6 +10,8 @@ Chystal jsem se ho strčit rovnou do skartovačky, ale vtom jsem si všiml titul
 Navzdory skutečnosti, že mě nikdy nikdo nevytočil tolik jako Pamela Kingová, uzdravení jsem jí přál. Rakovina mi totiž před několika lety vzala otce.
 
 Stranger konečně projel skartovačkou. Otevřel jsem laptop, abych vyřídil obchodní korespondenci. Od chvíle, kdy jsem před sedmi hodinami opustil kancelář, abych se doma aspoň trochu vyspal, mi přišlo sto padesát osm e-mailů. Zběžně jsem je projížděl a zaškrtával všechny, které bez otevření smažu. Byly to většinou reklamní nabídky nebo pozvánky na společenské akce. Pak jsem ale narazil na zprávu od Helen Kingové. Plný neblahého tušení jsem ji otevřel.
+
+  
 
 _Vážený pane Collinsi,_
 
@@ -28,8 +28,6 @@ _P. S.: Ona se tolik změnila…_
 
 * * *
 
-  
-
 Seděla jsem na posteli a na oteklé rty si tiskla ledový pytlík s modrým chladicím gelem. Z nosu, jehož tvar teď držel plastový kryt, mi trčely dva tampony. Snažila jsem se dýchat ušima.
 
 „Tu věc umí ovládat i můj čtyřletý vnuk. Jistě se to rychle naučíte,“ uklidňovala mě paní Cooperová.
@@ -44,7 +42,11 @@ Displej se změnil. Objevila se bílá plocha a pod ní klávesnice.
 
 Docela mi to trvalo. V psaní na počítači jsem příliš velkou praxi neměla. Postupně jsem vyťukala jednotlivé hlásky.
 
+  
+
 **pripadam si jako kreten**
+
+  
 
 Paní Cooperová se zasmála. „Rozumím vám. Měla byste vidět mě, když jsem si poprvé sedla k počítači.“
 
@@ -52,11 +54,19 @@ Zakroužila jsem prstem nad písmeny a tentokrát celkem rychle napsala _pivo_.
 
 „Vy jste veselá kopa, slečno. Na takové věci můžete zapomenout. Vaše tělo má momentálně dost práce s regenerací. Nebudeme ho zatěžovat. Zdravá a vyvážená strava je přesně to, co teď potřebujete.“ A bodře dodala: „První dva dny si pošmáknete jen na kaši. Brčkem.“
 
+  
+
 **kur**
+
+  
 
 Setkaly jsme se pohledem. V té laskavé tváři se najednou objevil varovný výraz.
 
+  
+
 **nik**
+
+  
 
 „No vidíte! Už vám to moc pěkně jde,“ řekla spokojeně a vzala si ode mě obklad. Rty mě pálily, a jak přicházely k sobě, nepříjemně v nich škubalo. Měla jsem pocit, že mi tu pusu snad úplně zašili.
 
@@ -66,11 +76,19 @@ Setkaly jsme se pohledem. V té laskavé tváři se najednou objevil varovný v
 
 Zavrtěla jsem hlavou. Prospala jsem dvanáct hodin a jediné, co mě trápilo, byl bolavý zadek.
 
+  
+
 **proc me boli zadek**
+
+  
 
 Zářivě se usmála. „Doktor Bradley vám nevysvětloval, jak se zvětšují rty? No, nejpřirozenější je metoda vlastního štěpu. To se odříznou kousky hlubokých vrstev kůže z jiné části vašeho těla a použijí se ke zvětšení rtů.“
 
+  
+
 **ale me boli zad**
+
+  
 
 Vtom mi to došlo. Vytřeštila jsem oči.
 
@@ -80,13 +98,21 @@ Rychle mi přitiskla na ústa gelovou kapsli.
 
 „Nemluvte, slečno! Aspoň dva dny! Nebo se naruší tvar!“
 
+  
+
 **zrcadlo!!!!!!!!!!!!!**
+
+  
 
 „Nemusíte do toho displeje tak bouchat,“ zabručela paní Cooperová. „A v zrcadle nic neuvidíte. Jen oteklou fialovou tkáň. To vám moc sebevědomí nepřidá. Jestli se bojíte, že bude něco poznat, tak vás ubezpečuji, že nebude.“ Vypadalo to, že se opravdu zlobí.
 
 Pomalu jsem vydechla a provinile jí vrátila ledový obklad.
 
+  
+
 **omlouvam se**
+
+  
 
 Okamžitě se začala usmívat. Zřejmě nebylo nijak zvlášť těžké udělat jí radost.
 
@@ -100,13 +126,21 @@ Prášek začal zabírat, přicházela na mě únava. Chvíli jsem jen tak bloum
 
 Za vteřinu jsem před sebou měla výpis článků. Zkusila jsem otevřít první odkaz.
 
+  
+
 **Dědička impéria King Petroleum Pamela Kingová se úspěšně zotavuje po náročné operaci. Podle nejnovějších informací se její léčba blíží k závěru a pacientka už se těší na návrat domů. Její matka Helen Kingová hodlá u příležitosti zázračného uzdravení své dcery uspořádat slavnostní banket.**
+
+  
 
 Mrkla jsem se na začátek článku. Ta zpráva byla z dneška, Helen neztrácela čas. Od smrti Pamely uplynulo sotva dvacet čtyři hodin – a ona místo pohřbu a truchlení plánuje slavnostní party. Jak se asi cítí? Tušila jsem, že hrozně.
 
 Pokračovala jsem ve čtení.
 
+  
+
 **Bývalý snoubenec Pamely Kingové, generální ředitel Collins Industries Aaron Collins, vyjádřil radost nad tak markantním zlepšením jejího zdravotního stavu. Podle jeho slov oba uvažují o obnovení zasnoubení a o svatbě. Pan Collins hodlá slečnu Kingovou navštívit, jakmile skončí preventivní karanténa. Ošetřující lékař, doktor Archibald Bradley, toto opatření nařídil s ohledem na oslabenou imunitu své pacientky. Podle jeho slov je propuštění do domácího ošetřování otázkou několika týdnů.**
+
+  
 
 Zírala jsem na to a četla článek pořád dokola. Podruhé. Potřetí. Počtvrté…
 
@@ -122,7 +156,11 @@ Pak už jsem jen ztěžka oddechovala a snažila se ignorovat bolestivé tepán
 
 Znovu jsem sáhla pro tablet. Ruce se mi klepaly, takže se mi jeho jméno podařilo napsat až na několikátý pokus. V duchu jsem si opakovala: „To není možný!“
 
+  
+
 **aaron collins**
+
+  
 
 Vyplivlo to na mě sérii fotek a zpráv. Ukázalo se, že Aaron Collins nemá pleš ani pivní břicho. Není mu sedmdesát, jak jsem se původně bála. Ne že by se mi tedy nějak extra ulevilo.
 

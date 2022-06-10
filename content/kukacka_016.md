@@ -3,8 +3,6 @@ title: Kalamita
 contentType: prose
 ---
 
-  
-
 „Co to máš za boty?“ zeptal se nevěřícně, když jsme se o pár minut později sešli na verandě.
 
 Sklopila jsem oči k úplně novým sportovním botám s typickou značkou firmy Nike. Byly boží.
@@ -91,8 +89,6 @@ Do lesa jsme vykročili po úzké prošlapané cestě. Musela jsem jít kousek z
 
 * * *
 
-  
-
 Na zádech krosnu se spacákem, lékárničkou a čajem a v dlani Pamelinu malou ruku. To jsou tedy věci… Chladný vzduch mi pomohl srovnat se. Povedlo se mi připomenout si, proč to všechno dělám. Fúze. No jistě. Vzápětí mě ale úplně scestně napadlo, že by byl život mnohem jednodušší, kdybych se s Pamelou potkal třeba v divadle a ona se nejmenovala Kingová. V takovém případě bych ji měl už nejméně týden u sebe doma a určitě bych ji nenechal hned tak odejít. Jenže ona Kingová byla. A taky byla dědička kolosu, který jsem shodou okolností strašně moc chtěl koupit. A její matka byla rovná asi jako hůl zabodnutá do vody.
 
 Kradmo jsem se na Pamelu podíval. Záhada. Ještě před půl rokem na mě plivala síru jako prvotřídní saň.
@@ -178,8 +174,6 @@ Bezradně jsem se rozhlédl. Taxi tady asi neseženu. Přemlouvat ji už nemělo
 Vyčerpávající pochod mi postupně vyhnal všechny hluboké myšlenky z hlavy. Obcházel jsem polomy a často musel jít mimo cestu. Prvních pár set kroků jsem si užíval, jak je Pamela lehká, o půl hodiny později jsem čekal, že mi každou chvíli upadnou ruce. Mé myšlenkové pochody se smrskly na smršť nadávek, které jsem sám na sebe chrlil s každým namáhavým nádechem a výdechem. Slečna Kingová spala.
 
 * * *
-
-  
 
 „Pamelo?“ ozvalo se. Zrovna se mi zdálo o tom, že ležím ve vaně plné horké vody. Neměla jsem nejmenší tušení, jak by se mě to oslovení mohlo týkat. Já přece nejsem žádná Pame…
 

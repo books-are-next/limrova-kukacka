@@ -3,8 +3,6 @@ title: Nevinnost sama
 contentType: prose
 ---
 
-  
-
 Nemohla jsem se pohnout ani o milimetr. Škubala jsem sebou a doufala, že se ještě nebudu muset úplně vzbudit. Zkusila jsem propnout nohy a ruce, ale byla jsem jako svázaná. Nespokojeně jsem zakňučela. Všechno mě bolelo. Navíc se ozval můj hladový žaludek. Ne, tohle nejspíš nebude dobré ráno.
 
 „Dobré ráno,“ ozvalo se tak blízko, že mě to okamžitě probralo. Znehybněla jsem. Opatrně jsem otevřela oči. Pár centimetrů ode mě se usmívaly rty Aarona Collinse a hned nad nimi zářily jeho zelené oči. Dokonce jsem cítila šimrání jeho vousů na tváři. Okamžitě jsem byla vzhůru.
@@ -55,8 +53,6 @@ Aaron strnul a tiše zaúpěl: „Proč nejsem jedináček?!“
 
 * * *
 
-  
-
 „Skvělé načasování, Ethane,“ prohodil jsem mrzutě a vysoukal se ze spacáku. Pamela vypadala, že by se naopak docela ráda zavrtala co nejhlouběji a ještě lépe pod zem.
 
 „Věděl jsem, že mě rád uvidíš,“ zasmál se Ethan.
@@ -106,8 +102,6 @@ Ozvaly se rychlé kroky, pak se kolem mihla ohnivá dlouhá hříva. Ethanovi se
 Pomohl jsem Pamele z bundy a usadil ji za stůl. Ani jednomu z nás nějak nebylo do řeči, ale zachránil nás guláš. Oběma jsem nandal vrchovatý talíř. Jedli jsme mlčky.
 
 * * *
-
-  
 
 Celou cestu a vlastně i teď jsem měla potřebu se nějak dotknout toho, co se mezi námi odehrálo, ale nevěděla jsem jak. Bylo úplně šumák, že jsme se měli brát. Tohle vypadalo na opravdový vztah a mně se z té myšlenky třásly ruce. Neměla jsem ponětí, jak se to stalo. Navíc tu byla ještě ta drobnost v podobě mých – oproti Pamele – téměř nulových zkušeností s muži.
 
@@ -189,8 +183,6 @@ Snažila jsem se popadnout dech. Pořád mě držel.
 
 * * *
 
-  
-
 „V poslední době hlavně Five For Fighting, ale střídám to. Mám rád i tvrdou muziku.“
 
 Stáli jsme v mém pokoji. Malé okno jsem otevřel dokořán, miloval jsem vůni lesa. Slunce pralo do té promáčené džungle, a jak se odpařovala voda, vzduch málem zkapalněl. Můj pokoj nebyl nijak velký, rozhodně se ani vzdáleně neblížil komfortu, na který byla Pamela zvyklá v civilizaci. Přesto nevypadala zklamaně ani naštvaně. Asi bych si měl už zvyknout, že ta holka, co mi dřív nadávala, kdykoli mě jen zahlédla, prostě zmizela.
@@ -252,8 +244,6 @@ Usmála se a pootevřela oči.
 Vzal jsem ji do náruče, prošel chodbou chabě osvětlenou malou lampou a vyšlapal schodiště. Po vteřinovém zaváhání jsem s ní zamířil do svého pokoje. Nechala se uložit do postele. Trochu se probrala a protestovala, když jsem ji na okamžik pustil, abych jí vyzul boty. Když jsem si k ní lehal, abych ji pevně objal, pochválila mě. Pak okamžitě usnula.
 
 * * *
-
-  
 
 Letadlo začalo klesat. Zírala jsem před sebe a zase drtila Aaronovu ruku. Tentokrát jsem ale neřešila strach z toho, že by po nás mohl zůstat jen kráter v zemi. Myslela jsem na Helen a na to, že si mě vyzvedne na letišti. Aaron jí ráno zavolal, aby věděla, že se vracíme. Já jsem se zbaběle zamkla v koupelně a pod přívaly horké vody zaháněla úzkost a lehkou kocovinu. Přes zamčené dveře se mě snažil uklidnit. Helen mu prý nepřipadala nijak rozčílená. Ale to ona nebývala skoro nikdy. Navenek.
 

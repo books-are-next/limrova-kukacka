@@ -3,8 +3,6 @@ title: Malá lež
 contentType: prose
 ---
 
-  
-
 Po zbytek dne jsem zůstávala ve svém pokoji. Listovala jsem rodinnými fotografiemi, které mi nechala přinést Helen. Kolem mě se vršily štosy všeho, co nějakým způsobem souviselo s její dcerou – vysvědčení, dopisy, novinové výstřižky, videa. Dokonce i záběry z dětských narozeninových oslav, na kterých se usměvavá Helen tiskla k usměvavému Bobu Kingovi. Jako by to byli dva úplně jiní lidé než ti, které jsem znala. Když odbila půlnoc, prokousala jsem se sotva polovinou hromady.
 
 Z Pamely jsem měla zvláštní pocit. Dívala jsem se na někoho, kdo vypadal úplně stejně jako já, ale situace, zachycené na fotkách, jsem nikdy neprožila. Plesy, benefice, oslavy. Jaká vlastně byla? Přetvařovala se, nebo fakt nedokázala s nikým vyjít? Její oči mi připadaly prázdné a úsměvy jako dokonalý plastový škleb od Mattela. Víc a víc jsem věřila tomu, že znát ji osobně, nesnášela bych ji.
@@ -48,8 +46,6 @@ Nakonec jsem se vrátila do svého pokoje. Prohlížela jsem si fotky Boba Kinga
 Zhasla jsem lampičku a zalezla si do postele. Poprvé mi připadala příliš velká.
 
 * * *
-
-  
 
 V noci jsem toho moc nenaspal. Ian se totiž vrátil ze svatební cesty, a tak jsme to šli zapít. Nešetřil mě a sypal z rukávu podrobnosti o tom, jak je život v manželství krásný.
 
@@ -98,8 +94,6 @@ Jeho mlčení bylo výmluvnější než tisíc slov.
 Přikývl. „Budu se těšit.“ Což v překladu znamenalo: „Mrknu se na ni a dám ti vědět.“
 
 * * *
-
-  
 
 Snídaně probíhala v naprostém tichu. Helen si četla noviny a já se nimrala v jídle. V noci jsem špatně spala. V hlavě se mi toho převalovalo příliš, než abych mohla usnout spánkem spravedlivých. Moje racionální část se mě snažila srovnat do latě. Vlastně se nic nezměnilo. Od začátku jsem věděla, že to bude těžký. Musím se prostě víc soustředit na cíl. A vymyslet, jak přežít svatební noc, aniž by to všechno prasklo.
 
@@ -182,8 +176,6 @@ Zabořila jsem obličej do jeho parádního saka a rozeštkala jsem se naplno. 
 Smutně jsem se usmála. Těžko mohl chápat, že s tímhle nic nenadělám.
 
 * * *
-
-  
 
 Nejdřív jsem měl vztek. Vypadalo to jako jeden z jejích obvyklých rozmarů. Jenže brzy jsem pochopil, že ať už je za tím cokoli, Pamela je opravdu nešťastná. Nešlo mi to do hlavy. Nikdy dřív si ze své matky nic nedělala. Vlastně kašlala na všechny. Teď mi ale připadala vyděšená. Nepotřeboval jsem studovat psychologii jako Ian, abych pochopil, že to, co následovalo, byla klasická ukázka ochranitelských pudů.
 

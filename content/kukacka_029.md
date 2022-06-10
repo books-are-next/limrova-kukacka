@@ -3,8 +3,6 @@ title: Utíkání
 contentType: prose
 ---
 
-  
-
 Dům působil nezvykle tiše. Neslyšela jsem žádné kroky ani hlasy. Než jsem zaklepala na dveře Heleniny pracovny, na chvíli jsem musela zatnout ruce v pěst, protože se mi nezvladatelně třásly. Několikrát jsem se zhluboka nadechla, abych se uklidnila.
 
 „Dále.“
@@ -67,8 +65,6 @@ Otevřela jsem šatnu. Mám si něco vzít? Zvládnu si něco z toho vzít? Nak
 
 * * *
 
-  
-
 Sbaleno jsem měl nečekaně rychle. Do odletu zbývaly ještě dvě hodiny, ale já už se neměl čím zaměstnat. Znovu jsem zavolal Cindy a potřetí zopakoval instrukce na dobu své nepřítomnosti. Měla se mnou tolik trpělivosti, že mě na to ani jednou neupozornila a jen mi popřála příjemnou dovolenou.
 
 Vypnul jsem mobil a vyměnil v něm sim kartu. Nové číslo měla jen matka. Spousta lidí včetně členů mé rodiny se mi totiž neustále snažila dovolat a já byl příliš velký zbabělec, než abych to někomu z nich zvedl. Namlouval jsem si, že potřebuju čas. Až se vrátím, budu připravený jít dál.
@@ -116,8 +112,6 @@ Osaměl jsem.
 Nízká oblačnost za okny Chicago Spire připomínala hladovou nicotu, která pozře všechno, co se jí postaví do cesty.
 
 * * *
-
-  
 
 Jela jsem autobusem. Po cestě mi v kapse zůstalo jen pár drobných. Jestli nechci spát u popelnic, budu muset být hodně přesvědčivá. Nasadila jsem si sluneční brýle, zvedla límec bundy a kšiltovku si stáhla hlouběji do čela. Vstupní dveře byly hned naproti přes ulici. Ještě se opatrně rozhlédnout – náhoda je blbec.
 

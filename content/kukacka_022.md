@@ -3,8 +3,6 @@ title: "Pan Parker a\_pan Soto"
 contentType: prose
 ---
 
-  
-
 Aaron se objevil přesně včas, jak bylo jeho zvykem. Čekal na nás v hale a vypadal úplně neuvěřitelně. Z fleku bych mu založila fanklub a stala se jeho předsedkyní.
 
 „Jsi překrásná,“ zašeptal mi do ucha hned po nekonečně dlouhém polibku na přivítanou. Helen nechal přešlapovat u dveří. „A ty šaty,“ zapředl uznale, když mě přejel pohledem.
@@ -178,8 +176,6 @@ Opatrně jsem slezla ze židle a chvíli jen zhluboka dýchala, dokud se svět 
 Helen si jako ledoborec prorážela cestu k Aaronovi. Rozběhla jsem se za ní. Neměla jsem tušení, o co jde, ale rozhodně jsem chtěla být u toho.
 
 * * *
-
-  
 
 Sotva jsme si s Parkerem potřásli rukama, objevila se Helen Kingová a z očí jí sršely blesky. Pamela se blížila spíš obezřetně. Tohle asi nebude moc hezké…
 

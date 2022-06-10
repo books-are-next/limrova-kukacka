@@ -3,8 +3,6 @@ title: Šeherezáda
 contentType: prose
 ---
 
-  
-
 Vracel jsem se do kanceláře. Právní oddělení pracovalo skoro nepřetržitě, aby všechny podklady pro nové obchodní partnery byly na mém stole včas. Dobrý obchod byl mnohdy otázkou hodin.
 
 Přiblížil jsem se na dohled vjezdu do podzemních garáží výškové budovy, ve které sídlila moje firma. Ušklíbl jsem se. Velectění zástupci tisku se zřejmě urazili a rozhodli se, že mi za tu projížďku městem udělí lekci. Byli všude. U vjezdu a taky v prostorách parkoviště. Ke vchodu do výtahu bych se musel asi prostřílet, nebýt George, který tam na mě čekal a doslova vibroval vzteky. Těžko říct, jak dlouho už tam s nimi stál, ale vypadal jako časovaná bomba.
@@ -38,8 +36,6 @@ Podal mi kouřící hrnek. Nerozhodně se na mě díval, jako by se chtěl na n�
 Přikývl. Neměl potřebu mě zpovídat a já mu za to byl vděčný. Mávl rukou ke schodišti, a tak jsem se vydal nahoru.
 
 * * *
-
-  
 
 „Vypadáš unaveně.“ To bylo první, co jsem řekla, když se toho večera objevil v mém pokoji. Přišel bez saka, kravatu měl nedbale povolenou. V ruce držel tátův hrnek, ze kterého voněla káva. Chtěla jsem říct spíš: „Nemohla jsem se tě dočkat,“ ale neudělala jsem to.
 
@@ -146,8 +142,6 @@ Přisunul se ještě blíž. Hlavu si položil až ke mně na polštář.
 „Dva dny mi bylo zle. Možná proto mě poldové celkem snadno chytili v sámošce. A tenkrát jsem poprvé potkala Boba.“ Usmála jsem se. „Byl strašně hodnej. Tenkrát mi to neřekl, ale už pár let mě hledal. Tušil, že jsem jeho, i když mu to máma zapřela. Pořád doufala, že se Jim vrátí. Byla do něj zamilovaná už od střední.“
 
 * * *
-
-  
 
 O Mariině matce bych se býval rád dozvěděl víc, ale v tu chvíli se ozvalo klepání na dveře. Objevil se Bob King. Rozpačitě nakoukl dovnitř, a když nás uviděl, nesouhlasně se zamračil. A zrudl.
 

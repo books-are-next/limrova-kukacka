@@ -3,8 +3,6 @@ title: Cizí dcera
 contentType: prose
 ---
 
-  
-
 Léto bylo v plném proudu, ale blížila se bouřka. Na nebi pluly černé mraky a foukal studený vítr, který mě trochu probral. Bez ohlédnutí jsem vystoupala pár dřevěných schodů, které vedly na verandu domu. Kdyby mi v tu chvíli Aaron viděl do obličeje, musel by všechno poznat.
 
 Zaklepala jsem a za dveřmi se vzápětí ozvaly spěšné kroky.
@@ -133,8 +131,6 @@ Musela jsem se usmát. Bob šel přede mnou a nejspíš využil toho, že je ot
 
 * * *
 
-  
-
 Do Morrisu jsem se vrátil o něco dřív, než jsme se dohodli. Ten den šly stejně veškeré mé pracovní plány do kytek, takže jsem vyřídil jen nějaké papírování a pár telefonátů. Čekání v autě před domem jsem využil k tomu, abych zavolal mámě a oficiálně jí oznámil, že hodlám Pamelu přivést na rodinnou večeři. Nečekal jsem, že bude mít radost, takže mě její reakce nijak nezaskočila. Nerozmlouvala mi to a věděl jsem, že se k ní bude chovat mile, ale bylo znát, že není představou někoho takového ve svém domě zrovna dvakrát nadšená.
 
 Potom už jsem jen seděl, čekal a díval se, jak se na skla auta spouští liják. Na moment se mě zmocnil zneklidňující pocit, že jsem přehlédl nějaký zásadní fakt. Představil jsem si válečnou poradu Helen Kingové s Pamelou a viděl jsem je, jak se vysmívají mé naivitě. Pak se mi ale vybavilo posledních pár dní a tu absurdní myšlenku jsem zahnal.
@@ -234,8 +230,6 @@ Usmála se a chvíli se na mě dívala tak zálibně a spokojeně… tak krás
 „To mě ale nejdřív budeš muset pustit.“ Zasténal jsem.
 
 * * *
-
-  
 
 Do haly jsem vešla obezřetně, jako bych se ocitla na zaminovaném území. Přechod ze světa Aarona Collinse do světa Helen Kingové byl jako studená sprcha. Jakoby odnikud se vyloupl Richard a přál mi pěkný podvečer.
 

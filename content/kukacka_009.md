@@ -3,8 +3,6 @@ title: Pamela Kingová
 contentType: prose
 ---
 
-  
-
 Doktor Bradley se objevil přesně na čas. Helen přišla taky, chtěla být u toho.
 
 Vypadal jako laskavý chlap. Byl to lehce prošedivělý padesátník se sotva znatelně vystupujícím bříškem. Opravdu se snažil. Dokonce se mnou vtipkoval. Zatímco mi na záda přikládal studený stetoskop, odebíral vzorky krve a prohmatával břicho, jen tak – jakoby mimochodem – mi pokládal spoustu otázek. Chtěl vědět, jestli jsem někdy byla vážněji nemocná, jestli neberu drogy nebo jestli jsem někdy neměla něco zlomeného. Helen celou dobu mlčela, seděla v křesle a kouřila. Na všechno jsem odpovídala pravdivě. Nějakým zázrakem se mi nemoci vyhýbaly. Feťáků jsem se od jisté doby štítila, a tak mě nikdy ani nenapadlo něco brát. Od chvíle, kdy mě Nathan přivedl k Teovi, bych ani neměla šanci. Nedělalo mu problémy z někoho vymlátit prachy nebo ve velkém rozjet obchod s kradenými auty. Ale drogy svým lidem jasně zakázal. Teo byl prostě chytrej. Feťáci dělají chyby a on nestál o to, aby si někdo šlehnul a pak poldům vyklopil všechno, co ví.

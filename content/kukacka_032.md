@@ -3,8 +3,6 @@ title: Ekologická lobby
 contentType: prose
 ---
 
-  
-
 Tušil jsem, že soudkyně Hammondová bude tvrdý oříšek. Zatímco jsem čekal v zádveří její kanceláře, než se vrátí z předběžného slyšení, zavolal jsem Eltonovi Ackermanovi, abych s ním svůj nápad konzultoval. Moc mě nepotěšil. Říkal, že šance je tak padesát na padesát. Ale Její ctihodnost je prý jediná soudkyně, u které by to mohlo projít.
 
 Objevila se asi za dvacet minut. Když mě uviděla, tázavě zvedla obočí.
@@ -106,8 +104,6 @@ Ta představa byla absurdní. Měl jsem na Marii vztek? Ano. Vlastně… občas 
 Teprve pak jsme si jich všimli. Robert King a Marie stáli na druhé straně liduprázdné haly a vyjeveně nás pozorovali.
 
 * * *
-
-  
 
 Jeli jsme výtahem do přízemí. Vstupní hala byla úplně liduprázdná a za přepážkou informací svítila lampička nočního hlídače.
 
@@ -261,8 +257,6 @@ Vstala jsem a obešla stůl. Objala jsem Boba kolem krku. Strašně moc jsem se
 
 * * *
 
-  
-
 „Cože jsi udělal?“
 
 Ian se právě chystal k dalšímu zdrcujícímu odpalu na virtuálním hřišti v nejvyšším patře Chicago Spire, ale po mém stručném převyprávění rozhovoru se soudkyní Hammondovou mu hůl málem vypadla z rukou.
@@ -304,8 +298,6 @@ Dlouze jsem vydechl. Jo, asi bude lepší mlátit do míčků.
 „Ty máš jen dvě možnosti,“ pokračoval, aniž jsem se ho prosil. Loupl jsem po něm dost naštvaným pohledem. Zaváhal jen na vteřinu a pak se usmál. „Trestný bod, nebo to zkus odpálit z tý kachny.“
 
 * * *
-
-  
 
 Bylo deset hodin a dvě minuty. Táta, John i já jsme poslušně čekali na svých místech. Měli jsme za sebou jízdu v doprovodu novinářů, snahu procpat se davem paparazziů a spoustu nejspíš nepovedených fotek od zástupců tisku. Morel s dredy sepnutými do culíku seděl přes uličku a tvářil se sebevědomě. Měla jsem strach, že se nervozitou pozvracím.
 

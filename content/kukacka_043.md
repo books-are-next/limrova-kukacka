@@ -3,8 +3,6 @@ title: Vydírání
 contentType: prose
 ---
 
-  
-
 Teo mi dal panáka a prášky na spaní. Ve většině ohledů mě bral jako dospělou už od mých patnácti. Těsně před tím, než jsem zavřela oči, prohlásil, že mě radši zamkne. Těžko říct, jestli chtěl někomu zabránit, aby se ke mně dostal, nebo se bál, že zase zmizím.
 
 Na prášky jsem si vzpomněla, jakmile jsem otevřela oči. Hlava mi totiž třeštila a zvedal se mi žaludek. Můj mozek se pomalu probouzel k životu a vyčítavě mi připomněl, že jsem nevečeřela. Měla jsem jen tu horkou čokoládu v Glamour. Pak dlouho nic a nakonec panáka a oblbováky.
@@ -60,8 +58,6 @@ Ocitla jsem se na chodbě a zamířila o patro níž do Teova bytu, když ke m
 Do lokálu jsem přiletěla úplně bez dechu a málem jsem omdlela hrůzou. Dva stoly byly převrácené a z police nad barovým pultem, kde ještě nedávno stály láhve s alkoholem, trčela židle. Na podlaze se válely střepy a trosky nábytku. Uprostřed toho všeho stál Aaron. Na zádech mu visel Sergio, který se mu snažil držet ruce, aby se Elías mohl lépe trefit. Vykřikla jsem.
 
 * * *
-
-  
 
 Cestou jsem uvažoval, jestli tam nejdřív nemám zavolat. Jenže tím bych ji mohl vyplašit. Utekla by a už nikdy bych ji nenašel. Místo toho jsem prozvonil George. Měl lehké spaní a jednal rychle. Chtěl jsem mít pojistku, kdyby se něco… nepovedlo.
 
@@ -179,8 +175,6 @@ Sever a kompas. „Nenechám tě utéct.“
 
 * * *
 
-  
-
 Pořád to byl ten velitelský hlas, ale výraz v jeho obličeji se měnil.
 
 „Nemůžeš…“ Víc jsem nedokázala. Byla jsem zmatená. A naprosto v šoku.
@@ -248,8 +242,6 @@ Ztěžka jsem polkla. „Jsi drsnej…“
 „Ani netušíš jak.“
 
 * * *
-
-  
 
 Ne, nic nemohlo jít snadno. Zrovna jsem si říkal, že už mi nic nebrání, abych si vybral malou zálohu odměny pro vítěze, když se ve dveřích objevil Flores.
 

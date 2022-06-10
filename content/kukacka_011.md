@@ -3,8 +3,6 @@ title: Setkání
 contentType: prose
 ---
 
-  
-
 Nastal _ten_ den. Vzbudila jsem se v šest ráno, zpocená a roztřesená. Potřebovala jsem dlouhou horkou sprchu. Nakonec jsem ale skončila na zemi, zabalená v huňatém županu. S hlavou mezi koleny jsem se snažila zachránit zbytky zdravého rozumu.
 
 Celý měsíc jsem se na něj připravovala. Přečetla jsem všechno, co o něm kdo napsal. V mém pokoji neustále běžel ekonomický kanál pro případ, že by se o Collinsovi mluvilo. Viděla jsem několik záběrů z tiskovek. Ale čím víc jsem toho o něm věděla, tím míň připravená jsem si připadala. Působil naprosto sebejistě, vždy řekl přesně to, co potřeboval říct. Poradil si i s otravnými novináři. Jeho „Bez komentáře“ neznělo zbaběle, ale jako výhrůžka.
@@ -22,8 +20,6 @@ Nedokázala jsem pochopit, že šéf Collins Industries a rozesmátý mladík n
 Odfrkla jsem si. Úplně zbytečné úvahy. Makrela taky nezkoumá povahu žraloka, než se nechá spolknout.
 
 * * *
-
-  
 
 Podíval jsem se na hodinky. Za chvíli bych měl vyrazit. V elektronickém diáři jsem si ověřil, že přesně devadesát minut po setkání s Kingovou _musím_ být někde jinde.
 
@@ -76,8 +72,6 @@ Dřív, než jsem se nadál, už naše auto rozráželo dav novinářů před br
 Ohlásil jsem se nějaké ženě z personálu. Když odešla, usadil jsem se do křesla v hale.
 
 * * *
-
-  
 
 Helen se objevila odpoledne, asi hodinu předtím, než měl dorazit on. Prohlásila, že jsem zmalovaná jako štětka a že se mám okamžitě umýt. Oblečení, které jsem si připravila s jasným záměrem, že se v něm hlavně musím cítit v pohodě, sebrala a hodila do skříně. Když jsem se odlíčená vrátila z koupelny, držela v ruce bleděmodré šaty s krátkým rukávem, které bych si možná vzala na něčí svatbu, ale ne na procházku parkem. Musela jsem se kousnout do jazyka, abych dokázala neprotestovat. Opakovala jsem si svou kouzelnou formulku: „Vydržet jen pár měsíců.“ Pak se zbavím Collinse, Helen a celé té maškarády. Vážně jsem začala uvažovat o koupi nějakého malého ostrova.
 
@@ -175,8 +169,6 @@ Vstal a čekal, až se k němu připojím. A mně se najednou fakticky chtěl
 
 * * *
 
-  
-
 Vykročil jsem na štěrkovou cestu. Napadlo mě, že bych jí měl nabídnout rámě, ale obě se mě ze všech sil snažily přesvědčit, že je úplně zdravá, a tak jsem to neudělal.
 
 „Máš strach, že se tě pokusím odprásknout?“ zeptala se s pohledem upřeným na George, který se kvůli fotografům snažil vypadat drsněji než obvykle. Neznělo to jako jedna z jejích obvyklých kousavých poznámek. Usmívala se, a dokonce se tvářila spokojeně.
@@ -230,8 +222,6 @@ Nehádala se se mnou. Nekřičela. Dokonce se ani neurazila. Podivné.
 Uhnula pohledem a nervózně sepnula ruce. Šli jsme dál. Náš čas už téměř vypršel.
 
 * * *
-
-  
 
 Byl zvláštní. Tedy – jiný, než jsem čekala. Ne že by se choval kdovíjak srdečně, ale ta původní ledová strohost se z jeho výrazu vytratila.
 

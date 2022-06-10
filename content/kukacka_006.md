@@ -3,8 +3,6 @@ title: Prolog
 contentType: prose
 ---
 
-  
-
 „Na tu smlouvu můžete zapomenout.“
 
 Aaron Collins to řekl tak klidně, jak jen za daných okolností dokázal. Ze světle hnědých vlasů mu na ramena stékalo rajské coulis, které bylo původně určené na polévání grilovaných kuřecích stehýnek. Shodou mnoha okolností se ocitlo na jeho hlavě. A to byla poslední kapka.

@@ -3,8 +3,6 @@ title: Škody po bouřce
 contentType: prose
 ---
 
-  
-
 Poručíka Jeffersona jsem neviděla už několik měsíců. On mě s tímhle obličejem ještě nikdy. Když jsem s policejním doprovodem odjela výtahem o pár pater níž a on mě přebral do své „péče“, byl pěkně nervózní. Měl před sebou holku, kterou v podstatě dobře znal. Spoustu protokolů v mé složce totiž sám sepsal. Jenže ta holka měla tvář dcery jeho šéfa.
 
 „Kdybych si já nechal udělat plastiku, vybral bych si něco míň nápadnýho.“
@@ -123,8 +121,6 @@ Polilo mě horko. Už jen představa, že Aaron bude svědčit, mi způsobovala 
 
 * * *
 
-  
-
 Nemohl jsem spát. Možná za to mohlo to vedro. Nebo časový posun, na který jsem si ani po téměř třech týdnech nedokázal zvyknout. Nejpravděpodobnějším důvodem byl ale ten hák, který zůstával zaseknutý v mém hrudníku. Vedl z něj ocelový kabel, který měřil víc než sedm tisíc mil a táhl se skoro půl planety daleko. Ať jsem dělal cokoli, byl tam. Bez ohledu na mezinárodní leteckou dopravu, které určitě musel překážet.
 
 Dhakir se vážně vytáhl. Jeho plovoucí dům byl asi nejkrásnějším místem, jaké jsem kdy viděl. Jen tak pro legraci jsem jeho fotky poslal mámě a ona mi do pěti vteřin volala, jestli může přiletět za mnou.
@@ -165,8 +161,6 @@ Neměl jsem nejmenší tušení. Nedávalo to smysl. Přihlásila se na policii?
 
 * * *
 
-  
-
 O návratu šéfa Collins Industries informovala média. Bulvární plátky se mohly přetrhnout, aby z něj dostaly aspoň jedinou slabiku vyjádření k celému skandálu. Titulky jako „Podvedený miliardář“ nebo „Zlomené srdce petrolejového prince“ mu asi taky nepřidaly. Jako uhranutá jsem sledovala záběry, jak vystupuje z letadla. Na očích měl sluneční brýle a novinářům nevěnoval žádnou pozornost. John Piper se s Aaronem setkal o dva dny později.
 
 „Nehodlá tě žalovat,“ oznámil mi hned ve dveřích. Usmíval se. „Šlo to dobře.“
@@ -191,8 +185,6 @@ Přikývla jsem a pak jsem se s výmluvou, že uvařím další čaj, ztratila
 
 * * *
 
-  
-
 Chodba před soudní síní byla téměř liduprázdná. Postarala se o to justiční stráž a taky Georgeův nabroušený pohled. Můj osobní strážce stál ve druhé linii, hned za muži v uniformě. Chtěl být připravený, kdyby se některému horkokrevnému fotografovi podařilo proniknout přes policisty. V jeho tváři bylo jasně znát, že si to skoro přeje. Mohl by jim konečně ukázat, co si o nich doopravdy myslí.
 
 Jinak jsme tu čekali jen tři. Bodyguard madam Kingové stál celou dobu úplně nehybně. Oči upíral před sebe a vypadal spíš jako další hlídač než jako svědek. Posledním předvolaným byl šéf Chicagského divadla. Párkrát jsme se setkali na dobročinných akcích.
@@ -216,8 +208,6 @@ Dívali jsme se na sebe. Čekal jsem, že větu dokončí, ale on mlčel.
 „Já nevím, brácho. Myslím si, že tvůj život bude mnohem klidnější, když po tom přestaneš pátrat a prostě na ni zapomeneš.“
 
 * * *
-
-  
 
 „Ať to dopadne jakkoli, jsem na tebe pyšnej,“ řekl mi Bob těsně před začátkem slyšení. Sedl si hned za mě a za Johna. Soudní síň byla skoro prázdná. Žádný tisk, žádní diváci. Dokonce i svědkové čekali na chodbě.
 
@@ -260,8 +250,6 @@ Neklidně jsem se zavrtěla na židli a podívala se na Johna. Pousmál se a p
 „Ano, Vaše ctihodnosti. Předvolávám Aarona Collinse.“
 
 * * *
-
-  
 
 Bodyguard Kingových vyšel ven a ozvalo se mé jméno. Už dávno jsem se rozhodl, že ji nezažaluju, a nehodlal jsem na tom nic měnit. Chtěl jsem to vyřešit co nejrychleji a zkusit na všechno zapomenout. Představa, že bych ji zažaloval za finanční ztrátu, byla navíc úplně směšná – takovou částku by mi nemohla zaplatit, ani kdyby žila tři sta let.
 
@@ -332,8 +320,6 @@ To jméno se k ní hodilo i víc. Dívala se na mě vyděšeně a omluvně. K
 Následující nádech byl snad prvním opravdovým za posledních osm dní. A rozhodnutí, které jsem udělal, bylo naprosto nepromyšlené a impulzivní.
 
 * * *
-
-  
 
 Aaron se na mě krátce podíval. Zoufale jsem se snažila přijít na to, co jeho pohled znamená, ale trvalo to jen okamžik. Potom sklopil oči a spěšně odešel.
 

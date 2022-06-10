@@ -3,11 +3,11 @@ title: Sedmilhářka
 contentType: prose
 ---
 
-  
-
 Příliš často se mi nestávalo, abych ráno otevřela oči a okamžitě věděla, že ten den bude všechno úplně parádní. Dnes ano. Hodiny ukazovaly, že ještě nebylo devět. Venku nádherně svítilo slunce, jako by ho Helen objednala jen jako další z milionu svatebních rekvizit.
 
 Vyskočila jsem z postele a otevřela okno dokořán. Dlouho tak ale nezůstalo, protože jsem málem umrzla. Zase jsem ho rychle zavřela a vrhla se zpátky do peřin. Sáhla jsem po mobilu.
+
+  
 
 **Nedockavy. Extremne neutisitelne netrpelivy.**
 
@@ -15,9 +15,15 @@ Vyskočila jsem z postele a otevřela okno dokořán. Dlouho tak ale nezůstal
 
 **P. S. Nacvicujes novy podpis?**
 
+  
+
 Přetáhla jsem si deku přes hlavu a i s telefonem se zavrtala co nejhlouběji.
 
+  
+
 **Mas me na svedomi. Budou si myslet, ze jsem blazen. Usmivam se i pri vzpomince na Trish! Ty nejsi sileny, to ja. Miluju te. Pamela P. S. Podpis mam davno nacviceny. Delavam to v noci, kdyz nemuzu usnout.**
+
+  
 
 Sotva jsem zprávu odeslala, do mého pokoje vtrhla hromada lidí. Vesměs úplně cizích. Všichni se usmívali a volali: „Dobré ráno, slečno Kingová!“ S očima navrch hlavy jsem přikývla a potom už jen sledovala, jak se rozprchli do všech koutů místnosti. Nějaká žena přitáhla pět prázdných kufrů, jiná otevřela šatnu dokořán a vynášela z ní kupičky pečlivě složeného prádla – mou zbrusu novou výbavu.
 
@@ -85,8 +91,6 @@ Procedury, které následovaly, mohly být za jiných okolností strašně fajn.
 
 * * *
 
-  
-
 „Ještě si to můžeš rozmyslet,“ nadhodil Ian. Rozvaloval se ve vedlejším křesle jednoho z nejdražších kadeřnických salonů v Chicagu. Tvrdil, že mi poskytuje morální podporu. Já pitomec jsem mu na to skočil. Jeho poznámku jsem nechal bez komentáře. Nejspíš patřila k předsvatebnímu koloritu. Podobně jako když v Africe před obřadem nevěstě plivnou do obličeje. Nedá se s tím nic dělat, prostě se to musí přežít. Přežít dalších šest hodin bez Pamely.
 
 Ethan se měl mého předsvatebního mučení zúčastnit také, ale zřejmě se zdržel. Buď Trish stále ještě neodemkla dveře do ložnice, nebo už je naopak odemkla.
@@ -130,8 +134,6 @@ Chvíli jsem zůstal úplně bez dechu. I když jsme si s Janeth byli hodně b
 Předstíral jsem rozhořčení, ale nakonec jsem jí vlepil pusu na tvář. Nikdy jsem nedoufal, že najdu ženu, která by se aspoň trochu podobala mé matce. Možná proto jsem si původně nelámal hlavu s faktem, že se chystám vlézt do chomoutu s jednou z největších fiflen, které znám. Jenže všechno se změnilo. Pam se změnila. Díval jsem se na Janeth a byl šťastný, že se s neméně úžasnou ženou dnes ožením.
 
 * * *
-
-  
 
 V poledne jsem podlehla svému kručícímu žaludku a Arnaldovu vyhrožování a vypila zeleninový koktejl. Překvapilo mě, že mi vzápětí nezačala z uší rašit nějaká nať. Cítila jsem se úplně vyčerpaná. Seděla jsem v županu na kraji postele a ze všeho nejvíc jsem se podobala živé reklamě na kosmetický průmysl.
 
@@ -213,8 +215,6 @@ Když jsme nasedli do limuzíny, cítila jsem ve vzduchu očekávání i radost
 
 * * *
 
-  
-
 Svatý Jakub bzučel jako obrovský úl. Více než polovinu lidí, kteří přijeli, jsem neznal. Kromě přátel a mé rodiny jsem ale výběr svatebních hostí nechal na Helen Kingové. Pro ni to přece jen byla především propagační akce Black Crown. Nerozuměl jsem tomu, jaký vztah s Pamelou vlastně mají, a tušil jsem, že to nejspíš nikdy nepochopím.
 
 Zástupci tisku se tísnili ve vyhrazených prostorách před hlavním vchodem. Byl jsem nervózní, ale těšil jsem se jako nikdy v životě. Za dvě hodiny bude Pam moje. Čekaly nás líbánky v Itálii. Netušil jsem to o sobě, ale probouzely se ve mně strašidelně romantické sklony. Toužil jsem, aby byla šťastná. Životně nutně jsem ji potřeboval rozmazlovat. Dělat takové ty šílené věci jako nosit jí snídani do postele. A taky oběd, protože ji rozhodně nenechám po snídani vstát.
@@ -230,8 +230,6 @@ S pokušením otevřít tu věc jsem bojoval jen zlomek vteřiny. Samozřejmě 
 Ano. Hloupá, ale krásná romantická gesta.
 
 * * *
-
-  
 
 „Tak jsme tady,“ konstatoval přidušeně Bob. Vystoupil a pak pomohl Helen i mně. Byla jsem vděčná, že nemám jeden z těch několikametrových závojů, který by musely nést klopýtající družičky. Když se Helen ujistila, že jsem dostala kytici bílých růží a že obřad je připravený do nejmenšího detailu, šla se posadit na své místo v první lavici. Bob a já jsme osaměli v chabě osvětlené chodbě přede dveřmi do hlavní lodi chrámu.
 

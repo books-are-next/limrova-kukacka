@@ -3,8 +3,6 @@ title: Přiznání
 contentType: prose
 ---
 
-  
-
 Ty dvě hodiny bez Pam… jsem prostě nějak strávil. Pravděpodobně jsem zajel do kanceláře a zcela jistě jsem se byl doma převléknout, protože před rezidencí Kingových jsem stál v úplně jiných kalhotách a košili. Má dnešní pracovní morálka byla naprosto nulová. Nebýt Cindy, která mě chválila za to, že jsem si konečně jednou dopřál volnější den, musel bych se cítit provinile. Takhle jsem si jen dál užíval kombinaci úžasu, radosti a nepojmenovatelné nedočkavosti. Nepojmenovatelné do chvíle, kdy se Pam objevila ve dveřích.
 
 „Moc ti to sluší.“
@@ -50,8 +48,6 @@ Zamyslel jsem se. „Janeth bude šťastná, protože jsem i já.“
 Zvedla ke mně hlavu a podívala se na mě s nepředstíraným úžasem. Jako by se ptala, jestli jsem to myslel vážně. Bůh mi pomáhej, ale myslel. Rostlo to ve mně každou minutou, aniž bych to dokázal jakkoli ovlivnit. Tak o tomhle Ian mluvil?
 
 * * *
-
-  
 
 Cesta k sídlu Collinsových uběhla příliš rychle. Přes veškerá předsevzetí jsem byla strašně nervózní. Jejich dům mi vyrazil dech. Helenin byl pompézní, krásný, ale tohle…
 
@@ -128,8 +124,6 @@ Postavil mě na zem a tlačil před sebou ven ze salonku, ruce ovinuté kolem m
 Asi jsem se ho zase držela příliš křečovitě, ale tentokrát nic neřekl.
 
 * * *
-
-  
 
 Byl. Jsem. Hodnej. A… překvapivě mi to nedělalo problém. Naopak, byla to krásná noc.
 

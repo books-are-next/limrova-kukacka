@@ -3,8 +3,6 @@ title: Kánoe
 contentType: prose
 ---
 
-  
-
 Nic. Vůbec. Absolutně nic. Jako by mě ze všech stran obklopila zvukotěsná a vzduchoprázdná bublina.
 
 Často jsem přemýšlel, jak je lidem, které jednoho dne potká _ten_ telefonát. „Je nám to líto, ale váš manžel… Dělali jsme, co jsme mohli… Vaši dceru našli…“ Ian měl tuhle zkušenost z druhé strany. Jako psycholog vypomáhal v nemocnici Chicagské univerzity. Občas jsme o tom mluvili. Spousta lidí si vyslechne špatnou zprávu, zeptá se na nějaké doplňující detaily, pak se rozloučí a odejde, aniž by začali plakat nebo křičet. Složí se až doma nebo cestou autobusem. Doba, kterou mozek potřebuje, aby tu věc přijal jako fakt, se u kaž­dého liší. U někoho jsou to vteřiny, u jiných týdny.
@@ -40,8 +38,6 @@ Táta se postavil vedle mě a mlčky přejel rukou okraj lodi. Díval jsem se n
 „Bude to dobrý, synku. Potrvá to. Ale bude to dobrý,“ ujistil mě.
 
 * * *
-
-  
 
 Nemyslela jsem na ty lidi, kteří čekali v kostelních lavicích. V první chvíli jsem nemyslela ani na Helen. Když Aaron odešel, zůstala jsem sedět. Dívala jsem se na obálku na svých kolenou a ze všech sil se snažila nic necítit.
 
@@ -103,8 +99,6 @@ Usnula jsem.
 
 * * *
 
-  
-
 Zdálo se mi o lezení. Za jiných okolností prima sen, jenže v tomhle jsem nikdy ani nezahlédl vrchol hory. Bolavýma rukama jsem se chytal ostrých výběžků, lapal po dechu a centimetr po centimetru se posunoval vzhůru. Kolem jen mokrá hustá mlha, do svalů mě chytaly křeče, ale nikde žádný vrchol. Bylo to nekonečné.
 
 Nevzbudil jsem se s trhnutím, jako tomu bývá po nočních můrách. Prostě jsem otevřel oči. Svítilo slunce a mně bylo horko. Janeth seděla na kraji mé postele, jako když jsem byl malý. Vypadala smutně.
@@ -147,8 +141,6 @@ Přikývla a vstala. Věděl jsem, že mě touží obejmout, ale já zatím nem
 
 * * *
 
-  
-
 Kafe v mém oblíbeném hrnku. Neuvěřitelné. Richard stál nade mnou a já měla chuť ho obejmout.
 
 „Slečno, vaše káva.“
@@ -184,8 +176,6 @@ Nakonec jsem ho přece jen objala, i když ho to víc než překvapilo. Můj mo
 Když odešel, v zoufalé naději jsem se podívala na mobil. Žádné nové zprávy.
 
 * * *
-
-  
 
 Máma mi vytáhla všechny třísky a ruce mi doslova vykoupala v dezinfekci. Hluboká byla jen jedna rána. Matně jsem si vzpomínal, že mi v noci ujelo dláto a zabodlo se mi do dlaně.
 

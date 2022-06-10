@@ -3,8 +3,6 @@ title: Marie Dobsonová
 contentType: prose
 ---
 
-  
-
 Měla bych se tvářit jakoby nic, ale přistihla jsem se, že nervózně ťukám do pultu. Mé prsty bubnovaly přesně do rytmu úvodní písně West Side Story, která zněla rozlehlými prostorami Chicagského divadla. Představení začalo před několika minutami. Olivrejovaný dveřník chvíli počkal, jestli nedorazí opozdilci, a pak mi oznámil, že si musí odskočit. Přišla moje chvíle.
 
 Vydržela jsem ještě asi půl minuty, než zmizel za dveřmi označenými panáčkem. Honem jsem vytáhla kabelu schovanou pod pultem. Otevřela jsem ji a jedno její ucho jsem si navlékla na předloktí. Pak jsem systematicky obcházela věšáky plné norkových kožichů a drahých pánských plášťů. Nešacovala jsem všechny. Když jsem je před chvílí přebírala od natěšených návštěvníků, stihla jsem si udělat představu, které z nich mají kapsy prázdné a které slibují slušný zisk. Byl to ode mě geniální nápad – ozvat se na inzerát práce šatnářky v divadle. Škoda, že to šlo udělat jen jednou. Příště by mě sebrali hned ve dveřích.

@@ -3,8 +3,6 @@ title: Únos
 contentType: prose
 ---
 
-  
-
 Vrátil jsem se domů a po telefonu nahrál vzkaz pro Cindy. Požádal jsem ji, aby hned ráno dala vědět Georgeovi, že budu tři dny pryč. Kdybych v tuhle hodinu volal jemu, vzbudil bych ho, a to jsem nechtěl. Spával se zapnutým mobilem a odjištěnou pistolí.
 
 Bleskově jsem si sbalil pár nejnutnějších věcí. Uvědomil jsem si, že se těším. Na Kanadu. Na rozlousknutí té záhady. Na to, co o Pamele zjistím, až ji vytrhnu z civilizace. Nenapadal mě dokonalejší způsob, jak odhalit, co skrývá. Ta holka do toho ale stejně nepůjde, mírnil jsem v duchu své nadšení. Co by taky dělala uprostřed divočiny? Navíc se mnou. Ještě před půlrokem vážně řešila, jestli se našeho svatebního obřadu musí přímo účastnit.
@@ -34,8 +32,6 @@ Brána rezidence Kingových byla otevřená dokořán. Minuly mě dvě odjížd�
 Rozvázal jsem si kravatu a svlékl sako. Vyběhl jsem těch pár schodů a zkusil otevřít. Nebylo zamčeno. Opatrně jsem nakoukl dovnitř. A měl jsem štěstí. Těžko říct, kde se tam vzala, ale byla tam. A sama. Napůl seděla, napůl ležela na křesle, nohy jen tak naboso přehozené přes opěrku. Uhranutě jsem zíral na její dlouhé nohy a rozparek šatů, který se posunul o dalších deset vražedných centimetrů výš. Pamela spala, jednu ruku na tváři, jako to dělávají malé děti. Nemohla mě zneklidňovat těma velkýma očima, ale docela dobře to zvládla pootevřenými rty. V těch titěrných šatičkách vypadala jako malá mořská víla.
 
 * * *
-
-  
 
 „Tak dokonalé by to nemohlo být, ani kdybych to naplánoval.“
 
@@ -187,8 +183,6 @@ Strach ale vzápětí vystřídala strnulost. Jeho zelené oči byly najednou to
 
 * * *
 
-  
-
 Provedl jsem ji odletovou halou a rychle vyřídil formality u přepážky soukromé letecké společnosti. Letadlo už bylo připravené, takže jsme rovnou zamířili chodbou vedoucí k ranveji. Pamela mě všude mlčky následovala. Vypadala hodně unaveně.
 
 „Kdyby mohla, dala by si tě k snídani,“ zabručela.
@@ -234,8 +228,6 @@ Vystoupali jsme na letovou hladinu a Pamela se konečně uklidnila. Na šampaň
 Lehl jsem si na bok čelem k ní a nenápadně ji pozoroval skrz přivřené oči. Přeprala své sedadlo a konečně zůstala klidně ležet. Dívala se na mě. Upřeně a zkoumavě. Pomalu jsem usínal. Poslední, co jsem viděl, byl její zamyšlený výraz.
 
 * * *
-
-  
 
 On usnul okamžitě. Dívala jsem se na jeho tvář. Byla uvolněná. Nemračil se, protože ve spánku nedumal, co jsem na něj s Helen ušila. Napadlo mě, že tenhle Aaron se mi strašně líbí. Nešel z něj strach, nenutil mě dávat si pozor na to, co říkám. Chtělo se mi natáhnout ruku a dotknout se jeho vlasů. Prostě jenom tak. Kdy se člověku poštěstí pohladit si krotkého žraloka?
 
