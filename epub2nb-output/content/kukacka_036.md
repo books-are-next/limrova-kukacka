@@ -3,8 +3,6 @@ title: Zahradnické práce
 contentType: prose
 ---
 
-  
-
 Druhý den mě do práce odvezl táta. Zpráva o prodeji King Petroleum se už stala veřejnou záležitostí a k paparazziům, kteří se střídali ve střežení našeho domu, se přidaly televizní štáby. Táta jim slíbil tiskovku a rychle jsme odjeli.
 
 V recepci jsem se dozvěděla, že místo do skleníku mám zamířit za Jane. Ze zvyku jsem přemýšlela, jestli nemám nějaký malér. V kanceláři jsem se potkala s Tedem.
@@ -66,8 +64,6 @@ V poledne přijela dodávka s obědy. Vyfasovali jsme vojenské ešusy a lž�
 Po chvíli se na příjezdové cestě objevilo stříbrné SUV. Zahlédla jsem je jen periferně, jenže pak z auta vystoupili nějací dva chlápci a… Aaron. Dnes byl ve sportovním. Podobně jako tehdy v Kanadě měl na sobě manšestráky, rolák a větrovku. Přemýšlela jsem, kam adresovat stížnost ohledně mého života. Nahoru, nebo dolů? Naštvaně jsem třískla ešusem. Tohle bude chtít ještě spoustu jam a spoustu mozolů. Aniž bych se dívala, co a s kým se pan Collins chystá dělat, vrátila jsem nádobí, popadla rýč a vydala se směrem ke své poslední vykopané díře.
 
 * * *
-
-  
 
 Samozřejmě, že jsem chtěl být u toho. To golfové hřiště jsem vymyslel. Každý keř, každé jezírko, každou jamku. A bylo jen logické, že jsem se přidal k architektům, kteří si jeli obhlédnout terén a dořešit nějaké potíže s časovým harmonogramem. Jenže taky jsem věděl, že tam bude ona.
 
@@ -193,7 +189,11 @@ V čekárně jsem se pustil do formulářů. Těšil jsem se obzvlášť na pol
 
 Hned na prvním řádku bylo třeba vyplnit jméno. Dopustil jsem se sotva patrného zaváhání. Na tisícinu vteřiny mě napadlo to falešné. Zvedl jsem k ní oči a střetl se s jejím napjatým pohledem. Beze slova jsem je zase sklopil k papíru a napsal:
 
+  
+
 _Marie Dobsonová._
+
+  
 
 „Jo, pořád ještě,“ utrousila.
 
@@ -206,8 +206,6 @@ Taky se usmála a mně se najednou strašně ulevilo.
 „Hm… taky se mi líbí,“ prozradil jsem sobě i jí a pokračoval ve vyplňování dalších kolonek.
 
 * * *
-
-  
 
 Když vyřídil papírování, odvezl mě domů. Mávla jsem na kluky z ochranky a oni nám otevřeli bránu.
 
@@ -282,8 +280,6 @@ Zavrtěla jsem hlavou.
 Postaral se o všechno. Přinesl mi vodu a prášky. Počkal se mnou pár minut, dokud se táta nepřihnal domů. O tamtom už nepadlo jediné slovo.
 
 * * *
-
-  
 
 Dostal jsem ji domů a do postele. Oba jsme měli o čem přemýšlet. Cestou do bytu jsem zavolal Cindy, že dnes se do práce už nevrátím. Bez bot a bez ponožek jsem se loudal nad střechami Chicaga. Když se setmělo, zíral jsem na tisíce mihotavých světel a snažil se přijít na to, co mi vlastně brání. Kromě toho, že je jí sedmnáct. A že mi už jednou zlomila srdce.
 

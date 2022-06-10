@@ -3,8 +3,6 @@ title: Skleníkový efekt
 contentType: prose
 ---
 
-  
-
 Záležitost s krádežemi v divadle se dohrála už beze mě. John připravil návrh velmi štědrého finančního vyrovnání a právník zastupující poškozenou stranu jen beze slova vytáhl pero. Chicagskému divadlu se zřejmě hodily víc peníze než spravedlivý trest pro zloděje. Bobovi to muselo úplně vyprázdnit bankovní konta.
 
 Skutečná bomba ale nastala den poté. Poslíček přinesl obálku z advokátní kanceláře Dancey & Cassady. Zrovna jsme obědvali můj pokus o lasagne. Ozval se zvonek a táta se vrátil s dopisem v ruce. Sedl si, otevřel obálku a z obličeje mu vyprchala veškerá barva.
@@ -86,8 +84,6 @@ Kousek za mnou se ozval rachot. Vyskočila jsem a málem si přitom podvrtla ko
 V nově vzniklém průhledu mezi policemi se pak objevila překvapená a viditelně rozpačitá tvář Aarona Collinse.
 
 * * *
-
-  
 
 „Zdravím, Cindy!“
 

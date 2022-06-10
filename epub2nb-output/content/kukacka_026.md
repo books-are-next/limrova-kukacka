@@ -3,8 +3,6 @@ title: Poslední den Pamely Kingové
 contentType: prose
 ---
 
-  
-
 „Je s tím jídlem něco v nepořádku?“ Helenin hlas pronikl až do mého růžového obláčku, který se kolem mě vznášel už od návratu z Aaronova bytu. Myslela jsem na včerejší noc, ale hlavně na dnešní ráno.
 
 „Co?“ Snažila jsem se získat čas na odpověď.
@@ -58,8 +56,6 @@ Bylo k neuvěření, že se to všechno stalo sotva před třemi hodinami. Zad�
 Dotkla jsem se vlastního obličeje, jen abych se ujistila, že mám opravdu tak spokojený výraz, jak jsem si myslela. Byla jsem si jistá – ještě nikdy v životě jsem nebyla tak šťastná.
 
 * * *
-
-  
 
 Nakonec jsem nedopadl tak hrozně. Stačilo Ethanovi důrazně pohrozit smrtí, kdyby chtěl rozlučku se svobodou pojmout ve stylu „Holka v dortu – ráno si stejně nic nebudeš pamatovat“. Překvapil mě. Přišel s návrhem zajet si i s Ianem do Bon Echo. Jako kluci jsme tam jezdívali s tátou naučit se základy lezení. Park ležel necelou stovku mil od Ottawy. A v horách nehrozil dort ani nikdo nahý, kdo by z něj vyskakoval.
 
@@ -146,8 +142,6 @@ V tu chvíli mi došlo, že to není žádná legrace. Vyděsil jsem se.
 „Co je s Pam?!“
 
 * * *
-
-  
 
 Netušila jsem, co si vzít na sebe. Připadalo mi, že Collinsovi neměli potřebu oblékat se jako honorace, ale co když mě vezmou do nějaké drahé restaurace? Naštěstí mi během odpoledne zavolala Aaronova matka. Mám si prý vzít něco neformálního, pohodlného. Takže jsem na sebe hodila rifle, halenku a pro změnu jednu z těch paruk, které jsem dostala od Helen. Když jsem se na sebe dívala do zrcadla, uviděla jsem svůj přiblblý úsměv. Kdy se mi to vlastně stalo? Kdy přesně jsem se na sebe přestala dívat s pocitem ztráty? Od té doby, co se můj život začal točit kolem Aarona, to byla ta odpověď. Pocit viny jsem vytěsnila a ozýval se jen občas, většinou uprostřed noci. Vždy se vplížil do mého pokoje zároveň s tmou. Neměl už takovou sílu jako dřív. Přesto mi pronikal do snů a pokoušel se načrtnout mi budoucnost. A rozhodně k tomu nepoužíval růžovou barvu.
 
@@ -329,8 +323,6 @@ Vykřikla a vrhla se na mě.
 
 * * *
 
-  
-
 „Je Pam v pořádku?“ ptal jsem se už podruhé a tentokrát už téměř hystericky, protože po první otázce jsem se odpovědi nedočkal. Snad za to mohl fakt, že jsem Beverly nedal čas cokoli říct.
 
 „Neboj se. Není zraněná nebo tak něco.“ Povzdychla si. „Hele, nesmíš Trish ublížit, jo? Ona to asi myslela dobře, ale znáš ji…“
@@ -370,8 +362,6 @@ Tázavě zvedl obočí.
 „… Trish bude nejspíš zamčená v ložnici.“
 
 * * *
-
-  
 
 Myslela jsem, že je po mně. Pohled Trish těsně před tím, než se na mě vrhla, mluvil za vše. Hodlala mě rozcupovat na kusy. Nestihla jsem se bát. Ještě pořád jsem na ni byla nakrknutá.
 

@@ -3,8 +3,6 @@ title: "Tváří v\_tvář"
 contentType: prose
 ---
 
-  
-
 Ted odešel asi ve čtyři. Když mě požádal, abych po práci odevzdala klíč od pavilonu na recepci, byla to nejdelší věta, kterou jsem od něj za celý den slyšela. Ve zbývající hodině jsem si vyráběla sadu mozolů pomocí kropicí konve. Nervozitou jsem zlikvidovala několik kytiček, které jsem předtím vlastnoručně zasadila. Posledních pět minut jsem už jen seděla převlečená na lavičce před skleníkem. Smrákalo se.
 
 Konečně se ozvalo zaskřípání štěrku. Vstala jsem. Jestli to se mnou nepraští teď, tak nikdy, blesklo mi hlavou. Cesta vedoucí směrem k hlavní budově se mírně stáčela za pichlavé, dokulata sestříhané keře, takže jsem příchozí uviděla až na poslední chvíli.
@@ -104,8 +102,6 @@ Nervózně jsem se zadívala na čekajícího Aarona a pak na ni.
 Když odjela, obklopila mě tma. Byla jsem za to vděčná. Musela jsem vypadat strašně.
 
 * * *
-
-  
 
 Ze skleníku jsem odjel přímo do kanceláře. Podařilo se mi zabrat se do práce. Vytěsnit truhlíky, konve, snubní prsteny i všechny modrooké dívky. Nakonec jsem se od okolního světa odřízl tak dokonale, že jsem zapomněl i jíst. Nebýt Cindy, umřel bych hlady.
 

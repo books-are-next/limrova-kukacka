@@ -3,8 +3,6 @@ title: Tragédie jako od Shakespeara
 contentType: prose
 ---
 
-  
-
 Pamela byla úplně jinej živočišnej druh. Už jsem si byla úplně jistá. Měla tedy o dost lepší vzdělání než já – moje základka a škola jménem ulice se její Loyolské univerzitě nemohly rovnat –, ale jinak byla úplnej Marťan. Její úvaha na téma _Osudová láska Romea a Julie_ od Williama Shakespeara nestála za nic. Dostala za ni C+. Bylo vážně utrpení ty bláboly opisovat. Psala, že osudová láska, pro kterou by člověk byl ochotný i umřít, je blbost. Doslova.
 
 Zahleděla jsem se z okna. Ti dva milenci z Verony to neměli lehký. Podle toho, co jsem se dočetla, si jejich rodiny šly tvrdě po krku. Jenže stačil jeden ples a nebylo co řešit. Všechno šlo stranou – peníze, rodina, vendeta. Zamilovali se. Kolik času jsem potřebovala já?
@@ -154,8 +152,6 @@ A tak jsem si klekla na zem a nechala ji, aby mi vyráběla další modřiny. 
 Pomalu jsem vydechla. Film mezitím skončil a na zdi zářil žlutý obdélník. Vstala jsem a protáhla se, všechno mě bolelo. Připadala jsem si úplně vyždímaná. Bezradně jsem se rozhlédla. Napadlo mě prohledat její stůl, ale pokud by stála za vraždou Nathana, těžko by si to napsala do kalendáře. Nakonec jsem prostě odešla a potichu za sebou zavřela dveře.
 
 * * *
-
-  
 
 Připadalo mi strašně těžké nevidět ji celý den. Přemýšlel jsem, jak jsem vlastně žil dřív. Tehdy, kdy jsem ji ještě nejezdil zachraňovat před panovačnou matkou. Kdy jsem ji nevozil opilou z večírku nebo kdy jsem ji nezahříval vlastním tělem v úzkém spacáku, aby nenastydla. Nemohl jsem na to přijít. Můj život musel být strašně nudný a… k nepřežití.
 

@@ -3,8 +3,6 @@ title: Pálení mostů
 contentType: prose
 ---
 
-  
-
 Všichni mlčeli. Tý, Á i ten chlápek, co pracoval pro Aarona a jmenoval se George. Všichni se koukali z oken jedoucího auta, i když tam nebylo nic k vidění. Asi mi chtěli dopřát trochu soukromí. Ležela jsem napůl zhroucená s hlavou na Aaronově klíně. Hladil mě a mumlal nesmysly, které se šeptají dětem, když se uprostřed noci vzbudí a bojí se, že pod jejich postelí číhá příšera. Dal mi svůj kapesník. On je přece záchranář. Určitě ho měl u sebe jen proto, aby mi ho mohl půjčit, kdybych se náhodou ocitla sesypaná na zadním sedadle limuzíny.
 
 Nepřemýšlela jsem. Nebylo to potřeba, některé věci člověk prostě ví. Hlavou mi běžela téměř hmatatelná představa, jak sedíme v rozlehlé jídelně u Collinsových, která je vánočně vyzdobená. Dlouhý stůl pokrývá ubrus a ve vzduchu voní cesmíny. Vedle mě sedí Bob a z druhé strany Aaron. Drží mě za ruku, a co chvíli ji políbí. Okolo stolu vidím usměvavé tváře členů jeho rodiny. Všichni jsou slavnostně oblečeni, stejně jako já. Místo v čele vánoční tabule zaujala Janeth, o níž vím, že ji budu milovat jen o maličko míň než vlastní mámu. Vstáváme a pozvedáme skleničky se šampaňským. Ian obejme Beverly, Aaron mi položí ruku kolem pasu. Pronáší přípitek. Celou dobu ale cítím, že něco není v pořádku. Vánoční kouzlo něco kazí. Rozhlížím se a setkávám se s očima Janeth. Sice se usmívá, ale v jejích očích vidím smutek. Pomalu obrací hlavu ke dvěma prázdným židlím. Ke dvěma prázdným sklenkám, prázdným talířům a dvěma sadám příborů, které nikdo nepoužije…
@@ -78,8 +76,6 @@ Bylo mi jasné, že Tý momentálně hlídá v hale a Á nebo někdo další z
 Rozběhla jsem se a držela se v blízkosti zasněžených jabloní, protože zahradu osvětlovaly nové lampy, které sem kluci nechali postavit kvůli bezpečnosti. Dostala jsem se až k rozložitému kaštanu, co stál hned u zdi. Jeho spodní větve byly celkem nízko. Sundala jsem batoh, přehodila ho na druhou stranu a chytila jsem se větve. Snažila jsem se dostat nohy nahoru. Nakonec se mi podařilo zaháknout paty o horní okraj a vytáhnout se do sedu. I přes rukavice mi pěkně mrzly prsty a byla mi zima. Podívala jsem se dolů na svůj ve sněhu oválený ruksak a najednou mi do očí vyhrkly slzy. Jenže na tohle teď nebyl čas. Skočila jsem.
 
 * * *
-
-  
 
 Vyjeli jsme si na projížďku – Stein a já. Pověsil se na mě hned po odjezdu od Kingových. Chvíli jsem ponuře uvažoval, že bych mu pomalu mohl přidávat peníze na benzin, když všude jezdí se mnou.
 

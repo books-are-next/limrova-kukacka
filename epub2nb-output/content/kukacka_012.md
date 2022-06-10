@@ -3,8 +3,6 @@ title: Miláček médií
 contentType: prose
 ---
 
-  
-
 Setkání s novináři se nakonec odehrálo ve vstupní hale sanatoria. Pro doktora Bradleyho to znamenalo reklamu a pro Helen možnost nemuset, cituji, „tu dotěrnou novinářskou pakáž“ zvát do vlastního domu.
 
 „Odpovídej co nejstručněji. Pameliny lékařské záznamy znáš, ale nemusíš zabíhat do detailů. To od tebe ani nikdo nečeká. Buď optimistická a sebevědomá. Pokud tě něco zaskočí, řekneš: ‚To je zajímavá otázka.‘ A já zasáhnu. Bude to krátké. Vědí, že je nesnáším. Víc jak deset minut jim nedám. Hlavně nezmatkuj!“ dodala přísně.
@@ -147,8 +145,6 @@ Helen několikrát zamrkala a pak se odvrátila. Asi ten pocit sdílela se mnou
 
 * * *
 
-  
-
 „Vážně to chcete?“ zeptal se Steven Goldberg, když mi přes stůl přisunul papíry a pero. „Výroba stagnuje už celý roky. A to, co leží neprodaný ve skladech, začíná korodovat.“
 
 Oplatil jsem mu úsměv a podepsal se hned vedle něj. Šlo to dobře. Jeho železárny se topily v dluzích. Když podepisoval smlouvu o prodeji, usmíval se. Bylo to pro něj vysvobození. Rozhodně nepřijde zkrátka.
@@ -184,6 +180,8 @@ Odešel jsem k sobě. Zásilku jsem položil na stůl a vytáhl z lednice piv
 Sedl jsem si a vzal do ruky obálku. Ať už v ní bylo cokoliv, chtěl jsem to překvapení mít za sebou. Že by se Stein chlubil dnešním úlovkem? Občas to dělával. Posílal mi fotky, abych věděl, že je prakticky všude, kam se pohnu. Ze začátku mi to pilo krev, teď už jsem na to kašlal. Nikdy na mě nic nevyšťoural, neměl co.
 
 Uvnitř jsem našel několik fotek. Všechny zachycovaly Pamelu Kingovou. Nechápal jsem, o co jde, dokud mi do oka nepadl jeden zvláštní obrázek. Detail ruky se vztyčeným prostředníčkem. K fotkám byl přiložen krátký dopis.
+
+  
 
 _Velice rád zprostředkovávám komunikaci mezi snoubenci. Tento výmluvný vzkaz Vám posílá Vaše nastávající. Zřejmě to bude reakce na informaci o Vašich stycích s několika slečnami, které jistě nemusím jmenovat. Spolupráci s Vámi si užívám. Zítřejší výtisk dostanete zdarma jako poděkování._
 
@@ -264,8 +262,6 @@ Přemýšlel jsem, kdy mě naposledy někdo donutil chovat se na veřejnosti jak
 
 * * *
 
-  
-
 Večeřely jsme, každá na jednom konci dlouhého stolu. Helen snědla jen předkrm a se sklenicí vína v ruce odešla. Prý má ještě nějakou práci. Ulízaný sluha, o kterém jsem už věděla, že se jmenuje Richard, servíroval jeden chod za druhým. Až na závěr místo objednaného čaje přinesl stříbrný tácek. Ležel na něm dopis.
 
 „Přivezl to kurýr pana Collinse. Je to pro vás, slečno.“
@@ -276,7 +272,11 @@ Hned mi došlo, že mám malér. Bylo jasné, o co půjde.
 
 Rozlepila jsem obálku. Uvnitř jsem našla několik stran nějakého okopírovaného textu. Celou první stranu jsem musela přeskočit, protože obsahovala právnické žvásty, kterým jsem vůbec nerozuměla. Až na té druhé jsem pochopila, že se jedná o součást manželské smlouvy. O co mu šlo? Pak jsem si všimla prosvítající červené barvy na dalším listě. Zvýrazňovačem zaškrtl jednu větu.
 
+  
+
 _„Obě strany se také zavazují, že během manželství neučiní ani neřeknou nic, co by mohlo poškodit dobré jméno jejich protějšku.“_
+
+  
 
 Pak mi do klína vypadla fotka z tiskovky. Nejdřív jsem jen ztěžka polkla. Přemýšlela jsem, jestli mám šanci tuhle zásilku před Helen utajit. Zvedla jsem oči k Richardovi.
 
@@ -284,17 +284,23 @@ Pak mi do klína vypadla fotka z tiskovky. Nejdřív jsem jen ztěžka polkla. 
 
 Usmál se a přinesl mi, co jsem potřebovala. Hypnotizovala jsem prázdnou stránku a nakonec jsem napsala:
 
+  
+
 _Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna…_
+
+  
 
 Usilovně jsem přemýšlela, jak se ty modelky vlastně jmenovaly. Vzpomněla jsem si jen na tu poslední.
 
+  
+
 _… Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky._
+
+  
 
 Přeložila jsem papír a celá rozjařená jsem se zeptala Richarda, jestli by to mohl strčit do nějaké obálky. Až když odešel odevzdat vzkaz kurýrovi, napadlo mě, že jsem to možná zase podělala.
 
 * * *
-
-  
 
 Můj bodyguard George se vrátil z večeře a vyzvedl mě v kanceláři. Zamířili jsme domů. Před rokem jsem koupil tři nejvyšší patra čerstvě dostavěného Chicago Spire, monstrózní, ale zároveň elegantní šroubovice, která se tyčila nad městem. George bydlel v jednom z apartmánů hned pod nejnižším poschodím mého bytu. Navštívil jsem ho tam jen jednou. Do své luxusní rezidence si natahal starý nábytek, který by prý bylo škoda vyhodit. Když jsem mu nabídl, že mu koupím nový – koneckonců byl to služební byt –, odmítl to.
 
@@ -322,7 +328,11 @@ Zvonek. Vrátný mi v interkomu oznámil příchod kurýra. Požádal jsem ho, 
 
 Dal jsem poslíčkovi dalších deset dolarů a poděkoval mu. Když odešel, otevřel jsem malou obálku, kterou mi přivezl.
 
+  
+
 _Mám radost, že ty se o mou pověst staráš tak skvěle. A ještě větší, že ti v tom pomáhá slečna Wakefieldová. Slibuju, že „můj pták“ zůstane v klidu, pokud ten tvůj taky._
+
+  
 
 Ten papír jsem málem poprskal. Výbuch smíchu, který následoval, se nedal vůbec ovládnout. Smál jsem se tak, až mi tekly slzy. Asi bych se měl brát víc vážně, ale její odpověď byla geniální. Když jsem se trochu uklidnil, zadíval jsem se z okna. Nočnímu Chicagu se nevyrovnalo žádné jiné město na světě.
 

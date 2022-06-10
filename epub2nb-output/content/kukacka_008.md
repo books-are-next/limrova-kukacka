@@ -3,8 +3,6 @@ title: Fúze
 contentType: prose
 ---
 
-  
-
 Otevřela jsem oči. A zase je honem zavřela. Páni! Ležela jsem na zádech, pod hlavou měkoučký polštář a na sobě čistou deku. Voňavou. Pomalu jsem rozpažila ruce. Bříška mých prstů přejížděla po hladkém chladivém prostěradle. Paže jsem nechala roztažené a užívala si pocitu prostoru, když ani jedna z nich nedosáhla na kraj postele. Té dokonalé obrovské postele, která byla snad ještě větší než kumbál, v němž jsem poslední měsíce přespávala.
 
 Nahmatala jsem pramen svých vlasů a přičichla k němu. Ucítila jsem jemnou květinovou vůni. Vdechovala jsem ji celé minuty. Kdy mi naposledy takhle voněly vlasy? Poslední roky jsem si je většinou myla tekutým mýdlem ze zásobníků na veřejných záchodcích. V lepším případě v umývárně nějaké restaurace, když se mi podařilo nepozorovaně proklouznout dovnitř.
@@ -42,6 +40,8 @@ Vešla ženská v bílé zástěře, ruce plné tašek. Ne igelitek nebo papír
 „Dobré ráno, slečno Kingová!“ pozdravila mě s úsměvem. Tentokrát jí to jméno nedělalo potíže. „Madam vám posílá nové šaty. Zdá se, že…,“ těkala očima, jako by nemohla najít správná slova, „… se vaše konfekční velikost nějakým záhadným způsobem… zmenšila. Váš starý šatník ještě během dneška necháme… ehm… zlikvidovat. Madam vám zatím nechala koupit pár základních věcí. Později samozřejmě dostanete šaty na míru.“ Zase se usmála. „Až budete hotová, madam vás čeká u snídaně.“ Udělala pukrle a odešla.
 
 Rozhlížela jsem se, jestli v místnosti není někdo další, ale ona opravdu mluvila na mě. Jen co za ní zapadly dveře, vyskočila jsem a vrhla se k taškám. Sem tam jsem našla i něco na normální nošení. Džíny, trička, boty. Objevila jsem taky jednu úplně mrňavou taštičku s nápisem Tiffany & Co. Vytáhla jsem z ní růžovou krabičku. Než jsem ji otevřela, měla jsem našlápnuto na infarkt. Uvnitř ležely jemné zlaté náušnice ve tvaru mořských hvězdic. Uprostřed každé z nich seděl drobný bílý kamínek. Skoro jsem se zadusila. To asi nebude sklíčko. Z tašky vypadla ručně psaná kartička.
+
+  
 
 _Ano, byly velmi drahé. Ano, někdo jako vy by z nich mohl žít několik měsíců. Ale opakujte si, drahá: Osm. Miliard. Dolarů._
 

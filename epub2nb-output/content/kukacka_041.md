@@ -3,8 +3,6 @@ title: Zosobněná zkáza
 contentType: prose
 ---
 
-  
-
 Aaron přijel v devět. Běžela jsem otevřít a vysloužila jsem si za to velmi zamračený pohled Tý. Člověk by málem začal věřit, že by před domem mohla místo novinářů čekat horda teroristů. Táta mu doporučil, aby si šel lehnout. Prý ho vzbudí, až půjde spát.
 
 „Slečno Dobsonová,“ pozdravil mě Aaron mezi dveřmi. Proklouzl dovnitř, jako by se k nám snad chtěl vloupat. Musela jsem se smát.
@@ -135,8 +133,6 @@ Už nic neřekl. Líbal mě. Znovu a znovu. Cesta z kuchyně do pokoje mi ješ
 
 * * *
 
-  
-
 Pro exkluzivní rozhovor jsme si zvolili magazín Glamour. Marie měla s Markem Greenbergem dobré zkušenosti. Byli z naší nabídky tak v šoku, že si telefon mezi sebou pár minut předávali, dokud jsem konečně nedostal přímo Greenberga. Když jsem mu sdělil naši nabídku, ocitl se na pokraji hysterie. Kromě rozhovoru chtěl udělat spoustu fotek pro speciální vydání. Zvukový záznam rozhovoru dostane – samozřejmě až po vydání časopisu – i nejposlouchanější chicagské rádio. Na Marii z toho šly mrákoty.
 
 „Fotky… Rozhovor… Já neumím mluvit s novináři! Pamatuješ, jak to dopadlo minule?“ připomínala mi nezapomenutelnou tiskovou konferenci.
@@ -193,8 +189,6 @@ Usmála se. „Miluju tě. A nejsi starej.“
 
 * * *
 
-  
-
 Dívala jsem se na něj a připitoměle se usmívala. Tenhle chlap si opravdu ze všech těch Kim a Amand vybral zrovna mě? Dostala jsem polibek na špičku nosu.
 
 Pak jsme vylezli ven. Já rudá až na zádech, on naprosto vyrovnaný, s výrazem vrcholového manažera.
@@ -232,8 +226,6 @@ Tiskla jsem si ruku na tvář, která rychle otékala. Brečela jsem jako dítě
 Á zavolal řidiči, aby objel budovu. Byla jsem tak v šoku, že jsem se sotva držela na nohou. Něco uvnitř mě ale bolelo mnohem víc než tvář.
 
 * * *
-
-  
 
 Měl jsem vztek. Tak strašný vztek, že mi to nejspíš sebralo pět let života. A asi víc na sebe než na Trish. Na svou naprostou neschopnost Marii ochránit před tím, co se kolem ní dělo. Zastavit ty proudy tichých, ale o to bolestnějších slz. Její mlčení mi nedávalo šanci to aspoň trochu napravit.
 

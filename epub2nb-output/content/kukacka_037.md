@@ -3,8 +3,6 @@ title: Kancelářské práce
 contentType: prose
 ---
 
-  
-
 První týden jsem nemohla chodit, a tak mi Bob do pokoje pořídil televizi a laptop. Příšerně jsem se nudila. A příšerně jsem hladověla po jakýchkoli informacích o Aaronovi. Ze zoufalství jsem četla i bulvár, který omílal stále dokola skandál bohaté dědičky, ze které se nakonec vyklubala protřelá lhářka. Nejvtipnější byly zaručeně pravdivé zprávy od lidí, kteří se prý pohybují v mé blízkosti a nepřejí si být jmenováni. Čekala jsem už jen na to, kdy na mě někdo práskne, že mám ve sklepě zakopanou mrtvolu. Co na tom, že jsme žádný sklep neměli…
 
 Taky mě moc mrzelo, že jsem nemohla jezdit za mámou. Táta vzal tuhle povinnost na sebe a řekla bych, že rád. Zaznamenala jsem na něm novou vůni a košile, ve které za ní odjížděl do vězení, byla taky úplně nová. Musela jsem se kousat do jazyka, abych nevyzvídala. Stejně jsem tušila, která bije. Máma se na něj během našich telefonátů neustále vyptávala. Bez ohledu na to, že od ní třeba teprve před pár hodinami odešel.
@@ -81,8 +79,6 @@ Ušklíbla jsem se. Po chvíli dumání jsem vzala mobil a zavolala Jane. Šlo 
 
 * * *
 
-  
-
 Pracoval jsem, možná až příliš. Z bytu jsem odjížděl před svítáním a po návratu, když už celé Chicago spalo, jsem se obvykle jen zhroutil do postele. Dhakir Daher byl nadšením bez sebe. Prý to věděl. Vsadil by na mě svou nejvýnosnější ropnou věž, kdyby na to přišlo. Kontrakt jsme podepsali tak rychle, že jsem tomu nemohl uvěřit.
 
 Celé dny jsem trávil v autě s telefonem u ucha. Black Crown se měla postarat o prodej tří čtvrtin celkového objemu ropy, kterou Dhakirovi lidé právě posílali přes Suez. Na tu poslední čtvrtinu jsem odběratele vydupával ze země. Parker mi dal tip na pár senátorů, kteří by mi mohli pomoct protlačit prodloužení kontraktu s armádou.
@@ -132,8 +128,6 @@ Totální.
 Debil.
 
 * * *
-
-  
 
 Seděla jsem na kancelářské židli a na druhé jsem měla položenou zraněnou nohu. Počítač jsem si natočila trochu bokem, abych u něj nemusela sedět zkroucená. Bavilo mě to. Jane se nahromadilo dost restů na to, abych nestíhala přemýšlet sama nad sebou. Na stole se vršila hromada účtů za objednávky do Thorntonu a já je pečlivě jeden po druhém zanášela do počítače. Pustila jsem si YouTube a v rámci možností se vrtěla do rytmu.
 
@@ -196,8 +190,6 @@ Najednou se ozvalo další klepání na dveře. Takové rychlé, letmé. Jako by
 Na prahu stál totálně konsternovaný Aaron.
 
 * * *
-
-  
 
 Marie stála zcela nehybně. Ten chlap se probral jako první.
 

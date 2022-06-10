@@ -3,8 +3,6 @@ title: Marie Dobsonová II\.
 contentType: prose
 ---
 
-  
-
 U Tea jsem se zabydlela docela rychle. Nebylo to nijak těžké – moc jsem toho neměla a ven jsem raději nevycházela ani v noci. Zbytky zdravého rozumu mi nakonec zachránila práce v jeho mrňavém kanclu. Zoufale jsem se snažila, aby mi nezbyl čas ani síla na přemýšlení.
 
 Uplynul skoro týden. Byla jsem zvyklá vstávat brzy a dojít si do kuchyně pro jídlo dřív, než se někdo objeví. Ve skladu potravin jsem našla včerejší pečivo a v lednici mísu naloženého masa, které už za chvíli prskalo na pánvi. Jídlo jsem si pak vzala na bar a pustila televizi. Nemohla jsem si pomoct a den co den jsem sledovala zprávy. Nutně jsem potřebovala vědět, co je s Aaronem. Kromě zmínky o tom, že akcie Collins Industries zaznamenaly mírný pokles, o něm ale nikdy nic neříkali. Na bulvár jsem se dívat neodvážila.
@@ -144,8 +142,6 @@ Zaváhala a požádala mě, ať počkám. Ozvalo se cvaknutí a nějaká optim
 „King,“ ozvalo se konečně.
 
 * * *
-
-  
 
 V doprovodu dvou policistů jsem nastoupila do výtahu. Vtipné bylo, že jeden z nich mě tu nedávno zdravil. Teď byl úplně vedle sebe z toho, že dostal příkaz doprovodit mě na ředitelství. Navíc jsem vypadala dost jinak než posledně. S kšiltovkou a v odrbané bundě. Nenamalovaná.
 

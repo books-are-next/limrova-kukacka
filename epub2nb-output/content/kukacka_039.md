@@ -3,8 +3,6 @@ title: Lov na kukačku
 contentType: prose
 ---
 
-  
-
 Aaron k nám docházel dvakrát týdně. Nikdy nebyl sám. Brával s sebou právníka nebo finančního experta. Lidi tam venku nesměli pochybovat, že jediným důvodem, proč Aaron Collins chodí do našeho domu, jsou miliardy někdejší společnosti King Petroleum. Doufali jsme, že se novináři postupně uklidní, a zdálo se, že to zabírá. Naše ochranka už víc než dva týdny nikoho nesundala ze stromu před mým oknem. Přesto jsem si stále ještě nemohla dovolit jít normálně ven, pokud jsem nechtěla čelit dotěrným otázkám. Stala se ze mě myš, která se krčí ve své díře a schovává se před smečkou hlady zdivočelých kocourů.
 
 Po měsíci se mi noha konečně úplně zahojila. Bylo to přesně ve stejné době, kdy mi kancelářská práce začínala lézt krkem. I když pracovat ve stejné budově, kde sídlila právnická firma, kterou si najala Collins Industries, přinášelo jisté výhody. Aaron se za mnou mohl zastavit a dělal to často. Někdy přinesl oběd, jindy jen nakoukl dovnitř a zeptal se, jak se mám. Bylo to krásný. A zároveň to bylo mučení. Jeho úsměvy, hlas, letmé doteky. Tak blízko, a přesto nedosažitelný. Pokaždé mě na jazyku pálila stejná otázka. Čekala jsem, jestli neudělá nebo neřekne něco víc.
@@ -59,8 +57,6 @@ Pokračoval v jídle. Pokusila jsem se o totéž, i když mi připadalo, že 
 
 * * *
 
-  
-
 Už nějakou dobu jsem měl špatnou náladu a z velké části jsem si za to mohl sám. Marii jsem vídal jen několikrát týdně. Občas jsem využil toho, že měl ke Kingovým cestu Elton Ackerman, a svezl se s ním. Taky jsem jezdíval na neplánované návštěvy právnické kanceláře, která sídlila ve stejné budově jako moje nadace, jen abych se s ní mohl setkat. Bylo nám spolu dobře, ale pokaždé jsem na Marii viděl to téměř zoufalé očekávání. Pořád jsem si říkal, že čím víc času uplyne, tím menší bouři zveřejnění našeho vztahu způsobí. Zároveň mi chyběla. Trápila se a já měl vztek. Dřív jsem si s pozorností médií nelámal hlavu. Dokázal jsem se tomu i zasmát. Teď jsem novináře začínal nenávidět.
 
 Také jsem hledal příležitost, kdy si o Marii promluvit s matkou, protože jsem nechtěl, aby se to dočetla v novinách. První spekulace se už samozřejmě objevily a bylo jen otázkou času, kdy se donesou až k ní. A ona mi to ani trochu neusnadňovala. Kdykoli se řeč stočila k dívce, která si v mé nadaci odpracovávala svůj trest, matka velmi nápadně měnila téma. A tak jsem to znovu a znovu odkládal.
@@ -86,8 +82,6 @@ Vystoupil jsem z auta a spolu s Georgem čekal, až se z minibusu vysouká v
 Trhnul jsem sebou a ruce se mi automaticky sevřely v pěsti. Obrátil jsem se. Zástup pisálků se nechápavě zastavil a zadíval se _špatným_ směrem. Tím směrem, kterým kráčel chlápek v drahém baloňáku. Přímo k ní. Fotil a šklebil se u toho, jako by vyhrál v loterii. A viděl jsem i ji. Jak zbledla a jak pomalu couvá. V očích měla hrůzu.
 
 * * *
-
-  
 
 Říjen se do toho pěkně obul, takže když jsem se zase ocitla na svazích vznikajícího lesoparku, dostala jsem na přivítanou studenou sprchu. Doslova. Čerstvě zasazené stromky a keře procházely zatěžkávací zkouškou. Pokud by pršelo příliš, odplavila by je voda. Ted stál v pršiplášti nahoře na kopci a snažil se je v zemi udržet silou myšlenky. Solidárně jsem zůstala s ním a držela nad ním deštník. Kromě nás venku nikdo nebyl. Všichni se schovávali v první montované budově, která vznikla dole v údolí. Mně se tam pochopitelně nechtělo, neměla jsem chuť čelit všemu tomu zírání.
 
@@ -131,8 +125,6 @@ Nerozhodně jsem se zadívala na hroudy bahna na svých botách.
 
 * * *
 
-  
-
 „Dámy a pánové, velmi se omlouvám za ten incident. Jak je vidět, ne každý má dobré vychování a dokáže pracovat tak profesionálně jako vy. Pojďme raději pokračovat v prohlídce. Snad po jejím skončení nepohrdnete pozváním na večeři. Myslím, že vám to za to zdržení tak trochu dlužím.“
 
 Ždímal jsem ze sebe zdvořilost a okouzlující úsměvy. Dámská část výpravy roztála okamžitě, muži až na té večeři. Rozdával jsem komplimenty a nešetřil penězi. Dokonce jsem jim slíbil prohlídku matčiny zahrady. Dělal jsem všechno možné, dokud jsem si nebyl jistý, že ani jeden z nich nenapíše negativní zprávu. Odjížděli přesvědčeni, že ten mizera, kterého jsem vyrazil, si nic jiného nezasloužil.
@@ -164,8 +156,6 @@ Dotýkal jsem se jí. Jejích vlasů, čela, tváří i krku. Rukama a potom r
 Blázínek. Nikdy jsem nebyl šťastnější. Podržel jsem si její obličej a čekal, dokud neotevře oči a nepodívá se na mě. Toužil jsem, aby poznala ten rozdíl. Přistoupila na mou hru a velmi pozorně si mě prohlížela. Najednou se rozzářila. Ať už to vypadalo jakkoli, našla to.
 
 * * *
-
-  
 
 Usmíval se. V jeho výrazu nebyl ani náznak pochybností a vyzařovala z něj jistota. Byl prostě šťastný. Připomínal mi toho záchranáře z kanadských hor, ale teď to pro mě znamenalo mnohem víc.
 

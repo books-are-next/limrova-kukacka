@@ -3,8 +3,6 @@ title: Svět plný soudců
 contentType: prose
 ---
 
-  
-
 Seděl jsem v autě, ruce položené na volantu a ani trochu se mi nechtělo vystoupit. Dveře garáže se za mnou dávno zavřely. Nalevo ode mě stálo Ethanovo auto, na druhé straně matčin mercedes. Přemýšlel jsem, kdy jsem se naposledy cítil takhle… nervózní. Neměl jsem pochybnosti o tom, co se chystám udělat, ale uměl jsem si představit, jak se na to budou tvářit. Kdo by se jim taky mohl divit?
 
 Zamiloval jsem se mírně řečeno neprakticky. Jestli si někdo zasloužil, aby bulvár cpal jeho fotky na první stránky, byl jsem to já. Výstřední miliardář, který si nabrnkl nezletilou delikventku, jež z něj před pár týdny udělala pitomce před celým národem. Jenže nikdo z nich ji neznal, a to byl ten zásadní problém.
@@ -102,8 +100,6 @@ Přikývl jsem, ale cítil jsem, jak mám najednou sucho v krku. Máma měla na
 „Doufám, že se nepleteš,“ zašeptala. „Snažím se milovat všechny své snachy, ale bůh ví, že někdy je to opravdu těžké.“ Výmluvně se zadívala na zavřené dveře, kterými před chvílí zmizela Trish.
 
 * * *
-
-  
 
 „Takže… tohle je Terrence a tohle Austin,“ představil mi táta dva nové členy naší domácnosti. Dvě hory svalů navlečené v oblecích a s černými brýlemi na nose zabíraly skoro celý prostor kuchyně. Oběma se saka na levém boku výmluvně boulila.
 
@@ -217,8 +213,6 @@ Vyprovodila jsem ji k východu z pavilonu.
 
 * * *
 
-  
-
 V den, kdy se měl konat proces s doktorem, který dělal Marii plastickou operaci, jsem zrušil všechny pracovní schůzky. Chtěl jsem tam být. Věděl jsem, že Marii moje přítomnost povzbudí. Náš vztah jsme ještě oficiálně neoznámili, pokoušeli jsme se oddálit všechno to šílenství. Do budovy soudu dorazila pár minut před začátkem s Bobem a dvěma bodyguardy. Vypadala sklíčeně, ale když mě uviděla, celá se rozzářila.
 
 „Pěkné dopoledne, slečno Dobsonová.“
@@ -319,11 +313,15 @@ Váhala. Zase klopila oči a nervózně si kousala ret.
 
 Když to Marie vyslovila, v první vteřině mě ta informace tak vyděsila, že jsem se jí zdráhal uvěřit. Jenže pak mi došlo, že to do sebe všechno zapadalo.
 
+  
+
 _„Ty to nechápeš. Náš vztah s Helen je… zvláštní. Je těžký dělat si, co chceš, když tvůj život závisí na druhých.“_
 
 _„Vyhrožuje ti? Hrozí ti, že tě vydědí, když ji neposlechneš?“_
 
 _„Tak nějak.“_
+
+  
 
 „Jak vám vyhrožovala?“ přerušil obhájce proud mých neutěšených vzpomínek na náš dávný rozhovor.
 
@@ -347,8 +345,6 @@ Jak jsem si kdy mohl myslet, že jsem lepší člověk než ona?
 
 * * *
 
-  
-
 „Děkuji, slečno. To je vše.“
 
 Nějak jsem se dokázala zvednout a projít soudní síní až na chodbu. Mohutné tělo Á okamžitě vstalo ze židle a vydalo se za mnou.
@@ -371,15 +367,27 @@ Venku jsem se opřela čelem o stěnu. Slyšela jsem volání novinářů, kte�
 
 Museli jsme tam zůstat až do konce projednávání pro případ, že by mě ještě chtěli předvolat. Když soudce vyhlásil přestávku, využil Aaron toho, že na chodbu proudily davy, a přišel za námi. Posadil se na protější lavičku. Díval se na mě. Nakonec vytáhl mobil a upřel na mě významný pohled. Začal psát. Brzy zapípala příchozí zpráva.
 
+  
+
 **Miluju te. Udelam vsechno, abys na to mohla zapomenout. Nici me, ze jsem te s ni nechal. Naznacovala jsi, ze mas potize. Odpust mi to.**
+
+  
 
 Zavrtěla jsem hlavou.
 
+  
+
 **Nic jsi nevedel. Neres to. Miluju te.**
+
+  
 
 Odeslala jsem zprávu a usmála se na něj. Byl tady se mnou a všechno se hned zdálo lepší. Viděla jsem jeho oči. Neklidné, plné emocí. Sklonil se k mobilu.
 
+  
+
 **Dal bych si par facek. Je mi strasne lito, ze jsem na tebe kricel. Jsi uzasna.**
+
+  
 
 Do očí se mi tlačily slzy. Zvedla jsem k němu hlavu a viděla, že vstává. Došel k automatu na vodu a naplnil kelímek. Přinesl mi ho.
 

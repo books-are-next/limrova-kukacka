@@ -3,8 +3,6 @@ title: "Kriminál a\_kostel"
 contentType: prose
 ---
 
-  
-
 Bohužel jsem si to pamatovala. Vzpomínky na uplynulou noc se vynořily přesně ve chvíli, kdy jsem dopoledne otevřela oči. Šílená bolest hlavy mě přinutila připlácnout si polštář na obličej. Patří mi to! Vrhala jsem se na něj jako nějaká…
 
 Vzápětí dorazila vzpomínka na Nathana. Odhodila jsem polštář.
@@ -19,9 +17,13 @@ Starosti spolu s mýdlovou pěnou odplavila horká voda a mně se vrátily my�
 
 Na displeji zářila obálka příchozí zprávy.
 
+  
+
 **Jsi uzasna. Miluju te. Aaron**
 
 **P. S. Pomaha aspirin…**
+
+  
 
 Úžasná? To určitě. Ale stejně jsem se začala spokojeně usmívat. Vrátila jsem se do koupelny a pomocí vatového tampónu z obličeje odstranila poslední zbytky včerejšího flámu. Pocit nevolnosti se mezitím změnil v ukrutný hlad. Nastal čas sejít do jídelny a čelit Helen. Moje nálada rázem klesla k bodu mrazu.
 
@@ -151,8 +153,6 @@ Helen s napjatým výrazem přikývla.
 
 * * *
 
-  
-
 Vzduch uvnitř katedrály svatého Jakuba byl chladný a voněl kadidlem. Svatební agentka Kingových připomínala dirigentku symfonického orchestru. Vykřikovala povely a komandovala přítomné. Přesto ve mně rostl a sílil sváteční pocit. Radost, o které bych donedávna ani nevěřil, že je v takové míře možná. Až se sem za týden znovu postavím, pravděpodobně to nebude stejné. Obklopí nás davy lidí a já se budu těšit jen na to, až konečně zamíříme na letiště.
 
 Ale právě teď? Stála nás tu hrstka. Nikde samozřejmě nevisely květinové ozdoby a nehořely svíce. Dopadalo sem jen venkovní světlo obarvené tisíci sklíček v mozaikových oknech. Měl jsem aspoň spoustu prostoru soustředit se na Pam, která se zavěšená do svého otce právě objevila ve dveřích na druhém konci nekonečné uličky vedoucí mezi kostelními lavicemi. Měla na sobě džíny a tričko. Byla nervózní a vypadala nádherně.
@@ -184,8 +184,6 @@ Potlačil jsem smích.
 Bob ale souhlasil. Na rozdíl od své ženy se totiž zdál být tou nabídkou vysloveně potěšený.
 
 * * *
-
-  
 
 Vlastně bych tam ani nemusela být. S přehledem si vystačili beze mě. Ale to bych přišla o ten zážitek vidět je spolu. Oba úplně uvolněné a v pohodě. Semleli všechno možné – od baseballu přes politiku na Blízkém východě až po televizní seriály. Nestačila jsem se divit. Jen jsem mlčela, usrkávala džus a užívala si to. Nechala jsem se hladit tím všeříkajícím pohledem, který ke mně Aaron každou chvíli vysílal, a s podepřenou hlavou jsem sledovala jeho gesta a mimiku. Byla jsem do něj blázen.
 

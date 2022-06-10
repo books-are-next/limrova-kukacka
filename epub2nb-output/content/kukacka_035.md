@@ -3,8 +3,6 @@ title: Vysušené hovězí
 contentType: prose
 ---
 
-  
-
 Bob zajel na poloprázdné parkoviště. Téměř romanticky působící zámeček ženské věznice v Dwightu stál přímo před námi. Rozhlédla jsem se. Žaludek se mi změnil v kus vyvřeliny a zpotily se mi dlaně. Scenérie jako z pohádky. Až na ty ostnaté dráty. A kamery. A policajty.
 
 „Připravená?“ zeptal se táta.
@@ -68,8 +66,6 @@ Máma se rozzářila a tím jediným úsměvem najednou omládla o patnáct le
 Zpátky k autu jsme se vraceli mlčky. Venku se mezitím rozzářilo slunce. Vítr odfoukal mraky a povedlo se mu to i s tím velkým černým, co mi seděl na srdci. Alespoň pro tuhle chvíli.
 
 * * *
-
-  
 
 „Pane Collinsi, máte tu návštěvu,“ ozvala se Cindy z reproduktoru na mém stole. Další pracovní den. Několikátý v řadě těch, které jsem sám pro sebe nazýval „Nový život“. Vycházel jsem z teorie, že jakmile se něčemu dá název, začne to existovat.
 
@@ -136,8 +132,6 @@ Zprávu o chystaném prodeji King Petroleum jsem do _Chicago Tribune_ odeslal j
 Zavolal jsem Eltonovi a požádal ho, aby dal zatím všechno ostatní k ledu, včetně smlouvy s Daherem. Brzy pro něj totiž budeme mít něco mnohem zajímavějšího. Black Crown se stala prioritou.
 
 * * *
-
-  
 
 Otevřela jsem troubu a zkontrolovala hovězí. Vražedně vonělo a ještě líp vypadalo. Nechápala jsem, proč si Bob poručil uprostřed týdne tak slavnostní oběd. Mimořádně jsem nemusela do práce, protože do skleníku měla přijet nějaká delegace sponzorů. Táta si vzal volno. Říkal, že si uděláme takovou neoficiální neděli.
 
@@ -268,8 +262,6 @@ Překvapeně jsem se podívala na plnou konvici. Nalila jsem kávu do připraven
 Aaron velmi opatrně odcházel a přitom bedlivě sledoval podnos. Přesto maličko rozbryndal.
 
 * * *
-
-  
 
 „S kým tam půjdeš? Vezmeš mě s sebou? Už jsem strašně dlouho nikde nebyla. A dlužíš mi to!“ chrlila na mě ze sluchátka Beverly. Od Kingových jsem se vrátil už před hodinou a od té doby jsem jen seděl na barové židli a pozoroval bublinky v automatu na sodovku.
 

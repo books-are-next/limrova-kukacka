@@ -3,8 +3,6 @@ title: Srub
 contentType: prose
 ---
 
-  
-
 Přidržel mi dveře auta a táhl mě provazy deště po nějaké kamenité cestě. Foukal silný vítr, takže jsem měla oči plné vody a neviděla jsem ani na krok. Když se před námi objevilo schodiště, málem jsem se o něj přerazila. Vzápětí jsme se ocitli pod střechou. No to mě podržte…
 
 „Chata, jo?“ zeptala jsem se naoko nabručeně. Celou dobu jsem se připravovala na kempování a nocování prakticky pod širým nebem, ale tohle jsem opravdu nečekala.
@@ -197,8 +195,6 @@ Těsně předtím, než jsem konečně usnula, jsem si musela přiznat, že ta p
 
 * * *
 
-  
-
 Rozdělal jsem oheň v krbu, takže když vystrčila hlavu ze spacáku a rozespalá na mě zamžourala, bylo už krásně teplo. Stará chata stála uprostřed hustého lesa; sluneční paprsky na ni dosáhnou až někdy k polednímu. Teď ráno byly jediným zdrojem světla plameny.
 
 „Chtěla by ses nasnídat?“ zeptal jsem se jí. Její oči mě doslova hypnotizovaly.
@@ -242,8 +238,6 @@ Nastalo dlouhé ticho. Tázavě jsem se na ni podíval.
 „Nic se nestalo,“ špitla a uhnula pohledem.
 
 * * *
-
-  
 
 Otevřela jsem oči. Všude kolem vládlo ticho. Žádný hukot větru, žádné šumění deště. Vymotala jsem se z deky a potichu u toho nadávala. Do očí mi zasvítilo slunce. Docela mě vyděsil i pohled na hodiny – zdálo se, že jsem prospala půl dne a většinu noci.
 

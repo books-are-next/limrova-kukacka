@@ -3,8 +3,6 @@ title: Tříčtvrteční takt
 contentType: prose
 ---
 
-  
-
 Vstal jsem brzy. Čekalo mě hned několik schůzek a večer jsem ještě musel stihnout banket. Nejdřív jsem si šel ale zaběhat. Když jsem krátce před osmou vylezl ze sprchy, objevil jsem čtyři zmeškané hovory od matky. Nejspíš už četla noviny. Rozhodl jsem se, že jí zavolám až z práce.
 
 Cindy seděla za stolem, a když mě uviděla, věnovala mi zkoumavý pohled. Usmál jsem se na ni a jí se očividně ulevilo. Požádal jsem George, aby na mě počkal. Už za pár minut jsem chtěl vyrazit do právní kanceláře Eltona Ackermana. Než jsem zavřel dveře, slyšel jsem, jak si můj bodyguard nesmělým hlasem objednává kávu.
@@ -36,8 +34,6 @@ Nastalo dlouhé ticho. Štvalo mě to a mrzelo zároveň. S mámou jsme si vž
 Zavěsila a já ještě několik dlouhých vteřin zůstal sedět se sluchátkem u ucha.
 
 * * *
-
-  
 
 Naštvání Helen moc dlouho nevydrželo. Druhý den ráno u snídaně už se mnou mluvila úplně normálně. Navíc měla plnou hlavu večerního banketu a mezi jednotlivými sousty neustále telefonovala. Já se usilovně snažila na dnešní večer raději nemyslet. Celý uplynulý týden za mnou do sanatoria docházel učitel tance. Jeho prvotní optimismus se ale velice rychle vypařil. Původní velkolepý plán, že nacvičíme nějaké číslo Ginger a Freda, se za dva dny scvrkl na plán _nikoho nezabít_.
 
@@ -249,8 +245,6 @@ Přišla další komplikovaná otočka. V pudu sebezáchovy jsem se na něj nal
 
 * * *
 
-  
-
 Nezačala na mě ječet, že jsem idiot nebo nemehlo. Dokonce ani nevypadala rozzlobeně.
 
 Rozhlédl jsem se. Kousek od pódia vedla cesta lemovaná secesními lavičkami.
@@ -306,8 +300,6 @@ Ten nápad přišel úplně nečekaně. Šokoval mě, ale zároveň mi přišel 
 „Omluvte mě, prosím. Musím si něco zařídit, nepočká to.“ Políbil jsem překvapenou Pamelu na tvář. Její výraz byl další věcí, která mě potěšila. A nemohl jsem se dočkat, jak se bude tvářit potom.
 
 * * *
-
-  
 
 „Myslím, že je to rovnej chlap,“ konstatoval Bob po několika minutách mých ponurých vnitřních úvah, kdy jsme vedle sebe jen tak seděli. Překvapeně jsem se na něj podívala.
 
