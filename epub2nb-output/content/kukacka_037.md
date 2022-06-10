@@ -3,13 +3,17 @@ title: Kancelářské práce
 contentType: prose
 ---
 
+<section>
+
 První týden jsem nemohla chodit, a tak mi Bob do pokoje pořídil televizi a laptop. Příšerně jsem se nudila. A příšerně jsem hladověla po jakýchkoli informacích o Aaronovi. Ze zoufalství jsem četla i bulvár, který omílal stále dokola skandál bohaté dědičky, ze které se nakonec vyklubala protřelá lhářka. Nejvtipnější byly zaručeně pravdivé zprávy od lidí, kteří se prý pohybují v mé blízkosti a nepřejí si být jmenováni. Čekala jsem už jen na to, kdy na mě někdo práskne, že mám ve sklepě zakopanou mrtvolu. Co na tom, že jsme žádný sklep neměli…
 
 Taky mě moc mrzelo, že jsem nemohla jezdit za mámou. Táta vzal tuhle povinnost na sebe a řekla bych, že rád. Zaznamenala jsem na něm novou vůni a košile, ve které za ní odjížděl do vězení, byla taky úplně nová. Musela jsem se kousat do jazyka, abych nevyzvídala. Stejně jsem tušila, která bije. Máma se na něj během našich telefonátů neustále vyptávala. Bez ohledu na to, že od ní třeba teprve před pár hodinami odešel.
 
 Aaron zavolal hned následujícího dne. Připomněl mi, kdy mám jít na převaz, a zeptal se, jestli nepotřebuju auto a řidiče. Odmítla jsem to. V médiích jsem pak napjatě sledovala, kde zrovna je a s kým tam je. Nemohla jsem si pomoct. Ukázalo se, že má hodně napilno. Kromě projektu Thornton, kterým se zabýval v podstatě ve volném čase, se naplno obul do nových obchodů. Black Crown už měl prakticky v kapse. Pochybovala jsem, že vůbec chodí spát.
 
-  
+</section>
+
+<section>
 
 Ležela jsem ve svém pokoji a znuděně přepínala televizní kanály. Slyšela jsem, jak dole klaply dveře. Bob se konečně vrátil z práce.
 
@@ -344,3 +348,5 @@ Jestli chci? Věděl jsem jen to, že chci ji. U sebe. Pořád. A pokud tohle 
 „Zní to rozumně,“ odpověděl jsem konečně. Cítil jsem teplo jejích rukou. A doslova jsem se zalykal potřebou zbavit se jakékoli překážky mezi námi. A nešlo jen o ten kancelářský stůl.
 
 Protože jinak se z tebe asi zblázním, dodal jsem v duchu. Ty sny o tobě se mi zdají pořád. Bez ohledu na to, jak velkej vztek někdy mám.
+
+</section>

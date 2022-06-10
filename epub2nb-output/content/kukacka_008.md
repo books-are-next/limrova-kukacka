@@ -3,6 +3,8 @@ title: Fúze
 contentType: prose
 ---
 
+<section>
+
 Otevřela jsem oči. A zase je honem zavřela. Páni! Ležela jsem na zádech, pod hlavou měkoučký polštář a na sobě čistou deku. Voňavou. Pomalu jsem rozpažila ruce. Bříška mých prstů přejížděla po hladkém chladivém prostěradle. Paže jsem nechala roztažené a užívala si pocitu prostoru, když ani jedna z nich nedosáhla na kraj postele. Té dokonalé obrovské postele, která byla snad ještě větší než kumbál, v němž jsem poslední měsíce přespávala.
 
 Nahmatala jsem pramen svých vlasů a přičichla k němu. Ucítila jsem jemnou květinovou vůni. Vdechovala jsem ji celé minuty. Kdy mi naposledy takhle voněly vlasy? Poslední roky jsem si je většinou myla tekutým mýdlem ze zásobníků na veřejných záchodcích. V lepším případě v umývárně nějaké restaurace, když se mi podařilo nepozorovaně proklouznout dovnitř.
@@ -29,7 +31,9 @@ Služka obešla postel a otevřela další dveře. Ucítila jsem vůni nějaké
 
 A koupel… koupel byla dokonalá. Chvíli jsem uvažovala, že v těch horách pěny budu spát. Pak jsem si ale vzpomněla na postel ve vedlejší místnosti.
 
-  
+</section>
+
+<section>
 
 Klepání na dveře. Poplašeně jsem se posadila. Měla jsem pocit, jako bych se sem vloupala. To všechno přece nemohla být pravda.
 
@@ -41,7 +45,9 @@ Vešla ženská v bílé zástěře, ruce plné tašek. Ne igelitek nebo papír
 
 Rozhlížela jsem se, jestli v místnosti není někdo další, ale ona opravdu mluvila na mě. Jen co za ní zapadly dveře, vyskočila jsem a vrhla se k taškám. Sem tam jsem našla i něco na normální nošení. Džíny, trička, boty. Objevila jsem taky jednu úplně mrňavou taštičku s nápisem Tiffany & Co. Vytáhla jsem z ní růžovou krabičku. Než jsem ji otevřela, měla jsem našlápnuto na infarkt. Uvnitř ležely jemné zlaté náušnice ve tvaru mořských hvězdic. Uprostřed každé z nich seděl drobný bílý kamínek. Skoro jsem se zadusila. To asi nebude sklíčko. Z tašky vypadla ručně psaná kartička.
 
-  
+</section>
+
+<section>
 
 _Ano, byly velmi drahé. Ano, někdo jako vy by z nich mohl žít několik měsíců. Ale opakujte si, drahá: Osm. Miliard. Dolarů._
 
@@ -51,7 +57,9 @@ Běžela jsem do koupelny. Když jsem si je nasazovala, klepaly se mi ruce.
 
 „Tak,“ řekla jsem svému odrazu v zrcadle a udělala na sebe jeden z nejpitomějších úsměvů, jaké jsem kdy viděla. „Vítejte v novém světě, slečno Kingová.“
 
-  
+</section>
+
+<section>
 
 O půl hodiny později jsem úplně vyhladovělá vtrhla do jídelny. Oči mi nejspíš zářily víc než ty kamínky v nových náušnicích. Madam už tam seděla. Když ke mně zvedla oči, vylila trochu kafe, které právě držela v ruce. V duchu jsem zaklela. Asi jsem se blbě oblíkla, napadlo mě. Ale ona se vzápětí usmála a konstatovala, že mi to sluší. Těžko se v ní vyznat.
 
@@ -148,3 +156,5 @@ Otočila se. Připadalo mi, že je z nějakého důvodu potěšená.
 Nějakou dobu jsem se dívala na dveře, které se za ní zavřely, a pak jsem se zakousla do bagety.
 
 „Jednadvacet. Páni. Tak já jsem najednou plnoletá. Život je samé překvapení.“
+
+</section>

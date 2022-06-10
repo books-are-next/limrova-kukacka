@@ -3,6 +3,8 @@ title: Pálení mostů
 contentType: prose
 ---
 
+<section>
+
 Všichni mlčeli. Tý, Á i ten chlápek, co pracoval pro Aarona a jmenoval se George. Všichni se koukali z oken jedoucího auta, i když tam nebylo nic k vidění. Asi mi chtěli dopřát trochu soukromí. Ležela jsem napůl zhroucená s hlavou na Aaronově klíně. Hladil mě a mumlal nesmysly, které se šeptají dětem, když se uprostřed noci vzbudí a bojí se, že pod jejich postelí číhá příšera. Dal mi svůj kapesník. On je přece záchranář. Určitě ho měl u sebe jen proto, aby mi ho mohl půjčit, kdybych se náhodou ocitla sesypaná na zadním sedadle limuzíny.
 
 Nepřemýšlela jsem. Nebylo to potřeba, některé věci člověk prostě ví. Hlavou mi běžela téměř hmatatelná představa, jak sedíme v rozlehlé jídelně u Collinsových, která je vánočně vyzdobená. Dlouhý stůl pokrývá ubrus a ve vzduchu voní cesmíny. Vedle mě sedí Bob a z druhé strany Aaron. Drží mě za ruku, a co chvíli ji políbí. Okolo stolu vidím usměvavé tváře členů jeho rodiny. Všichni jsou slavnostně oblečeni, stejně jako já. Místo v čele vánoční tabule zaujala Janeth, o níž vím, že ji budu milovat jen o maličko míň než vlastní mámu. Vstáváme a pozvedáme skleničky se šampaňským. Ian obejme Beverly, Aaron mi položí ruku kolem pasu. Pronáší přípitek. Celou dobu ale cítím, že něco není v pořádku. Vánoční kouzlo něco kazí. Rozhlížím se a setkávám se s očima Janeth. Sice se usmívá, ale v jejích očích vidím smutek. Pomalu obrací hlavu ke dvěma prázdným židlím. Ke dvěma prázdným sklenkám, prázdným talířům a dvěma sadám příborů, které nikdo nepoužije…
@@ -230,3 +232,5 @@ Chvíli mě rentgenoval očima, ale nakonec se mi zřejmě rozhodl věřit. Poda
 „Ten chlap může bejt drsnej…“
 
 „Já jsem taky,“ odpověděl jsem.
+
+</section>

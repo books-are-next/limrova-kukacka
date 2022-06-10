@@ -3,6 +3,8 @@ title: Ekologická lobby
 contentType: prose
 ---
 
+<section>
+
 Tušil jsem, že soudkyně Hammondová bude tvrdý oříšek. Zatímco jsem čekal v zádveří její kanceláře, než se vrátí z předběžného slyšení, zavolal jsem Eltonovi Ackermanovi, abych s ním svůj nápad konzultoval. Moc mě nepotěšil. Říkal, že šance je tak padesát na padesát. Ale Její ctihodnost je prý jediná soudkyně, u které by to mohlo projít.
 
 Objevila se asi za dvacet minut. Když mě uviděla, tázavě zvedla obočí.
@@ -179,7 +181,9 @@ Povzdychla jsem si.
 
 Usmál se a vedl mě k východu.
 
-  
+</section>
+
+<section>
 
 Po večeři jsem si poctivě lehla do postele. Dala jsem si mléko s medem, abych si byla jistá, že rychle usnu, ale nepomohlo to. Po nekonečném převalování jsem zkusila dát polštář na druhou stranu postele. Nic. Následovala snaha domluvit sama sobě pomocí rozumných argumentů. I kdyby soudkyně rozhodla, že nechá můj případ dojít až před Velkou porotu, podle Johna bychom to i tak vyhráli.
 
@@ -350,3 +354,5 @@ Pokusila jsem se o úsměv. Neúspěšně.
 „Nejspíš se ani nesetkáte,“ chlácholil mě Bob. „Na tohle má lidi.“
 
 Nevěřícně jsem se na něj podívala a on jen bezradně pokrčil rameny.
+
+</section>

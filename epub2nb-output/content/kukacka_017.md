@@ -3,6 +3,8 @@ title: Nevinnost sama
 contentType: prose
 ---
 
+<section>
+
 Nemohla jsem se pohnout ani o milimetr. Škubala jsem sebou a doufala, že se ještě nebudu muset úplně vzbudit. Zkusila jsem propnout nohy a ruce, ale byla jsem jako svázaná. Nespokojeně jsem zakňučela. Všechno mě bolelo. Navíc se ozval můj hladový žaludek. Ne, tohle nejspíš nebude dobré ráno.
 
 „Dobré ráno,“ ozvalo se tak blízko, že mě to okamžitě probralo. Znehybněla jsem. Opatrně jsem otevřela oči. Pár centimetrů ode mě se usmívaly rty Aarona Collinse a hned nad nimi zářily jeho zelené oči. Dokonce jsem cítila šimrání jeho vousů na tváři. Okamžitě jsem byla vzhůru.
@@ -314,3 +316,5 @@ Klopýtala jsem po schodech ke dveřím a toužila jen po tom, abych se mohla z
 Na chvíli jsem zavřela oči. Občas to pomáhalo. Když mi v životě bylo nejhůř, snažila jsem se předstírat, že jsem někde jinde. Teď jsem myslela na Aarona, jenže místo úlevy se dostavila jen vlna výčitek svědomí. Všechno, co se mezi námi dělo, byla lež. Nakonec jsem si musela důrazně připomenout, že Aaron ten obchod potřebuje a že mu kromě ztracených iluzí nehrozí žádná ztráta.
 
 Skoro jsem tomu i věřila.
+
+</section>

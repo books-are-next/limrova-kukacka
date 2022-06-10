@@ -3,6 +3,8 @@ title: "Kriminál a\_kostel"
 contentType: prose
 ---
 
+<section>
+
 Bohužel jsem si to pamatovala. Vzpomínky na uplynulou noc se vynořily přesně ve chvíli, kdy jsem dopoledne otevřela oči. Šílená bolest hlavy mě přinutila připlácnout si polštář na obličej. Patří mi to! Vrhala jsem se na něj jako nějaká…
 
 Vzápětí dorazila vzpomínka na Nathana. Odhodila jsem polštář.
@@ -17,13 +19,17 @@ Starosti spolu s mýdlovou pěnou odplavila horká voda a mně se vrátily my�
 
 Na displeji zářila obálka příchozí zprávy.
 
-  
+</section>
+
+<section>
 
 **Jsi uzasna. Miluju te. Aaron**
 
 **P. S. Pomaha aspirin…**
 
-  
+</section>
+
+<section>
 
 Úžasná? To určitě. Ale stejně jsem se začala spokojeně usmívat. Vrátila jsem se do koupelny a pomocí vatového tampónu z obličeje odstranila poslední zbytky včerejšího flámu. Pocit nevolnosti se mezitím změnil v ukrutný hlad. Nastal čas sejít do jídelny a čelit Helen. Moje nálada rázem klesla k bodu mrazu.
 
@@ -121,7 +127,9 @@ _Starý přítel_
 
 Tu kytku jsem odhodila, jako by byla jedovatá. Vypotácela jsem se z jídelny. Než jsme s Helen vyrazily na zkoušku šatů, zavřela jsem se v koupelně.
 
-  
+</section>
+
+<section>
 
 Po celou dobu návštěvy salonu jsem byla mimo. Strach z budoucnosti měl účinky velké kostky ledu v břiše, která se ne a ne rozpustit. Nevnímala jsem, co se kolem děje. Kam mě postavili, tam jsem zůstala. Když mi to přikázali, zvedla jsem ruce. Na povel jsem se otáčela.
 
@@ -264,3 +272,5 @@ Nestihla jsem se ani začít divit, protože se jeho rty přesunuly na mou tvá�
 „Ale ono se to stane,“ ujišťoval mě. „Dohlédnu na to.“
 
 Strčila jsem si svůj trochu studený nos pod klopu jeho kabátu. Bylo mi neskutečně krásně.
+
+</section>

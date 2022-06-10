@@ -3,6 +3,8 @@ title: "Tváří v\_tvář"
 contentType: prose
 ---
 
+<section>
+
 Ted odešel asi ve čtyři. Když mě požádal, abych po práci odevzdala klíč od pavilonu na recepci, byla to nejdelší věta, kterou jsem od něj za celý den slyšela. Ve zbývající hodině jsem si vyráběla sadu mozolů pomocí kropicí konve. Nervozitou jsem zlikvidovala několik kytiček, které jsem předtím vlastnoručně zasadila. Posledních pět minut jsem už jen seděla převlečená na lavičce před skleníkem. Smrákalo se.
 
 Konečně se ozvalo zaskřípání štěrku. Vstala jsem. Jestli to se mnou nepraští teď, tak nikdy, blesklo mi hlavou. Cesta vedoucí směrem k hlavní budově se mírně stáčela za pichlavé, dokulata sestříhané keře, takže jsem příchozí uviděla až na poslední chvíli.
@@ -174,3 +176,5 @@ Navzdory tmě a bez ohledu na to, co se mezi námi právě stalo, rozpačitě k
 Němě přikývla a setřela si rukama slzy. Znovu jsem si uvědomil, co všechno mohlo být, ale nebude. Co jsme měli v tom starém životě, který skončil. Bolelo to až na dřeň. Ale tentokrát bylo něco jinak. Tentokrát jsem necítil hněv.
 
 Vraceli jsme se k autu. Než dorazila Beverly, aby Marii odvezla domů, prostě jsme stáli a povídali si. Většinou o nedůležitých banalitách. Ten svíravý tlak nevyslovených výčitek byl pryč. Kdybychom se zítra někde potkali, klidně a bez skřípání zubů bych ji mohl pozdravit. Nebo třeba pozvat na oběd. Protože mi vždycky bude blízká.
+
+</section>

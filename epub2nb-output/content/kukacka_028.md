@@ -3,6 +3,8 @@ title: Kánoe
 contentType: prose
 ---
 
+<section>
+
 Nic. Vůbec. Absolutně nic. Jako by mě ze všech stran obklopila zvukotěsná a vzduchoprázdná bublina.
 
 Často jsem přemýšlel, jak je lidem, které jednoho dne potká _ten_ telefonát. „Je nám to líto, ale váš manžel… Dělali jsme, co jsme mohli… Vaši dceru našli…“ Ian měl tuhle zkušenost z druhé strany. Jako psycholog vypomáhal v nemocnici Chicagské univerzity. Občas jsme o tom mluvili. Spousta lidí si vyslechne špatnou zprávu, zeptá se na nějaké doplňující detaily, pak se rozloučí a odejde, aniž by začali plakat nebo křičet. Složí se až doma nebo cestou autobusem. Doba, kterou mozek potřebuje, aby tu věc přijal jako fakt, se u kaž­dého liší. U někoho jsou to vteřiny, u jiných týdny.
@@ -238,3 +240,5 @@ Ozval se tichý smích. „Ale jasně, přítel. Vždycky Burdž Al Arab. Hodně
 „Zítra?“ nadhodil jsem s nadějí. Kolik to mohlo být mil? Sedm tisíc? Bude to dost daleko od Chicaga? Dost daleko od ní?
 
 Rozesmál se. „Dobře, Aaron. Dům v Abu Dhabi je pro tebe. Napiš, kdy ty doletíš. Někdo na tebe počká.“
+
+</section>

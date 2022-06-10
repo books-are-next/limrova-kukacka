@@ -3,6 +3,8 @@ title: Srub
 contentType: prose
 ---
 
+<section>
+
 Přidržel mi dveře auta a táhl mě provazy deště po nějaké kamenité cestě. Foukal silný vítr, takže jsem měla oči plné vody a neviděla jsem ani na krok. Když se před námi objevilo schodiště, málem jsem se o něj přerazila. Vzápětí jsme se ocitli pod střechou. No to mě podržte…
 
 „Chata, jo?“ zeptala jsem se naoko nabručeně. Celou dobu jsem se připravovala na kempování a nocování prakticky pod širým nebem, ale tohle jsem opravdu nečekala.
@@ -87,7 +89,9 @@ Takže Aaronova rodina. Hlavou mi blesklo, že pokud se vezmeme, stanu se její 
 
 Dala jsem si horkou sprchu a celou dobu přemýšlela nad tím, co má Aaron vlastně v plánu. Jeho doporučení, abych byla sama sebou a užila si to, se vzájemně vylučovala. Byla jsem tak nervózní, že o nějakém užívání si nemohla být ani řeč. Nervózně jsem si připomínala, jak usilovně Aaron přesvědčoval Ethana, že jsem… v pohodě.
 
-  
+</section>
+
+<section>
 
 O půl hodiny později jsem vešla do rozlehlé kuchyně. Žádný přepych, ale všechno vypadalo pěkně. Na stole stál hrnek s kouřícím čajem, talíř lívanců a javorový sirup. Aaron na mě čekal. Zatímco jsem byla ve sprše, převlékl se. Teď měl na sobě sportovní rolák a manšestráky. Vypadal ještě drsněji než obvykle. Jako by patřil víc sem než do kanceláře. Slušelo mu to. Sedla jsem si a nerozhodně pozorovala voňavé jídlo. Můj žaludek se ozýval tak hlasitě, že to muselo být slyšet.
 
@@ -308,3 +312,5 @@ Neodpovídal. Zkameněl. Nedělo se vůbec nic. Slyšela jsem jen, jak les za ok
 A skončilo to jako lusknutím prstů.
 
 „Asi… vyrazíme,“ vypravil ze sebe jako někdo, kdo se právě probudil a ještě se úplně neorientuje v čase a v prostoru. Dokázala jsem jen přikývnout.
+
+</section>

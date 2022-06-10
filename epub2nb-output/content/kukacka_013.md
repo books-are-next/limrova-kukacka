@@ -3,6 +3,8 @@ title: Tříčtvrteční takt
 contentType: prose
 ---
 
+<section>
+
 Vstal jsem brzy. Čekalo mě hned několik schůzek a večer jsem ještě musel stihnout banket. Nejdřív jsem si šel ale zaběhat. Když jsem krátce před osmou vylezl ze sprchy, objevil jsem čtyři zmeškané hovory od matky. Nejspíš už četla noviny. Rozhodl jsem se, že jí zavolám až z práce.
 
 Cindy seděla za stolem, a když mě uviděla, věnovala mi zkoumavý pohled. Usmál jsem se na ni a jí se očividně ulevilo. Požádal jsem George, aby na mě počkal. Už za pár minut jsem chtěl vyrazit do právní kanceláře Eltona Ackermana. Než jsem zavřel dveře, slyšel jsem, jak si můj bodyguard nesmělým hlasem objednává kávu.
@@ -137,7 +139,9 @@ Helen neodpověděla. Odešla a práskla za sebou dveřmi.
 
 „Do prdele!“ zaklela jsem. Ale vůbec mi to nepomohlo.
 
-  
+</section>
+
+<section>
 
 Vyhádala jsem si boty na hodně nízkém podpatku. Helen asi pochopila, že tak vysokou pojistku, aby se vyplatilo nechat mě zlomit si vaz, Pamela nemá. Už oblečená a s prvotřídní parukou z opravdových vlasů jsem se ve svém pokoji pokoušela opakovat si základní kroky. Zezdola ke mně doléhaly tlumené zvuky hudby. Neustále jsem se vracela k velkému zrcadlu na dveřích šatny.
 
@@ -157,7 +161,9 @@ V tu chvíli jsem pochopila, že se opravdu bojí.
 
 „Líp to ani nejde,“ odpověděla jsem a usmála se na ni. Měla nárok být trochu nervózní. Mohla přijít o osm miliard. Všechno záviselo na zlodějce s dost pochybným vychováním.
 
-  
+</section>
+
+<section>
 
 Francouzská okna v jídelně byla otevřená dokořán. Zahradu za nimi ozařovaly od domu až ke břehu jezera desítky lampiónů a žárovek. Venku vyrostl zbrusu nový bar, taneční parket a orchestřiště. Stoly se prohýbaly pod tunami jídla a vzduchem se linula exotická směs vůní ze všech těch parfémů, nápojů a jídel. Na moment se mi ulevilo, protože mě napadlo; že se v tom davu lidí docela snadno ztratím. Ovšem jen do chvíle, než se ozvala fanfára a nějaký chlápek ve smokingu oznámil do mikrofonu mé jméno. Všech tři sta lidí se otočilo ke vchodu do jídelny, kde jsem se proměnila v solný polonahý sloup. Začali mi tleskat. Když si tím mořem lidí začala prorážet cestu široká ramena Aarona Collinse, vlastně se mi ulevilo. On vypadal, že mi dokáže bez problémů kohokoli udržet od těla. Aby mě mohl zakousnout sám…
 
@@ -335,7 +341,9 @@ Přikývla jsem. „To zní dobře.“
 
 Potom už jsme jen seděli, společně pozorovali cvrkot a mě ani na chvíli nenapadlo, že bych se od něj měla držet dál.
 
-  
+</section>
+
+<section>
 
 Ten mejdan nakonec vůbec nedopadl špatně. Zvládla jsem ještě jeden tanec s nějakým nadraným frajerem, který mi neustále říkal „bejby“ a motal se dost na to, abych naše vypadávání z rytmu a vrážení do okolních párů mohla svést na něj. Taktika úsměvů a mlčení se vyplatila. Když mě někdo oslovil, bylo to jen na téma _vypadáš skvěle_ a _zastav se někdy_.
 
@@ -352,3 +360,5 @@ Helen se objevila kolem půlnoci. Celé dvě hodiny jsme stály u vchodových d
 „Dobrá práce,“ řekla mi Helen, ještě než šla spát. Jak pomalu stoupala do schodů, vyplázla jsem na ni jazyk. Byla otočená zády, takže to nemohla vidět.
 
 Najednou jsem v té rozlehlé hale plné cigaretových nedopalků, šmouh od lakýrek a kdovíčeho ještě stála sama. Vyčerpaně jsem se svalila do nejbližšího křesla. Neuměla jsem si představit, že bych dokázala vyšplhat schody do patra. Na moment se ještě objevily dvě holky vypůjčené – stejně jako ostatní večírkový personál – z hotelu Four Seasons a hledaly odložené nádobí. Potom už nastalo úplné ticho. Blaženě jsem skopla lodičky. Přehodila jsem si nohy přes opěrku křesla a usnula jsem.
+
+</section>

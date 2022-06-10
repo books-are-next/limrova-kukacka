@@ -3,6 +3,8 @@ title: Skleníkový efekt
 contentType: prose
 ---
 
+<section>
+
 Záležitost s krádežemi v divadle se dohrála už beze mě. John připravil návrh velmi štědrého finančního vyrovnání a právník zastupující poškozenou stranu jen beze slova vytáhl pero. Chicagskému divadlu se zřejmě hodily víc peníze než spravedlivý trest pro zloděje. Bobovi to muselo úplně vyprázdnit bankovní konta.
 
 Skutečná bomba ale nastala den poté. Poslíček přinesl obálku z advokátní kanceláře Dancey & Cassady. Zrovna jsme obědvali můj pokus o lasagne. Ozval se zvonek a táta se vrátil s dopisem v ruce. Sedl si, otevřel obálku a z obličeje mu vyprchala veškerá barva.
@@ -33,7 +35,9 @@ Podíval se na mě, jako bych neměla všech pět pohromadě.
 
 „Půjdu na ryby,“ konstatoval Bob a odešel. Celý následující týden pak seděl na telefonu nebo zíral do zdi. Těch nul bylo moc i na někoho s takovými nervy, jako měl on.
 
-  
+</section>
+
+<section>
 
 Když nastal čas splácet dluh společnosti, skoro se mi ulevilo. Alespoň jsem měla důvod jít ven. Na cestu do nadace jsem si vzala taxík. Novináři čekali před naším domem a podezřele připomínali roj divokých včel. Mohla jsem jen doufat, že je to časem prostě přejde.
 
@@ -274,3 +278,5 @@ Nespokojeně něco zamumlala.
 „Jsi úžasná. Děkuju.“ Konečně jsem ze sebe vyždímal trochu laskavosti.
 
 „To jsem,“ souhlasila a zdálo se mi, že tentokrát se i usmála.
+
+</section>

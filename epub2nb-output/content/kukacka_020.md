@@ -3,6 +3,8 @@ title: Přiznání
 contentType: prose
 ---
 
+<section>
+
 Ty dvě hodiny bez Pam… jsem prostě nějak strávil. Pravděpodobně jsem zajel do kanceláře a zcela jistě jsem se byl doma převléknout, protože před rezidencí Kingových jsem stál v úplně jiných kalhotách a košili. Má dnešní pracovní morálka byla naprosto nulová. Nebýt Cindy, která mě chválila za to, že jsem si konečně jednou dopřál volnější den, musel bych se cítit provinile. Takhle jsem si jen dál užíval kombinaci úžasu, radosti a nepojmenovatelné nedočkavosti. Nepojmenovatelné do chvíle, kdy se Pam objevila ve dveřích.
 
 „Moc ti to sluší.“
@@ -200,3 +202,5 @@ Culila se.
 Podívala se na ruku s prstenem. S tím prstenem, který najednou znamenal úplně všechno.
 
 „To bude dobrý. Mám tohle, víš?“
+
+</section>

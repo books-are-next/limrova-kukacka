@@ -3,6 +3,8 @@ title: Setkání
 contentType: prose
 ---
 
+<section>
+
 Nastal _ten_ den. Vzbudila jsem se v šest ráno, zpocená a roztřesená. Potřebovala jsem dlouhou horkou sprchu. Nakonec jsem ale skončila na zemi, zabalená v huňatém županu. S hlavou mezi koleny jsem se snažila zachránit zbytky zdravého rozumu.
 
 Celý měsíc jsem se na něj připravovala. Přečetla jsem všechno, co o něm kdo napsal. V mém pokoji neustále běžel ekonomický kanál pro případ, že by se o Collinsovi mluvilo. Viděla jsem několik záběrů z tiskovek. Ale čím víc jsem toho o něm věděla, tím míň připravená jsem si připadala. Působil naprosto sebejistě, vždy řekl přesně to, co potřeboval říct. Poradil si i s otravnými novináři. Jeho „Bez komentáře“ neznělo zbaběle, ale jako výhrůžka.
@@ -318,3 +320,5 @@ Jenže ona se zase usmála. Vypadala spokojeně.
 Vzala za kliku. Pak se ohlédla přes rameno.
 
 „Samozřejmě ti to prošlo jen proto, že jsem proti tvému návrhu ve skutečnosti nic neměla. Hrajeme podle mých pravidel. Pamatuj si to.“
+
+</section>

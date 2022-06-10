@@ -3,6 +3,8 @@ title: Škody po bouřce
 contentType: prose
 ---
 
+<section>
+
 Poručíka Jeffersona jsem neviděla už několik měsíců. On mě s tímhle obličejem ještě nikdy. Když jsem s policejním doprovodem odjela výtahem o pár pater níž a on mě přebral do své „péče“, byl pěkně nervózní. Měl před sebou holku, kterou v podstatě dobře znal. Spoustu protokolů v mé složce totiž sám sepsal. Jenže ta holka měla tvář dcery jeho šéfa.
 
 „Kdybych si já nechal udělat plastiku, vybral bych si něco míň nápadnýho.“
@@ -352,3 +354,5 @@ S úzkostí jsem se podívala na Johna.
 „Modřiny od vašeho stisku na mém zápěstí ukazují, že to zase tak snadné nebude, slečno Dobsonová,“ odpověděl, teď už úplně vážně. „To nejtěžší vás totiž teprve čeká. Až bude po všem, podají si vás novináři,“ dodal.
 
 Měl pravdu. Už teď kempovali před naším domem ve dne v noci. Ale to mi momentálně starosti nedělalo. Přemýšlela jsem o tom, co jsem před chvílí viděla v očích Aarona Collinse.
+
+</section>

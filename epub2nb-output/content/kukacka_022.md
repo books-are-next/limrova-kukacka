@@ -3,6 +3,8 @@ title: "Pan Parker a\_pan Soto"
 contentType: prose
 ---
 
+<section>
+
 Aaron se objevil přesně včas, jak bylo jeho zvykem. Čekal na nás v hale a vypadal úplně neuvěřitelně. Z fleku bych mu založila fanklub a stala se jeho předsedkyní.
 
 „Jsi překrásná,“ zašeptal mi do ucha hned po nekonečně dlouhém polibku na přivítanou. Helen nechal přešlapovat u dveří. „A ty šaty,“ zapředl uznale, když mě přejel pohledem.
@@ -348,3 +350,5 @@ Uculila se a přimhouřila oči.
 „Takže dnes poprvé. Miluju vás, pane Aarone Collinsi.“
 
 Pohladil jsem ji a ona blaženě zavřela oči. Nejspíš už ani neslyšela mé: „Já tebe taky.“ Okamžitě usnula.
+
+</section>

@@ -3,6 +3,8 @@ title: Únos
 contentType: prose
 ---
 
+<section>
+
 Vrátil jsem se domů a po telefonu nahrál vzkaz pro Cindy. Požádal jsem ji, aby hned ráno dala vědět Georgeovi, že budu tři dny pryč. Kdybych v tuhle hodinu volal jemu, vzbudil bych ho, a to jsem nechtěl. Spával se zapnutým mobilem a odjištěnou pistolí.
 
 Bleskově jsem si sbalil pár nejnutnějších věcí. Uvědomil jsem si, že se těším. Na Kanadu. Na rozlousknutí té záhady. Na to, co o Pamele zjistím, až ji vytrhnu z civilizace. Nenapadal mě dokonalejší způsob, jak odhalit, co skrývá. Ta holka do toho ale stejně nepůjde, mírnil jsem v duchu své nadšení. Co by taky dělala uprostřed divočiny? Navíc se mnou. Ještě před půlrokem vážně řešila, jestli se našeho svatebního obřadu musí přímo účastnit.
@@ -360,3 +362,5 @@ Nedokončil to. Ani nemusel. V jeho výrazu teď byla jasně patrná hrozba a 
 Úsměv číslo tři – nebezpečný hravý žralok.
 
 „Na život v divočině.“
+
+</section>

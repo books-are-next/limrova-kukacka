@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "limrova-kukacka-8b4ba33",
-  "revision": "8b4ba33",
+  "identifier": "limrova-kukacka-b0c9817",
+  "revision": "b0c9817",
   "readingOrder": [
     "promo.html",
     "kukacka_005.html",
@@ -56,8 +56,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870675989
+    "date": "Fri Jun 10 2022 17:51:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883519606
   },
   "documents": [
     {
@@ -75,9 +75,9 @@
     {
       "title": "Kukačka",
       "file": "kukacka_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 3,
+      "chars": 23,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -895,9 +895,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 742,
-      "ideas": 15,
+      "words": 86,
+      "chars": 579,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "kukacka_045.html",
@@ -915,14 +915,14 @@
   ],
   "totals": {
     "all": {
-      "words": 117573,
-      "chars": 692025,
-      "ideas": 5278
+      "words": 117546,
+      "chars": 691885,
+      "ideas": 5271
     },
     "chapters": {
-      "words": 117452,
-      "chars": 691249,
-      "ideas": 5259
+      "words": 117455,
+      "chars": 691272,
+      "ideas": 5260
     }
   }
 }

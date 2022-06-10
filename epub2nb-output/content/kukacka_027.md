@@ -3,11 +3,15 @@ title: Sedmilhářka
 contentType: prose
 ---
 
+<section>
+
 Příliš často se mi nestávalo, abych ráno otevřela oči a okamžitě věděla, že ten den bude všechno úplně parádní. Dnes ano. Hodiny ukazovaly, že ještě nebylo devět. Venku nádherně svítilo slunce, jako by ho Helen objednala jen jako další z milionu svatebních rekvizit.
 
 Vyskočila jsem z postele a otevřela okno dokořán. Dlouho tak ale nezůstalo, protože jsem málem umrzla. Zase jsem ho rychle zavřela a vrhla se zpátky do peřin. Sáhla jsem po mobilu.
 
-  
+</section>
+
+<section>
 
 **Nedockavy. Extremne neutisitelne netrpelivy.**
 
@@ -15,15 +19,21 @@ Vyskočila jsem z postele a otevřela okno dokořán. Dlouho tak ale nezůstal
 
 **P. S. Nacvicujes novy podpis?**
 
-  
+</section>
+
+<section>
 
 Přetáhla jsem si deku přes hlavu a i s telefonem se zavrtala co nejhlouběji.
 
-  
+</section>
+
+<section>
 
 **Mas me na svedomi. Budou si myslet, ze jsem blazen. Usmivam se i pri vzpomince na Trish! Ty nejsi sileny, to ja. Miluju te. Pamela P. S. Podpis mam davno nacviceny. Delavam to v noci, kdyz nemuzu usnout.**
 
-  
+</section>
+
+<section>
 
 Sotva jsem zprávu odeslala, do mého pokoje vtrhla hromada lidí. Vesměs úplně cizích. Všichni se usmívali a volali: „Dobré ráno, slečno Kingová!“ S očima navrch hlavy jsem přikývla a potom už jen sledovala, jak se rozprchli do všech koutů místnosti. Nějaká žena přitáhla pět prázdných kufrů, jiná otevřela šatnu dokořán a vynášela z ní kupičky pečlivě složeného prádla – mou zbrusu novou výbavu.
 
@@ -328,3 +338,5 @@ Uviděla jsem ho. Tak bledého a ztuhlého, že by si ho v tom šeru mohli spl
 Všechno ve mně řvalo: „Pros ho za odpuštění! Zopakuj mu, že ho miluješ!“ Ale nešlo to. Bylo to jako v nočních můrách, kdy se člověk snaží volat o pomoc, ale nevydá jedinou hlásku.
 
 A on odešel. Úplně beze slova. Prošel kolem mě tou dlouhou chodbou, která vedla ven z kostela.
+
+</section>
