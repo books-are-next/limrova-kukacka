@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "limrova-kukacka-7b5103f",
-  "revision": "7b5103f",
+  "identifier": "limrova-kukacka-3ec0593",
+  "revision": "3ec0593",
   "readingOrder": [
     "promo.html",
     "kukacka_005.html",
@@ -53,11 +53,11 @@
     "kukacka_043.html",
     "kukacka_044.html",
     "kukacka_045.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:13:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979195897
+    "date": "Thu Jul 07 2022 08:33:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182780354
   },
   "documents": [
     {
@@ -466,7 +466,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Tragédie jako od Shakespeara",
+          "name": "Tragédie jako od Shakespeara",
           "id": null,
           "children": []
         }
@@ -606,7 +606,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Škody po bouřce",
+          "name": "Škody po bouřce",
           "id": null,
           "children": []
         }
@@ -766,7 +766,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lov na kukačku",
+          "name": "Lov na kukačku",
           "id": null,
           "children": []
         }
@@ -881,7 +881,7 @@
       "role": "chapter",
       "order": 41,
       "prev": "kukacka_044.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -894,11 +894,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 849,
+      "chars": 848,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kukacka_045.html",
       "next": null,
@@ -916,7 +916,7 @@
   "totals": {
     "all": {
       "words": 117590,
-      "chars": 692155,
+      "chars": 692154,
       "ideas": 5279
     },
     "chapters": {

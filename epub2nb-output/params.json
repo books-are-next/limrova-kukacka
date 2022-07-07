@@ -64,7 +64,7 @@
             "filename": "kukacka_003.md",
             "xhtml": "kukacka_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "kukacka_004.md",
             "xhtml": "kukacka_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -621,7 +621,7 @@
             "filename": "kukacka_046.md",
             "xhtml": "kukacka_046.xhtml",
             "id": 45,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -990,6 +990,6 @@
       "user": "books-are-next",
       "repo": "limrova-kukacka"
     },
-    "generatedAt": 1655979022750
+    "generatedAt": 1657182135877
   }
 }
