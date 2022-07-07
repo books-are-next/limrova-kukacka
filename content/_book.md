@@ -56,7 +56,7 @@ readingOrder:
   - kukacka_043.html
   - kukacka_044.html
   - kukacka_045.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
