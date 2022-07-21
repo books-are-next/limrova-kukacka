@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "limrova-kukacka-05fb17e",
-  "revision": "05fb17e",
+  "identifier": "limrova-kukacka-9ebcf6b",
+  "revision": "9ebcf6b",
   "readingOrder": [
     "promo.html",
     "kukacka_005.html",
@@ -56,8 +56,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:02:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188159339
+    "date": "Thu Jul 21 2022 14:37:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414238930
   },
   "documents": [
     {
@@ -896,7 +896,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 130,
-      "chars": 848,
+      "chars": 849,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -916,7 +916,7 @@
   "totals": {
     "all": {
       "words": 117590,
-      "chars": 692154,
+      "chars": 692155,
       "ideas": 5279
     },
     "chapters": {
