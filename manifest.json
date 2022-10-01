@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "limrova-kukacka-f43d02d",
-  "revision": "f43d02d",
+  "identifier": "limrova-kukacka-6e24318",
+  "revision": "6e24318",
   "readingOrder": [
     "promo.html",
     "kukacka_005.html",
@@ -56,8 +56,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:28:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486899096
+    "date": "Sat Oct 01 2022 15:59:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639942562
   },
   "documents": [
     {
