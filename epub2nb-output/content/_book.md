@@ -13,6 +13,7 @@ meta:
   modified: '2021-03-18T00:00:00.000Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2818-2
 readingOrder:
   - promo.html
   - kukacka_005.html
